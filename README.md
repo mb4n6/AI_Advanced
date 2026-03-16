@@ -79,7 +79,7 @@ The dataset is **fully synthetic** and does **not contain real investigative or 
 
 | File | Description |
 |-----|-------------|
-| `polizei_testdatensatz_v3_1200faelle.csv` | Synthetic dataset containing 1200 investigation cases |
+| `polizei_testdatensatz_v4_1200faelle.csv` | Synthetic dataset containing 1200 investigation cases |
 
 ⸻
 
