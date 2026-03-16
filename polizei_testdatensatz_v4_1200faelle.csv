@@ -1,0 +1,1201 @@
+case_id,deliktart,tatmittel,tatort_stadt,tatort_urban,tatzeit,tatzeit_nacht,geraet_typ,mobilfunk_provider,cell_id,ip_adresse,schadenshoehe_eur,anzahl_verdaechtige,vorstrafen_bekannt,kommunikation_events,netzwerk_score,vorplanungszeit_h,digitale_spuren,gps_daten_vorhanden,video_cctv,osint_hinweise,risiko_klasse
+BW-2025-00000,Raub,keines,Pforzheim,0,2025-01-07 09:00:00,0,Tablet,O2,70981,84.162.58.137,4741.79,2,2,30,0.752,6.51,1,0,1,0,mittel
+BW-2025-00001,Einbruchdiebstahl,Laptop,Heilbronn,1,2025-10-17 15:00:00,0,Laptop,O2,42780,127.243.49.3,2187.08,1,2,13,0.843,8.65,1,1,0,0,mittel
+BW-2025-00002,Cybercrime,Fahrzeug,Ulm,0,2025-06-11 22:00:00,1,Tablet,Telekom,59986,157.105.134.152,622.52,2,0,21,0.739,11.75,1,0,1,0,mittel
+BW-2025-00003,Drogenhandel,Online-Plattform,Pforzheim,0,2025-07-07 09:00:00,0,iPhone,1&1,11061,155.224.185.95,1911.1,2,2,8,0.284,11.18,0,1,0,1,mittel
+BW-2025-00004,Betrug,keines,Pforzheim,0,2025-05-30 12:00:00,0,Android Smartphone,O2,93442,59.172.125.123,5346.17,2,0,17,0.233,14.64,1,0,1,0,mittel
+BW-2025-00005,Cybercrime,Brecheisen,Karlsruhe,1,2025-10-28 22:00:00,1,iPhone,O2,14373,159.94.242.228,554.23,2,1,22,0.511,7.02,0,0,0,1,niedrig
+BW-2025-00006,Drogenhandel,Brecheisen,Karlsruhe,1,2025-10-11 15:00:00,0,Laptop,O2,33021,62.103.73.181,0.0,3,0,16,0.311,14.88,0,0,1,1,mittel
+BW-2025-00007,Einbruchdiebstahl,Phishing-Mail,Pforzheim,0,2025-11-25 22:00:00,1,Android Smartphone,O2,48684,202.30.131.102,6890.6,1,3,36,0.567,8.21,1,1,0,0,mittel
+BW-2025-00008,Drogenhandel,Laptop,Heilbronn,1,2025-06-04 00:00:00,1,iPhone,Vodafone,98647,196.102.68.42,7194.74,1,1,19,0.45,15.49,0,0,0,1,mittel
+BW-2025-00009,Sachbeschädigung,Phishing-Mail,Karlsruhe,1,2025-06-30 12:00:00,0,Tablet,Telekom,80329,42.163.130.232,1594.5,1,2,12,0.579,2.83,1,0,0,0,niedrig
+BW-2025-00010,Körperverletzung,Phishing-Mail,Pforzheim,0,2025-09-11 14:00:00,0,Desktop PC,1&1,24201,183.194.22.160,6220.18,2,4,48,0.734,0.0,1,1,1,1,hoch
+BW-2025-00011,Raub,keines,Stuttgart,1,2025-06-01 02:00:00,1,Desktop PC,O2,94889,27.46.253.229,3433.72,2,0,25,0.435,7.47,1,1,1,1,mittel
+BW-2025-00012,Körperverletzung,Online-Plattform,Ulm,0,2025-01-31 22:00:00,1,iPhone,Vodafone,14877,88.234.214.69,269.6,2,1,26,0.601,0.48,1,0,0,0,niedrig
+BW-2025-00013,Körperverletzung,Laptop,Karlsruhe,1,2025-09-23 07:00:00,0,Android Smartphone,Vodafone,69459,105.250.156.91,8346.03,1,2,46,0.516,27.68,1,1,0,1,hoch
+BW-2025-00014,Sachbeschädigung,Brecheisen,Ulm,0,2025-10-06 14:00:00,0,iPhone,1&1,46666,19.96.24.51,1541.87,1,3,30,0.811,0.36,1,1,0,1,mittel
+BW-2025-00015,Drogenhandel,Fahrzeug,Heilbronn,1,2025-09-05 14:00:00,0,Tablet,Vodafone,23022,186.136.189.236,3961.58,2,1,30,0.6,12.08,0,0,1,1,mittel
+BW-2025-00016,Drogenhandel,Phishing-Mail,Stuttgart,1,2025-05-10 13:00:00,0,Tablet,O2,26011,221.254.47.222,1551.69,1,0,16,0.131,8.2,0,1,0,0,niedrig
+BW-2025-00017,Körperverletzung,Laptop,Heidelberg,0,2025-02-04 12:00:00,0,Desktop PC,Telekom,53713,73.90.135.227,2790.13,2,2,30,0.306,0.99,0,0,1,0,niedrig
+BW-2025-00018,Einbruchdiebstahl,Fahrzeug,Karlsruhe,1,2025-05-28 10:00:00,0,Desktop PC,Vodafone,40539,95.28.122.134,4191.73,3,3,34,0.379,3.57,0,1,0,0,mittel
+BW-2025-00019,Einbruchdiebstahl,Smartphone,Pforzheim,0,2025-06-21 02:00:00,1,Android Smartphone,Vodafone,32871,39.36.34.14,1778.97,1,0,20,0.269,7.11,0,1,0,0,niedrig
+BW-2025-00020,Betrug,Brecheisen,Stuttgart,1,2025-08-10 00:00:00,1,Laptop,Vodafone,12068,55.155.102.46,11195.49,3,2,45,0.499,26.29,1,0,1,1,hoch
+BW-2025-00021,Cybercrime,Smartphone,Mannheim,1,2025-02-13 09:00:00,0,Tablet,Telekom,72422,125.194.42.22,1872.94,3,4,15,0.59,7.95,1,1,0,0,niedrig
+BW-2025-00022,Drogenhandel,Laptop,Heilbronn,1,2025-01-30 14:00:00,0,Desktop PC,Vodafone,96363,144.125.211.179,3912.56,1,0,51,0.177,14.12,1,0,0,0,mittel
+BW-2025-00023,Cybercrime,keines,Stuttgart,1,2025-10-02 04:00:00,1,iPhone,1&1,65872,186.164.21.229,0.0,3,0,16,0.449,0.0,0,0,0,0,niedrig
+BW-2025-00024,Diebstahl,keines,Heilbronn,1,2025-08-08 21:00:00,0,iPhone,Telekom,89730,48.249.52.191,2836.12,2,2,9,0.503,0.83,0,1,1,0,niedrig
+BW-2025-00025,Diebstahl,Brecheisen,Pforzheim,0,2025-09-18 00:00:00,1,Desktop PC,O2,88301,146.210.146.166,7483.69,3,2,20,0.958,37.2,1,0,0,1,hoch
+BW-2025-00026,Cybercrime,keines,Ulm,0,2025-05-27 18:00:00,0,iPhone,Telekom,66370,126.153.26.71,182.92,4,1,25,0.924,9.88,1,0,1,0,mittel
+BW-2025-00027,Raub,Messer,Freiburg,1,2025-10-11 23:00:00,1,Tablet,1&1,22463,91.3.43.53,1168.52,4,2,13,0.783,10.06,0,0,1,1,mittel
+BW-2025-00028,Sachbeschädigung,Phishing-Mail,Pforzheim,0,2025-11-20 18:00:00,0,Laptop,Vodafone,18799,34.90.129.236,8314.11,2,5,42,0.879,25.37,1,1,0,1,hoch
+BW-2025-00029,Diebstahl,Laptop,Ulm,0,2025-03-30 19:00:00,0,iPhone,O2,82924,26.90.233.211,452.76,2,1,9,0.512,5.23,1,1,0,0,niedrig
+BW-2025-00030,Drogenhandel,Laptop,Ulm,0,2025-02-05 02:00:00,1,Laptop,1&1,47700,164.180.121.212,5368.23,3,2,21,0.782,19.32,0,0,0,1,mittel
+BW-2025-00031,Cybercrime,Phishing-Mail,Karlsruhe,1,2025-04-16 15:00:00,0,Desktop PC,Vodafone,96079,134.112.195.184,672.58,1,1,21,0.301,1.55,1,1,1,0,niedrig
+BW-2025-00032,Raub,Laptop,Freiburg,1,2025-03-20 10:00:00,0,Desktop PC,O2,46512,157.248.55.212,0.0,1,3,21,0.548,0.0,0,0,1,0,mittel
+BW-2025-00033,Raub,Messer,Stuttgart,1,2025-01-20 18:00:00,0,Desktop PC,O2,33647,80.245.12.82,7926.08,2,2,22,0.456,11.39,1,1,1,0,mittel
+BW-2025-00034,Cybercrime,Phishing-Mail,Freiburg,1,2025-04-08 19:00:00,0,iPhone,Vodafone,84228,179.71.188.231,337.87,1,1,21,0.321,3.92,0,0,0,0,niedrig
+BW-2025-00035,Sachbeschädigung,Laptop,Mannheim,1,2025-12-29 03:00:00,1,iPhone,Telekom,38197,107.78.70.203,993.68,3,0,35,0.649,10.53,1,0,0,0,mittel
+BW-2025-00036,Sachbeschädigung,keines,Freiburg,1,2025-08-01 17:00:00,0,Android Smartphone,O2,52517,209.222.178.240,8313.44,4,2,45,0.86,39.41,1,1,1,0,hoch
+BW-2025-00037,Diebstahl,Smartphone,Mannheim,1,2025-02-25 16:00:00,0,Android Smartphone,Telekom,45665,124.111.218.10,5898.18,2,0,37,0.259,14.7,1,0,1,1,mittel
+BW-2025-00038,Sachbeschädigung,keines,Heilbronn,1,2025-05-28 03:00:00,1,Tablet,O2,77154,40.35.36.230,0.0,2,2,4,0.68,8.72,1,0,1,0,niedrig
+BW-2025-00039,Drogenhandel,Messer,Karlsruhe,1,2025-12-26 17:00:00,0,Laptop,1&1,97442,89.244.146.193,2327.06,2,4,27,0.602,11.81,0,1,0,1,mittel
+BW-2025-00040,Betrug,Fahrzeug,Ulm,0,2025-01-06 05:00:00,1,Desktop PC,Telekom,36794,88.41.209.171,6591.39,1,3,60,1.0,12.07,1,1,0,1,hoch
+BW-2025-00041,Raub,Brecheisen,Pforzheim,0,2025-03-23 21:00:00,0,Laptop,O2,11013,138.84.165.17,2740.34,3,4,41,0.357,14.12,1,0,1,1,mittel
+BW-2025-00042,Sachbeschädigung,Brecheisen,Mannheim,1,2025-12-08 12:00:00,0,Tablet,Vodafone,83233,182.5.52.127,2675.34,1,5,19,0.738,26.61,1,1,1,1,hoch
+BW-2025-00043,Drogenhandel,Laptop,Ulm,0,2025-01-13 19:00:00,0,iPhone,1&1,70260,30.238.205.198,7852.87,3,1,30,0.637,9.29,0,1,0,1,hoch
+BW-2025-00044,Drogenhandel,Messer,Ulm,0,2025-03-20 15:00:00,0,Tablet,O2,63088,16.86.218.234,563.69,1,0,3,0.316,4.23,1,0,1,0,niedrig
+BW-2025-00045,Drogenhandel,Brecheisen,Heilbronn,1,2025-10-26 03:00:00,1,Laptop,Telekom,23875,73.73.253.9,0.0,2,0,25,0.673,14.55,1,0,1,0,mittel
+BW-2025-00046,Sachbeschädigung,Messer,Karlsruhe,1,2025-08-20 18:00:00,0,Tablet,O2,39041,96.67.252.60,0.0,3,2,36,0.352,10.17,1,0,1,1,mittel
+BW-2025-00047,Einbruchdiebstahl,Laptop,Karlsruhe,1,2025-08-27 12:00:00,0,Desktop PC,Vodafone,56019,197.53.132.78,5921.56,2,1,27,0.338,6.07,1,0,0,1,mittel
+BW-2025-00048,Einbruchdiebstahl,Fahrzeug,Karlsruhe,1,2025-05-15 16:00:00,0,Android Smartphone,O2,32740,165.54.209.236,6138.33,3,1,51,0.753,7.36,1,0,1,1,mittel
+BW-2025-00049,Einbruchdiebstahl,Laptop,Mannheim,1,2025-11-03 10:00:00,0,Tablet,1&1,99277,155.130.136.155,7455.1,1,3,25,0.458,6.24,1,0,1,0,mittel
+BW-2025-00050,Drogenhandel,Phishing-Mail,Mannheim,1,2025-11-17 02:00:00,1,Tablet,Telekom,67961,172.162.116.133,0.0,4,4,36,0.916,28.01,0,1,1,1,hoch
+BW-2025-00051,Cybercrime,Online-Plattform,Stuttgart,1,2025-07-31 21:00:00,0,Laptop,Telekom,70521,126.176.160.145,1056.11,1,1,9,0.224,10.29,1,1,1,1,mittel
+BW-2025-00052,Betrug,Smartphone,Freiburg,1,2025-03-03 15:00:00,0,Laptop,Telekom,90610,163.21.157.108,3334.8,1,1,19,0.473,16.04,1,1,0,1,mittel
+BW-2025-00053,Sachbeschädigung,keines,Stuttgart,1,2025-08-08 11:00:00,0,Tablet,Vodafone,89299,132.194.210.228,507.73,2,1,13,0.417,1.58,1,0,0,1,niedrig
+BW-2025-00054,Einbruchdiebstahl,Smartphone,Heilbronn,1,2025-02-27 13:00:00,0,iPhone,O2,76132,176.104.149.198,6419.46,2,0,22,0.668,8.09,0,1,1,0,mittel
+BW-2025-00055,Einbruchdiebstahl,Smartphone,Heidelberg,0,2025-12-24 18:00:00,0,Tablet,1&1,78517,167.28.53.23,817.13,1,1,25,0.228,0.0,0,1,0,0,niedrig
+BW-2025-00056,Einbruchdiebstahl,Phishing-Mail,Freiburg,1,2025-10-07 01:00:00,1,Laptop,1&1,54350,184.204.61.175,2902.05,3,3,29,0.664,4.75,0,1,1,1,mittel
+BW-2025-00057,Betrug,Phishing-Mail,Karlsruhe,1,2025-09-21 21:00:00,0,Laptop,Telekom,47243,75.130.203.185,719.55,1,1,8,0.622,5.61,1,0,1,0,niedrig
+BW-2025-00058,Einbruchdiebstahl,Phishing-Mail,Karlsruhe,1,2025-08-27 19:00:00,0,Desktop PC,Vodafone,50662,178.243.51.179,2744.37,1,0,21,0.184,7.48,1,0,0,0,niedrig
+BW-2025-00059,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-08-13 05:00:00,1,Laptop,1&1,26750,182.140.191.151,6889.09,1,1,42,0.681,9.67,1,1,1,1,mittel
+BW-2025-00060,Diebstahl,Messer,Freiburg,1,2025-07-30 20:00:00,0,iPhone,O2,33627,65.213.84.148,3773.49,3,3,46,0.819,19.56,0,1,1,0,mittel
+BW-2025-00061,Drogenhandel,keines,Heidelberg,0,2025-04-16 18:00:00,0,Android Smartphone,Vodafone,20114,86.185.7.236,2221.96,5,2,33,0.432,9.2,1,1,1,0,mittel
+BW-2025-00062,Diebstahl,Smartphone,Freiburg,1,2025-09-15 04:00:00,1,Desktop PC,Vodafone,30218,52.137.8.128,11835.11,1,4,41,0.419,19.05,1,1,0,1,hoch
+BW-2025-00063,Einbruchdiebstahl,Brecheisen,Heilbronn,1,2025-09-06 16:00:00,0,iPhone,1&1,98652,195.54.196.72,2818.19,1,2,33,0.39,9.01,0,1,0,0,mittel
+BW-2025-00064,Raub,keines,Pforzheim,0,2025-12-31 13:00:00,0,Tablet,Vodafone,41348,90.57.73.168,4478.55,4,2,44,0.63,13.45,0,1,1,1,hoch
+BW-2025-00065,Körperverletzung,Fahrzeug,Freiburg,1,2025-11-12 04:00:00,1,Desktop PC,1&1,46932,210.51.35.4,1327.72,1,0,16,0.402,2.98,1,0,0,0,niedrig
+BW-2025-00066,Sachbeschädigung,Messer,Mannheim,1,2025-06-20 16:00:00,0,Android Smartphone,Vodafone,16839,175.36.79.35,6371.49,3,3,34,0.59,23.18,1,0,1,1,hoch
+BW-2025-00067,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-07-14 14:00:00,0,Desktop PC,Telekom,20993,206.91.159.234,1043.59,2,0,18,0.285,8.64,1,0,0,1,niedrig
+BW-2025-00068,Einbruchdiebstahl,Online-Plattform,Heilbronn,1,2025-10-26 15:00:00,0,Desktop PC,Vodafone,22021,67.215.123.154,1591.36,1,0,5,0.203,9.26,0,0,0,0,niedrig
+BW-2025-00069,Körperverletzung,Phishing-Mail,Stuttgart,1,2025-09-28 15:00:00,0,Tablet,Telekom,75799,106.187.240.177,0.0,1,0,14,0.252,5.6,1,0,1,1,niedrig
+BW-2025-00070,Raub,Messer,Karlsruhe,1,2025-01-20 05:00:00,1,Laptop,Vodafone,51770,36.93.130.248,2590.97,2,1,14,0.699,11.03,0,1,1,0,mittel
+BW-2025-00071,Drogenhandel,Brecheisen,Mannheim,1,2025-11-19 12:00:00,0,iPhone,O2,28191,205.67.105.231,3040.04,1,0,33,0.951,14.31,0,0,1,0,mittel
+BW-2025-00072,Körperverletzung,keines,Stuttgart,1,2025-06-24 17:00:00,0,iPhone,Telekom,38266,49.70.234.249,3144.64,3,1,13,0.495,5.53,0,0,1,0,niedrig
+BW-2025-00073,Sachbeschädigung,Laptop,Pforzheim,0,2025-03-25 04:00:00,1,Android Smartphone,O2,16258,72.10.95.12,0.0,1,1,20,0.818,4.7,1,1,1,1,mittel
+BW-2025-00074,Sachbeschädigung,keines,Karlsruhe,1,2025-01-12 05:00:00,1,iPhone,1&1,92831,142.239.169.243,8428.94,3,1,54,0.416,21.94,1,1,0,1,hoch
+BW-2025-00075,Raub,Brecheisen,Pforzheim,0,2025-08-29 20:00:00,0,Tablet,Telekom,41531,157.23.4.117,409.48,1,0,29,0.237,11.25,0,1,1,0,niedrig
+BW-2025-00076,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-02-16 04:00:00,1,Desktop PC,O2,78951,150.72.244.150,1946.17,1,0,4,0.309,8.26,1,1,1,0,niedrig
+BW-2025-00077,Betrug,Messer,Heilbronn,1,2025-09-12 20:00:00,0,iPhone,1&1,43246,202.80.35.244,8538.23,4,3,47,0.848,19.44,0,0,1,0,hoch
+BW-2025-00078,Betrug,Phishing-Mail,Karlsruhe,1,2025-03-12 18:00:00,0,Laptop,Vodafone,86271,199.53.54.223,5905.47,4,1,23,0.86,9.49,1,1,1,1,hoch
+BW-2025-00079,Drogenhandel,Brecheisen,Stuttgart,1,2025-04-30 12:00:00,0,Laptop,O2,99742,129.241.134.171,13750.67,4,5,45,1.0,13.8,1,1,1,0,hoch
+BW-2025-00080,Körperverletzung,Brecheisen,Mannheim,1,2025-01-26 05:00:00,1,iPhone,1&1,48462,62.155.119.168,0.0,1,2,14,0.366,3.98,1,0,0,0,mittel
+BW-2025-00081,Betrug,Fahrzeug,Stuttgart,1,2025-12-18 20:00:00,0,Laptop,O2,62196,219.190.115.238,278.64,1,0,20,0.32,0.7,1,1,0,0,niedrig
+BW-2025-00082,Körperverletzung,Online-Plattform,Stuttgart,1,2025-09-01 16:00:00,0,Android Smartphone,O2,16265,178.222.2.204,6417.76,4,1,22,0.43,13.33,1,0,0,1,mittel
+BW-2025-00083,Drogenhandel,Online-Plattform,Karlsruhe,1,2025-10-01 01:00:00,1,Laptop,1&1,67637,109.251.38.215,1942.82,4,2,22,0.384,12.83,0,0,1,1,mittel
+BW-2025-00084,Drogenhandel,Brecheisen,Heilbronn,1,2025-12-21 11:00:00,0,Tablet,O2,44959,216.24.10.130,7368.76,4,0,24,0.667,13.26,1,0,1,0,mittel
+BW-2025-00085,Diebstahl,Messer,Karlsruhe,1,2025-07-20 13:00:00,0,Tablet,Vodafone,52101,37.67.219.84,2500.33,1,0,29,0.257,4.9,1,0,0,0,niedrig
+BW-2025-00086,Diebstahl,Phishing-Mail,Pforzheim,0,2025-10-18 21:00:00,0,Laptop,1&1,31842,187.148.109.42,5797.52,4,6,51,0.907,28.03,1,1,0,1,hoch
+BW-2025-00087,Körperverletzung,Phishing-Mail,Heilbronn,1,2025-10-24 22:00:00,1,iPhone,O2,45986,174.180.66.189,5643.61,2,2,29,0.791,5.1,1,1,0,1,mittel
+BW-2025-00088,Betrug,Laptop,Ulm,0,2025-01-22 06:00:00,0,Laptop,Vodafone,28714,166.137.229.203,3977.75,2,1,34,0.983,8.15,0,1,0,0,mittel
+BW-2025-00089,Körperverletzung,Smartphone,Mannheim,1,2025-09-08 01:00:00,1,iPhone,Vodafone,57467,109.2.190.230,4047.88,2,2,32,0.513,7.57,0,0,0,0,mittel
+BW-2025-00090,Betrug,Brecheisen,Heilbronn,1,2025-10-31 01:00:00,1,Laptop,O2,20077,157.236.137.175,623.84,1,4,27,0.338,1.78,0,1,0,0,niedrig
+BW-2025-00091,Einbruchdiebstahl,Phishing-Mail,Ulm,0,2025-06-20 09:00:00,0,Laptop,O2,24869,17.162.65.175,8202.89,3,0,37,0.774,17.86,1,1,1,0,mittel
+BW-2025-00092,Einbruchdiebstahl,keines,Ulm,0,2025-06-28 16:00:00,0,Desktop PC,Telekom,44116,191.59.210.127,3213.52,3,2,27,0.599,8.55,1,0,0,0,mittel
+BW-2025-00093,Körperverletzung,Fahrzeug,Pforzheim,0,2025-03-25 17:00:00,0,Tablet,Vodafone,27790,29.245.19.26,4380.14,2,3,32,0.664,12.69,0,1,1,0,mittel
+BW-2025-00094,Körperverletzung,Brecheisen,Heilbronn,1,2025-08-26 04:00:00,1,iPhone,O2,18511,151.204.156.234,1435.83,2,1,9,0.674,3.84,0,0,0,1,niedrig
+BW-2025-00095,Cybercrime,Online-Plattform,Mannheim,1,2025-12-14 07:00:00,0,Android Smartphone,O2,39391,42.17.156.15,0.0,1,0,14,0.319,1.25,0,0,0,0,niedrig
+BW-2025-00096,Raub,Brecheisen,Heidelberg,0,2025-09-04 08:00:00,0,Tablet,Telekom,82616,157.128.197.170,4430.33,2,0,18,0.54,9.98,0,1,0,0,mittel
+BW-2025-00097,Drogenhandel,keines,Mannheim,1,2025-02-14 21:00:00,0,Desktop PC,Telekom,50539,112.237.207.227,604.09,1,2,27,0.514,5.61,1,1,0,1,mittel
+BW-2025-00098,Körperverletzung,Messer,Ulm,0,2025-03-27 13:00:00,0,Desktop PC,Telekom,51553,175.112.77.72,2266.34,1,0,41,0.735,10.36,0,1,0,1,mittel
+BW-2025-00099,Diebstahl,keines,Heilbronn,1,2025-03-29 14:00:00,0,Desktop PC,O2,82260,174.201.136.228,5088.78,3,2,59,0.706,37.81,1,1,0,1,hoch
+BW-2025-00100,Einbruchdiebstahl,Brecheisen,Ulm,0,2025-03-26 18:00:00,0,Desktop PC,Telekom,77908,50.44.5.136,921.06,1,3,18,0.701,3.23,0,0,1,0,mittel
+BW-2025-00101,Cybercrime,Brecheisen,Mannheim,1,2025-08-25 05:00:00,1,Laptop,Vodafone,78012,83.183.99.213,4910.69,1,4,13,0.595,16.28,1,1,1,1,mittel
+BW-2025-00102,Diebstahl,Online-Plattform,Heidelberg,0,2025-03-27 10:00:00,0,Desktop PC,O2,91922,88.133.233.199,992.85,2,0,21,0.382,6.13,1,1,0,1,niedrig
+BW-2025-00103,Diebstahl,Brecheisen,Mannheim,1,2025-01-29 02:00:00,1,Android Smartphone,O2,13718,31.203.5.100,0.0,2,1,12,0.053,3.8,1,0,0,0,niedrig
+BW-2025-00104,Betrug,Online-Plattform,Heidelberg,0,2025-01-21 16:00:00,0,Desktop PC,1&1,75278,171.141.210.27,611.08,2,2,15,0.782,7.19,0,0,1,0,mittel
+BW-2025-00105,Cybercrime,Online-Plattform,Heilbronn,1,2025-07-23 01:00:00,1,Android Smartphone,1&1,69446,29.174.92.34,1615.8,1,0,17,0.303,8.93,0,0,1,0,niedrig
+BW-2025-00106,Betrug,Brecheisen,Heilbronn,1,2025-11-14 01:00:00,1,Tablet,1&1,36741,98.22.220.46,5617.7,3,4,25,0.511,9.57,1,1,1,0,mittel
+BW-2025-00107,Einbruchdiebstahl,Phishing-Mail,Freiburg,1,2025-03-31 06:00:00,0,Laptop,1&1,58567,142.213.188.235,7832.5,3,4,51,0.721,35.03,1,1,0,1,hoch
+BW-2025-00108,Diebstahl,Phishing-Mail,Heidelberg,0,2025-07-02 14:00:00,0,Tablet,Telekom,68929,74.119.156.174,1153.83,3,2,21,0.933,8.86,0,1,0,1,mittel
+BW-2025-00109,Einbruchdiebstahl,Laptop,Stuttgart,1,2025-10-13 10:00:00,0,Laptop,1&1,42541,51.226.19.188,4043.58,3,3,39,0.678,3.14,1,1,1,1,mittel
+BW-2025-00110,Drogenhandel,Phishing-Mail,Heidelberg,0,2025-12-18 09:00:00,0,Android Smartphone,1&1,71186,138.174.183.72,3339.65,2,5,39,0.304,13.58,0,0,0,0,mittel
+BW-2025-00111,Cybercrime,keines,Stuttgart,1,2025-12-12 01:00:00,1,iPhone,1&1,69930,72.160.100.118,11155.28,1,1,23,1.0,11.84,1,1,1,1,hoch
+BW-2025-00112,Raub,Phishing-Mail,Stuttgart,1,2025-12-04 20:00:00,0,iPhone,O2,88317,178.125.149.241,7605.04,3,2,28,0.775,7.27,1,0,1,1,mittel
+BW-2025-00113,Körperverletzung,Online-Plattform,Stuttgart,1,2025-04-02 10:00:00,0,iPhone,1&1,44664,197.61.247.255,3450.16,3,4,30,0.571,9.62,1,1,1,0,mittel
+BW-2025-00114,Drogenhandel,Messer,Freiburg,1,2025-02-04 22:00:00,1,iPhone,1&1,84747,154.211.58.252,0.0,2,1,29,0.828,15.51,0,0,1,0,mittel
+BW-2025-00115,Raub,Phishing-Mail,Pforzheim,0,2025-12-11 05:00:00,1,iPhone,1&1,69028,206.175.252.254,0.0,1,0,19,0.682,4.89,0,0,0,1,niedrig
+BW-2025-00116,Cybercrime,Laptop,Mannheim,1,2025-09-12 18:00:00,0,iPhone,1&1,54444,153.206.17.40,2876.9,1,1,18,0.375,8.82,1,0,0,0,niedrig
+BW-2025-00117,Drogenhandel,Brecheisen,Heidelberg,0,2025-12-08 09:00:00,0,Desktop PC,1&1,15276,22.153.0.52,4459.93,3,3,20,0.711,6.64,1,1,1,1,mittel
+BW-2025-00118,Betrug,Brecheisen,Freiburg,1,2025-04-12 16:00:00,0,Tablet,1&1,89463,142.248.47.22,9056.74,1,1,24,0.641,17.35,1,0,1,1,mittel
+BW-2025-00119,Einbruchdiebstahl,Phishing-Mail,Freiburg,1,2025-07-24 06:00:00,0,Android Smartphone,1&1,87820,97.28.146.16,7558.49,1,2,44,0.886,6.68,0,1,1,0,mittel
+BW-2025-00120,Körperverletzung,Online-Plattform,Heilbronn,1,2025-08-15 03:00:00,1,iPhone,O2,98317,39.15.11.220,1882.78,3,0,6,0.222,1.65,0,0,1,0,niedrig
+BW-2025-00121,Sachbeschädigung,Online-Plattform,Stuttgart,1,2025-07-01 06:00:00,0,Desktop PC,1&1,95929,211.108.101.68,962.96,1,2,17,0.571,0.0,1,1,1,1,niedrig
+BW-2025-00122,Raub,Smartphone,Heilbronn,1,2025-04-11 21:00:00,0,Android Smartphone,1&1,99224,73.0.152.14,1737.47,2,2,18,0.676,4.51,1,1,1,1,mittel
+BW-2025-00123,Betrug,Laptop,Heidelberg,0,2025-08-03 03:00:00,1,iPhone,1&1,64890,49.196.50.246,1297.53,1,2,12,0.568,4.57,0,0,0,1,niedrig
+BW-2025-00124,Sachbeschädigung,Fahrzeug,Ulm,0,2025-02-12 12:00:00,0,Desktop PC,1&1,28098,143.200.108.70,3833.85,2,2,17,0.372,5.77,0,1,1,0,mittel
+BW-2025-00125,Raub,Phishing-Mail,Heilbronn,1,2025-08-03 04:00:00,1,Desktop PC,1&1,32699,128.172.130.76,2902.8,2,2,36,0.566,9.41,1,1,0,1,mittel
+BW-2025-00126,Drogenhandel,Phishing-Mail,Pforzheim,0,2025-05-12 06:00:00,0,Desktop PC,1&1,42311,82.108.246.140,398.29,2,0,5,0.286,0.0,1,0,1,0,niedrig
+BW-2025-00127,Cybercrime,Fahrzeug,Pforzheim,0,2025-11-30 19:00:00,0,Laptop,Vodafone,51555,133.212.101.161,6782.67,1,5,28,0.476,4.05,1,0,1,1,mittel
+BW-2025-00128,Drogenhandel,Online-Plattform,Pforzheim,0,2025-09-27 08:00:00,0,iPhone,1&1,55237,208.231.139.35,10284.91,3,3,49,0.575,28.48,1,1,1,0,hoch
+BW-2025-00129,Einbruchdiebstahl,Online-Plattform,Stuttgart,1,2025-08-25 10:00:00,0,Laptop,Telekom,67983,178.237.200.216,293.75,1,1,23,0.477,5.76,1,1,1,1,mittel
+BW-2025-00130,Cybercrime,keines,Heidelberg,0,2025-07-05 10:00:00,0,Android Smartphone,O2,27992,38.246.69.246,0.0,2,1,6,0.312,3.49,0,0,0,1,niedrig
+BW-2025-00131,Raub,Fahrzeug,Stuttgart,1,2025-06-08 22:00:00,1,Desktop PC,Vodafone,16880,36.166.146.201,12452.16,2,2,6,0.63,26.7,1,1,1,1,hoch
+BW-2025-00132,Sachbeschädigung,Phishing-Mail,Heilbronn,1,2025-01-04 12:00:00,0,iPhone,Vodafone,82135,51.110.211.144,7931.11,3,2,27,0.741,36.02,1,1,1,1,hoch
+BW-2025-00133,Sachbeschädigung,keines,Heilbronn,1,2025-08-08 06:00:00,0,Android Smartphone,O2,47409,176.89.144.231,1342.74,1,5,23,0.532,15.53,0,1,0,1,mittel
+BW-2025-00134,Betrug,Laptop,Heidelberg,0,2025-04-30 12:00:00,0,Desktop PC,Telekom,64773,56.0.125.5,431.41,1,1,15,0.66,3.08,0,1,0,0,niedrig
+BW-2025-00135,Betrug,Messer,Heilbronn,1,2025-01-26 13:00:00,0,Android Smartphone,O2,11214,87.99.110.149,3725.11,1,0,18,0.79,6.06,0,0,1,0,mittel
+BW-2025-00136,Diebstahl,Phishing-Mail,Pforzheim,0,2025-04-02 14:00:00,0,Tablet,1&1,76088,130.208.53.158,2622.84,2,0,19,0.586,0.0,0,0,1,0,niedrig
+BW-2025-00137,Cybercrime,Fahrzeug,Karlsruhe,1,2025-11-10 06:00:00,0,Laptop,Vodafone,94972,76.220.28.96,597.05,3,1,29,0.484,6.37,1,0,0,1,niedrig
+BW-2025-00138,Einbruchdiebstahl,Smartphone,Freiburg,1,2025-04-30 19:00:00,0,Laptop,Vodafone,90079,174.131.136.154,486.27,1,0,31,0.151,3.11,1,0,0,1,niedrig
+BW-2025-00139,Sachbeschädigung,Messer,Freiburg,1,2025-03-07 02:00:00,1,iPhone,1&1,34219,46.255.35.211,867.82,1,3,27,0.438,6.94,1,1,0,0,niedrig
+BW-2025-00140,Körperverletzung,Phishing-Mail,Heidelberg,0,2025-09-19 20:00:00,0,iPhone,O2,40870,125.93.66.89,4499.22,1,2,32,0.695,23.8,1,0,0,1,mittel
+BW-2025-00141,Cybercrime,Phishing-Mail,Pforzheim,0,2025-06-28 13:00:00,0,Desktop PC,Telekom,95679,103.11.155.16,2490.52,1,2,5,0.312,0.6,1,0,1,1,niedrig
+BW-2025-00142,Raub,Smartphone,Karlsruhe,1,2025-04-20 00:00:00,1,Tablet,O2,63138,186.162.133.89,2618.53,3,3,33,0.893,20.55,1,1,1,0,hoch
+BW-2025-00143,Cybercrime,Laptop,Pforzheim,0,2025-05-30 14:00:00,0,Laptop,Vodafone,27507,133.106.33.7,4548.83,3,2,31,0.21,18.74,1,1,1,1,mittel
+BW-2025-00144,Einbruchdiebstahl,keines,Freiburg,1,2025-05-30 02:00:00,1,Tablet,1&1,42435,185.42.227.65,6416.37,1,0,22,1.0,6.61,1,1,0,1,mittel
+BW-2025-00145,Diebstahl,keines,Freiburg,1,2025-02-12 03:00:00,1,iPhone,Telekom,81781,140.103.153.159,8830.48,2,5,38,0.903,33.46,0,1,1,1,hoch
+BW-2025-00146,Raub,Brecheisen,Mannheim,1,2025-03-21 08:00:00,0,Laptop,1&1,99167,63.149.49.30,1707.94,1,0,32,0.277,11.14,1,1,0,0,mittel
+BW-2025-00147,Körperverletzung,Laptop,Heilbronn,1,2025-04-01 01:00:00,1,iPhone,1&1,77272,117.89.67.206,1892.11,1,0,23,0.689,10.17,0,0,0,0,niedrig
+BW-2025-00148,Körperverletzung,Smartphone,Heilbronn,1,2025-09-28 07:00:00,0,Laptop,Telekom,43352,220.3.20.36,1369.06,1,0,23,0.315,2.52,1,0,0,0,niedrig
+BW-2025-00149,Betrug,Fahrzeug,Karlsruhe,1,2025-08-24 04:00:00,1,iPhone,1&1,18357,149.137.176.240,4504.43,2,0,45,0.882,7.26,0,0,0,0,mittel
+BW-2025-00150,Betrug,Laptop,Heilbronn,1,2025-10-07 02:00:00,1,iPhone,O2,33590,207.219.90.98,2119.3,2,1,14,0.313,0.49,1,0,0,1,niedrig
+BW-2025-00151,Einbruchdiebstahl,Messer,Freiburg,1,2025-09-15 16:00:00,0,Tablet,1&1,59236,31.139.67.118,1432.8,1,2,27,0.57,3.21,1,0,0,0,mittel
+BW-2025-00152,Einbruchdiebstahl,Phishing-Mail,Karlsruhe,1,2025-12-28 00:00:00,1,Android Smartphone,1&1,26691,197.84.233.32,4117.69,2,2,12,0.444,14.77,1,1,1,1,mittel
+BW-2025-00153,Raub,Smartphone,Stuttgart,1,2025-10-17 12:00:00,0,Laptop,1&1,79721,108.24.67.59,364.28,1,2,22,0.677,7.3,1,1,1,1,mittel
+BW-2025-00154,Raub,Fahrzeug,Heilbronn,1,2025-07-08 04:00:00,1,Laptop,Vodafone,34704,196.155.43.90,6670.06,3,2,28,0.107,27.24,1,1,0,1,hoch
+BW-2025-00155,Diebstahl,Smartphone,Ulm,0,2025-06-14 07:00:00,0,Desktop PC,Telekom,37011,28.57.250.18,5759.84,3,0,28,0.421,9.65,0,0,1,0,mittel
+BW-2025-00156,Diebstahl,Smartphone,Heilbronn,1,2025-06-17 01:00:00,1,Desktop PC,Telekom,15798,113.250.220.160,2594.32,1,1,12,0.442,5.27,1,0,0,0,niedrig
+BW-2025-00157,Körperverletzung,Fahrzeug,Heidelberg,0,2025-12-10 23:00:00,1,iPhone,Vodafone,47914,70.242.2.95,1161.7,1,2,8,0.273,8.59,1,1,0,0,niedrig
+BW-2025-00158,Drogenhandel,Phishing-Mail,Heidelberg,0,2025-12-22 20:00:00,0,Laptop,Vodafone,38972,116.223.20.233,5798.07,1,3,28,0.721,12.91,0,0,0,1,mittel
+BW-2025-00159,Cybercrime,Online-Plattform,Stuttgart,1,2025-10-19 15:00:00,0,Desktop PC,Vodafone,82856,137.225.1.26,1384.11,1,2,22,0.61,14.57,1,0,0,0,mittel
+BW-2025-00160,Betrug,Phishing-Mail,Ulm,0,2025-10-12 05:00:00,1,Desktop PC,O2,63511,49.51.32.24,3978.8,2,4,17,0.636,8.88,1,0,0,1,mittel
+BW-2025-00161,Cybercrime,Messer,Mannheim,1,2025-06-14 12:00:00,0,Desktop PC,1&1,39536,87.253.15.193,2382.88,1,2,19,0.399,5.22,0,1,0,0,niedrig
+BW-2025-00162,Einbruchdiebstahl,keines,Stuttgart,1,2025-10-12 08:00:00,0,Desktop PC,1&1,83044,146.173.139.38,3086.5,3,2,18,0.449,15.04,1,0,1,0,mittel
+BW-2025-00163,Einbruchdiebstahl,Messer,Heidelberg,0,2025-08-14 11:00:00,0,Laptop,Vodafone,94765,31.61.245.179,1856.08,2,1,27,0.53,2.27,0,1,1,0,niedrig
+BW-2025-00164,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-02-05 04:00:00,1,Desktop PC,Vodafone,45187,107.142.20.158,552.4,3,1,30,0.498,13.52,1,1,0,1,mittel
+BW-2025-00165,Betrug,Laptop,Heidelberg,0,2025-11-24 06:00:00,0,Desktop PC,Vodafone,37379,96.61.38.37,2312.74,2,1,29,0.62,12.94,0,1,1,1,mittel
+BW-2025-00166,Cybercrime,Smartphone,Heidelberg,0,2025-11-23 22:00:00,1,Android Smartphone,Telekom,41797,189.20.144.98,5181.43,4,0,10,0.095,10.84,1,1,1,0,mittel
+BW-2025-00167,Raub,Messer,Heidelberg,0,2025-07-13 05:00:00,1,Desktop PC,O2,59894,130.92.48.181,2520.72,2,0,16,0.478,2.26,0,1,1,1,niedrig
+BW-2025-00168,Drogenhandel,Online-Plattform,Pforzheim,0,2025-11-15 03:00:00,1,Laptop,1&1,22924,216.133.99.202,1161.4,3,3,31,0.918,8.66,1,0,1,1,mittel
+BW-2025-00169,Körperverletzung,Phishing-Mail,Heidelberg,0,2025-10-10 13:00:00,0,Laptop,O2,15992,155.1.158.212,2626.71,3,1,45,0.529,8.99,0,0,0,1,mittel
+BW-2025-00170,Raub,Brecheisen,Stuttgart,1,2025-07-21 12:00:00,0,Laptop,1&1,29976,61.57.159.251,1284.06,2,0,17,0.559,5.06,1,1,1,0,niedrig
+BW-2025-00171,Drogenhandel,Fahrzeug,Ulm,0,2025-12-07 20:00:00,0,Desktop PC,Vodafone,82173,178.148.99.32,10888.69,3,4,59,1.0,37.78,1,0,1,1,hoch
+BW-2025-00172,Drogenhandel,Online-Plattform,Heilbronn,1,2025-04-25 20:00:00,0,Tablet,1&1,56160,54.84.255.122,2884.84,1,4,50,0.571,9.37,1,0,1,0,mittel
+BW-2025-00173,Einbruchdiebstahl,keines,Mannheim,1,2025-12-24 16:00:00,0,Desktop PC,Telekom,14433,30.7.81.87,3039.11,1,2,27,0.249,14.56,1,1,1,0,mittel
+BW-2025-00174,Betrug,Smartphone,Ulm,0,2025-02-16 09:00:00,0,Android Smartphone,Vodafone,29795,13.87.24.81,6608.56,2,5,48,0.585,18.17,1,0,1,0,hoch
+BW-2025-00175,Raub,keines,Freiburg,1,2025-11-30 01:00:00,1,iPhone,1&1,12061,12.177.88.233,244.77,1,1,2,0.025,0.0,1,1,1,0,niedrig
+BW-2025-00176,Sachbeschädigung,Smartphone,Stuttgart,1,2025-07-15 17:00:00,0,Desktop PC,O2,12246,139.145.58.193,2292.35,2,1,44,0.729,8.39,1,0,1,0,mittel
+BW-2025-00177,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-06-14 12:00:00,0,iPhone,Vodafone,35156,169.169.245.8,1272.02,2,1,21,0.584,12.65,0,0,0,0,mittel
+BW-2025-00178,Cybercrime,Phishing-Mail,Pforzheim,0,2025-09-12 16:00:00,0,Tablet,Telekom,63218,128.128.224.80,5270.54,2,3,16,0.572,9.8,1,0,0,0,mittel
+BW-2025-00179,Raub,Fahrzeug,Pforzheim,0,2025-03-05 19:00:00,0,iPhone,Telekom,63120,108.23.114.112,7063.47,4,2,64,0.854,32.15,1,0,1,1,hoch
+BW-2025-00180,Sachbeschädigung,keines,Stuttgart,1,2025-02-26 10:00:00,0,iPhone,Vodafone,75517,122.20.179.246,2835.58,4,5,9,0.784,19.51,0,0,1,0,mittel
+BW-2025-00181,Drogenhandel,Laptop,Stuttgart,1,2025-11-21 14:00:00,0,Android Smartphone,Vodafone,45532,22.235.124.52,5448.92,1,0,35,0.812,18.37,1,0,1,0,mittel
+BW-2025-00182,Diebstahl,Online-Plattform,Stuttgart,1,2025-01-11 16:00:00,0,Android Smartphone,O2,37152,161.71.255.159,2357.82,3,0,30,0.267,3.82,0,0,1,0,niedrig
+BW-2025-00183,Einbruchdiebstahl,Messer,Karlsruhe,1,2025-06-14 03:00:00,1,Laptop,Vodafone,84277,110.159.196.113,2840.01,3,0,39,0.693,41.18,1,0,1,0,hoch
+BW-2025-00184,Drogenhandel,Messer,Mannheim,1,2025-02-06 15:00:00,0,iPhone,O2,22803,122.229.4.11,5242.39,1,3,26,0.64,0.57,1,0,0,1,mittel
+BW-2025-00185,Raub,Laptop,Freiburg,1,2025-08-11 19:00:00,0,Desktop PC,1&1,13883,173.85.225.187,0.0,1,2,8,0.123,0.54,1,0,0,0,niedrig
+BW-2025-00186,Cybercrime,keines,Heilbronn,1,2025-09-14 06:00:00,0,Android Smartphone,O2,66603,58.140.131.229,3070.34,1,2,39,0.942,2.62,1,0,1,1,mittel
+BW-2025-00187,Sachbeschädigung,Laptop,Pforzheim,0,2025-02-26 00:00:00,1,Android Smartphone,Telekom,45123,50.123.6.103,4741.75,3,3,28,0.612,7.65,1,1,1,1,mittel
+BW-2025-00188,Sachbeschädigung,Brecheisen,Ulm,0,2025-03-14 17:00:00,0,Laptop,O2,21995,12.84.121.80,1652.52,1,1,0,0.577,0.38,1,0,0,0,niedrig
+BW-2025-00189,Cybercrime,keines,Freiburg,1,2025-04-01 10:00:00,0,Laptop,Telekom,21442,58.248.232.126,1865.58,2,4,42,0.783,8.77,0,0,0,0,mittel
+BW-2025-00190,Sachbeschädigung,keines,Ulm,0,2025-03-03 04:00:00,1,iPhone,Telekom,56388,152.225.89.108,9333.11,2,1,47,0.502,15.71,1,0,1,1,mittel
+BW-2025-00191,Diebstahl,Phishing-Mail,Ulm,0,2025-10-10 11:00:00,0,iPhone,O2,60829,210.119.160.127,2521.39,2,0,19,0.481,6.06,1,0,1,1,niedrig
+BW-2025-00192,Diebstahl,Fahrzeug,Mannheim,1,2025-04-05 18:00:00,0,Tablet,Vodafone,45247,88.22.240.73,2626.7,2,2,8,0.346,0.0,0,0,0,1,niedrig
+BW-2025-00193,Cybercrime,keines,Mannheim,1,2025-10-24 17:00:00,0,iPhone,Vodafone,46170,118.205.92.231,0.0,2,1,34,0.457,8.68,1,1,0,0,mittel
+BW-2025-00194,Cybercrime,keines,Karlsruhe,1,2025-06-18 08:00:00,0,Laptop,O2,91924,137.236.232.141,1006.36,1,0,8,0.181,7.32,0,0,0,0,niedrig
+BW-2025-00195,Raub,keines,Karlsruhe,1,2025-01-05 14:00:00,0,Android Smartphone,O2,61864,96.12.47.233,3015.43,1,3,29,0.91,17.43,1,1,1,1,mittel
+BW-2025-00196,Sachbeschädigung,Phishing-Mail,Heilbronn,1,2025-04-03 22:00:00,1,Laptop,1&1,49378,93.23.28.136,4690.89,2,2,20,0.728,0.0,1,1,1,1,mittel
+BW-2025-00197,Raub,keines,Freiburg,1,2025-08-06 20:00:00,0,Android Smartphone,1&1,48200,199.32.185.242,7873.62,2,1,45,0.96,9.61,1,0,1,1,hoch
+BW-2025-00198,Körperverletzung,Fahrzeug,Freiburg,1,2025-09-26 05:00:00,1,Tablet,O2,57843,40.39.192.154,169.86,2,0,4,0.203,2.1,1,1,0,1,niedrig
+BW-2025-00199,Raub,Brecheisen,Stuttgart,1,2025-10-27 07:00:00,0,Tablet,Vodafone,48185,188.93.167.45,2249.27,1,0,30,0.632,0.0,1,0,0,1,niedrig
+BW-2025-00200,Diebstahl,Messer,Heilbronn,1,2025-06-15 05:00:00,1,Android Smartphone,O2,43119,179.158.34.242,3978.77,2,3,30,0.493,7.37,1,1,1,0,mittel
+BW-2025-00201,Einbruchdiebstahl,Messer,Ulm,0,2025-11-24 03:00:00,1,iPhone,1&1,86315,113.155.41.184,8629.0,2,2,42,0.65,39.43,0,0,1,1,hoch
+BW-2025-00202,Sachbeschädigung,Smartphone,Freiburg,1,2025-03-16 15:00:00,0,Desktop PC,Telekom,42536,179.88.148.223,6097.78,2,1,12,0.714,12.26,0,0,0,0,mittel
+BW-2025-00203,Drogenhandel,Brecheisen,Stuttgart,1,2025-08-15 08:00:00,0,Desktop PC,1&1,66420,38.31.46.177,1244.87,1,1,34,0.441,9.02,1,1,1,1,mittel
+BW-2025-00204,Betrug,Laptop,Pforzheim,0,2025-11-01 07:00:00,0,Android Smartphone,Vodafone,59036,111.33.94.102,6971.3,1,4,53,0.741,46.21,1,0,0,1,hoch
+BW-2025-00205,Körperverletzung,Brecheisen,Freiburg,1,2025-03-13 08:00:00,0,iPhone,1&1,48722,117.125.93.150,4040.79,2,1,29,0.746,5.55,1,0,1,0,mittel
+BW-2025-00206,Diebstahl,Laptop,Mannheim,1,2025-08-23 04:00:00,1,Laptop,O2,69681,211.197.235.42,2386.4,1,2,16,0.394,3.11,0,0,0,0,niedrig
+BW-2025-00207,Raub,keines,Freiburg,1,2025-10-27 02:00:00,1,Tablet,Telekom,69303,92.164.13.42,14704.39,3,4,45,0.705,14.2,1,1,1,1,hoch
+BW-2025-00208,Diebstahl,Online-Plattform,Stuttgart,1,2025-08-23 04:00:00,1,iPhone,Telekom,94930,38.255.49.66,9769.71,5,3,27,0.937,29.66,1,1,0,0,hoch
+BW-2025-00209,Einbruchdiebstahl,Fahrzeug,Mannheim,1,2025-08-14 22:00:00,1,Desktop PC,Vodafone,83380,120.38.139.55,2908.08,1,0,48,0.228,11.11,1,1,1,0,mittel
+BW-2025-00210,Körperverletzung,Fahrzeug,Ulm,0,2025-10-23 00:00:00,1,Android Smartphone,Vodafone,61849,18.121.37.10,983.53,3,1,3,0.302,2.28,1,0,1,1,niedrig
+BW-2025-00211,Raub,keines,Ulm,0,2025-05-27 15:00:00,0,Tablet,Telekom,36972,82.65.155.72,1906.26,1,2,2,0.221,4.63,1,1,0,1,niedrig
+BW-2025-00212,Diebstahl,Laptop,Mannheim,1,2025-05-15 12:00:00,0,Laptop,O2,69972,40.44.39.33,3566.7,2,2,46,0.512,14.32,0,0,0,1,mittel
+BW-2025-00213,Cybercrime,keines,Freiburg,1,2025-09-25 23:00:00,1,Desktop PC,1&1,86939,40.62.80.58,0.0,1,1,19,0.509,2.19,1,0,0,0,niedrig
+BW-2025-00214,Drogenhandel,Phishing-Mail,Heilbronn,1,2025-07-23 01:00:00,1,Desktop PC,Vodafone,90541,162.21.70.51,8749.3,2,0,20,0.237,1.94,0,1,0,1,mittel
+BW-2025-00215,Diebstahl,Brecheisen,Freiburg,1,2025-07-28 11:00:00,0,iPhone,Vodafone,25328,57.220.1.126,785.33,4,3,26,0.594,14.83,0,1,1,1,hoch
+BW-2025-00216,Drogenhandel,Brecheisen,Ulm,0,2025-09-19 22:00:00,1,Tablet,Vodafone,65448,58.141.141.237,4034.76,2,2,47,0.237,19.7,1,0,0,1,mittel
+BW-2025-00217,Körperverletzung,Brecheisen,Mannheim,1,2025-04-06 18:00:00,0,Tablet,O2,34523,91.136.80.211,1325.23,1,1,27,0.089,3.95,0,0,0,1,niedrig
+BW-2025-00218,Körperverletzung,Smartphone,Freiburg,1,2025-04-04 04:00:00,1,iPhone,1&1,35575,219.177.253.224,0.0,1,2,23,0.483,0.19,1,0,0,0,niedrig
+BW-2025-00219,Sachbeschädigung,keines,Ulm,0,2025-10-31 00:00:00,1,Tablet,1&1,74054,53.209.31.232,9901.95,3,0,37,0.601,22.41,0,1,1,1,hoch
+BW-2025-00220,Diebstahl,Smartphone,Heidelberg,0,2025-07-07 15:00:00,0,Laptop,Telekom,39470,148.160.183.235,11057.18,1,4,57,0.878,16.48,0,0,0,0,hoch
+BW-2025-00221,Cybercrime,Brecheisen,Heilbronn,1,2025-12-15 17:00:00,0,Desktop PC,1&1,24838,157.157.99.119,0.0,3,0,22,0.365,0.77,1,0,1,0,niedrig
+BW-2025-00222,Diebstahl,Online-Plattform,Freiburg,1,2025-10-29 07:00:00,0,Desktop PC,Telekom,81611,66.242.93.54,1980.54,1,0,22,0.495,4.13,0,0,1,1,niedrig
+BW-2025-00223,Sachbeschädigung,Laptop,Heidelberg,0,2025-11-04 00:00:00,1,Laptop,Telekom,44447,100.60.87.43,3697.2,2,7,53,0.464,7.33,0,0,0,0,hoch
+BW-2025-00224,Diebstahl,keines,Karlsruhe,1,2025-08-28 08:00:00,0,Android Smartphone,Vodafone,89988,172.253.65.135,5084.03,2,2,34,0.72,8.24,0,0,0,1,mittel
+BW-2025-00225,Sachbeschädigung,Brecheisen,Mannheim,1,2025-02-10 12:00:00,0,Android Smartphone,Vodafone,84720,100.207.11.13,7677.8,5,4,45,0.698,25.23,0,1,1,1,hoch
+BW-2025-00226,Cybercrime,Brecheisen,Freiburg,1,2025-07-02 12:00:00,0,Laptop,O2,77425,184.230.143.81,707.15,1,3,39,0.937,10.42,1,0,1,1,mittel
+BW-2025-00227,Diebstahl,Brecheisen,Ulm,0,2025-03-28 14:00:00,0,iPhone,O2,27392,74.234.217.10,432.28,1,0,27,0.254,0.0,1,0,0,0,niedrig
+BW-2025-00228,Einbruchdiebstahl,Phishing-Mail,Heidelberg,0,2025-04-08 01:00:00,1,Tablet,1&1,85684,172.229.24.162,1392.02,2,1,12,0.111,2.35,0,0,0,1,niedrig
+BW-2025-00229,Cybercrime,Messer,Ulm,0,2025-03-05 13:00:00,0,Tablet,Telekom,62802,142.255.62.150,4150.7,1,0,28,0.853,6.32,0,0,1,0,mittel
+BW-2025-00230,Cybercrime,Phishing-Mail,Heilbronn,1,2025-01-02 16:00:00,0,Tablet,O2,22208,198.30.90.232,205.78,1,1,22,0.119,4.35,0,0,1,0,niedrig
+BW-2025-00231,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-05-29 16:00:00,0,Desktop PC,1&1,66314,222.41.55.36,1675.12,3,0,25,0.116,7.32,0,1,0,0,niedrig
+BW-2025-00232,Raub,keines,Pforzheim,0,2025-08-19 13:00:00,0,Laptop,O2,81737,158.243.117.150,2182.53,3,0,20,0.073,3.14,0,1,1,0,niedrig
+BW-2025-00233,Einbruchdiebstahl,keines,Freiburg,1,2025-03-09 23:00:00,1,iPhone,Telekom,92074,211.172.255.207,1532.15,1,0,19,0.453,3.75,0,1,0,0,niedrig
+BW-2025-00234,Körperverletzung,Smartphone,Karlsruhe,1,2025-11-08 15:00:00,0,Android Smartphone,1&1,10088,120.132.65.77,3441.12,2,0,31,0.588,0.37,1,1,1,1,mittel
+BW-2025-00235,Raub,Brecheisen,Pforzheim,0,2025-03-05 17:00:00,0,Android Smartphone,O2,95798,103.69.126.77,673.19,2,1,7,0.415,6.27,0,0,0,0,niedrig
+BW-2025-00236,Cybercrime,Laptop,Freiburg,1,2025-09-28 13:00:00,0,Android Smartphone,Telekom,91999,89.53.218.128,3246.02,1,1,18,0.431,0.0,1,1,1,0,niedrig
+BW-2025-00237,Raub,Messer,Karlsruhe,1,2025-05-26 16:00:00,0,iPhone,Telekom,72496,30.243.202.222,4016.94,3,0,25,0.765,24.18,1,0,0,1,mittel
+BW-2025-00238,Einbruchdiebstahl,Fahrzeug,Heilbronn,1,2025-08-23 13:00:00,0,iPhone,Telekom,25806,119.28.196.5,922.96,3,1,10,0.659,11.97,1,0,1,0,niedrig
+BW-2025-00239,Einbruchdiebstahl,keines,Karlsruhe,1,2025-03-02 23:00:00,1,Android Smartphone,1&1,23425,37.107.106.125,4550.05,3,1,16,0.747,13.72,0,1,0,1,hoch
+BW-2025-00240,Drogenhandel,Phishing-Mail,Pforzheim,0,2025-04-01 21:00:00,0,Android Smartphone,1&1,94092,184.88.219.27,358.73,3,0,33,0.342,10.81,0,0,1,0,mittel
+BW-2025-00241,Einbruchdiebstahl,Laptop,Stuttgart,1,2025-10-28 10:00:00,0,Desktop PC,Vodafone,56030,195.241.78.60,1397.89,4,0,24,0.107,0.0,1,1,0,1,niedrig
+BW-2025-00242,Raub,Brecheisen,Ulm,0,2025-05-29 07:00:00,0,Desktop PC,1&1,21362,36.184.20.252,1049.45,2,0,20,0.352,8.26,0,0,1,0,niedrig
+BW-2025-00243,Einbruchdiebstahl,Laptop,Ulm,0,2025-08-03 16:00:00,0,Laptop,1&1,28327,74.110.237.157,0.0,2,4,18,0.661,4.49,1,0,1,0,mittel
+BW-2025-00244,Cybercrime,Laptop,Heidelberg,0,2025-01-19 07:00:00,0,Desktop PC,O2,96298,88.56.228.21,5939.54,3,1,20,0.298,8.7,1,1,1,0,mittel
+BW-2025-00245,Raub,Fahrzeug,Ulm,0,2025-06-13 09:00:00,0,Laptop,Telekom,74865,109.201.101.178,2728.79,3,1,48,0.233,0.0,1,1,0,0,mittel
+BW-2025-00246,Diebstahl,Fahrzeug,Heilbronn,1,2025-12-27 15:00:00,0,Desktop PC,Telekom,11581,103.112.238.151,0.0,3,3,31,0.806,11.26,1,1,1,0,hoch
+BW-2025-00247,Drogenhandel,Brecheisen,Ulm,0,2025-09-07 10:00:00,0,Desktop PC,1&1,81612,185.213.74.70,710.28,1,0,17,0.342,0.94,0,0,1,0,niedrig
+BW-2025-00248,Einbruchdiebstahl,keines,Karlsruhe,1,2025-01-10 09:00:00,0,iPhone,Telekom,44365,66.58.237.248,6611.25,2,3,25,0.836,12.0,0,0,1,0,mittel
+BW-2025-00249,Betrug,Smartphone,Ulm,0,2025-12-09 01:00:00,1,Desktop PC,O2,64451,119.111.109.46,842.87,2,2,0,0.241,4.85,0,1,0,1,niedrig
+BW-2025-00250,Sachbeschädigung,Laptop,Mannheim,1,2025-07-31 13:00:00,0,Laptop,Telekom,20357,141.228.221.74,0.0,3,1,21,0.513,6.37,0,1,0,0,mittel
+BW-2025-00251,Raub,Brecheisen,Freiburg,1,2025-07-31 17:00:00,0,Tablet,Telekom,67342,197.222.141.93,0.0,2,1,27,0.67,14.01,1,0,0,1,mittel
+BW-2025-00252,Raub,Smartphone,Heidelberg,0,2025-03-21 04:00:00,1,iPhone,1&1,69424,167.191.123.140,2045.41,2,1,18,0.195,9.61,0,0,1,1,niedrig
+BW-2025-00253,Betrug,Online-Plattform,Mannheim,1,2025-04-04 16:00:00,0,iPhone,Telekom,11487,52.240.239.124,2037.48,2,2,17,0.686,8.44,0,0,1,0,niedrig
+BW-2025-00254,Körperverletzung,Phishing-Mail,Pforzheim,0,2025-03-28 15:00:00,0,Android Smartphone,O2,45227,198.161.174.217,1924.22,1,1,36,0.519,1.77,1,1,1,1,mittel
+BW-2025-00255,Diebstahl,Smartphone,Freiburg,1,2025-12-24 14:00:00,0,Tablet,O2,18371,78.80.171.6,3577.61,1,2,36,0.584,13.32,1,0,1,1,mittel
+BW-2025-00256,Diebstahl,keines,Heilbronn,1,2025-02-07 20:00:00,0,Desktop PC,O2,75484,156.31.115.11,1755.85,1,0,23,0.447,6.85,0,0,1,0,niedrig
+BW-2025-00257,Einbruchdiebstahl,Phishing-Mail,Mannheim,1,2025-03-20 17:00:00,0,Laptop,Telekom,39937,200.163.193.98,5398.87,1,1,32,0.442,10.4,0,0,0,1,mittel
+BW-2025-00258,Betrug,Smartphone,Stuttgart,1,2025-11-19 01:00:00,1,Android Smartphone,Telekom,57707,109.10.241.88,5176.85,1,4,35,0.672,3.9,1,0,0,1,mittel
+BW-2025-00259,Einbruchdiebstahl,Brecheisen,Stuttgart,1,2025-06-03 06:00:00,0,Desktop PC,1&1,52179,74.142.45.13,6901.64,4,3,64,0.835,35.09,1,1,0,1,hoch
+BW-2025-00260,Sachbeschädigung,Phishing-Mail,Pforzheim,0,2025-03-23 12:00:00,0,iPhone,O2,75803,183.95.18.239,3862.22,2,3,32,0.27,12.21,1,1,0,1,mittel
+BW-2025-00261,Betrug,Brecheisen,Heidelberg,0,2025-10-01 16:00:00,0,Desktop PC,Telekom,19034,130.16.105.102,0.0,1,2,9,0.564,8.68,0,1,0,0,niedrig
+BW-2025-00262,Cybercrime,Online-Plattform,Freiburg,1,2025-01-06 10:00:00,0,iPhone,1&1,58354,62.95.47.89,2535.54,2,1,18,0.166,0.0,1,0,1,1,niedrig
+BW-2025-00263,Cybercrime,Online-Plattform,Heidelberg,0,2025-12-03 19:00:00,0,Tablet,O2,35614,198.130.183.150,4433.73,2,1,41,0.719,13.0,0,1,1,0,mittel
+BW-2025-00264,Raub,Brecheisen,Stuttgart,1,2025-06-09 01:00:00,1,Tablet,Telekom,80981,99.175.57.60,742.04,1,1,29,0.703,0.0,1,0,1,0,mittel
+BW-2025-00265,Betrug,Phishing-Mail,Stuttgart,1,2025-03-12 23:00:00,1,Tablet,O2,36895,146.161.236.2,6282.26,3,4,19,0.729,6.21,0,0,0,1,mittel
+BW-2025-00266,Raub,Messer,Heilbronn,1,2025-07-11 00:00:00,1,iPhone,Vodafone,22193,22.61.12.54,1159.66,2,1,10,0.315,3.18,0,0,0,0,niedrig
+BW-2025-00267,Raub,Messer,Freiburg,1,2025-03-07 05:00:00,1,Tablet,Telekom,76247,45.45.246.164,304.11,1,0,11,0.24,8.21,0,0,0,0,niedrig
+BW-2025-00268,Sachbeschädigung,Laptop,Stuttgart,1,2025-06-11 15:00:00,0,Tablet,Vodafone,48230,77.208.77.85,2843.11,1,0,19,0.25,2.35,1,0,0,0,niedrig
+BW-2025-00269,Drogenhandel,Messer,Freiburg,1,2025-07-05 15:00:00,0,Laptop,1&1,40619,30.30.183.35,3829.86,3,3,85,0.827,9.95,1,1,1,1,hoch
+BW-2025-00270,Raub,Brecheisen,Karlsruhe,1,2025-04-23 05:00:00,1,Android Smartphone,Telekom,68925,130.79.99.84,5788.48,1,0,16,0.086,13.25,0,1,0,0,mittel
+BW-2025-00271,Drogenhandel,Messer,Karlsruhe,1,2025-05-22 17:00:00,0,Desktop PC,O2,69233,89.237.65.36,15385.22,5,5,43,0.019,4.37,0,1,0,1,hoch
+BW-2025-00272,Körperverletzung,Online-Plattform,Karlsruhe,1,2025-07-27 16:00:00,0,iPhone,Vodafone,89076,21.83.13.249,2184.59,1,1,30,0.299,7.89,0,0,0,0,mittel
+BW-2025-00273,Raub,Phishing-Mail,Mannheim,1,2025-08-31 20:00:00,0,iPhone,Vodafone,61936,142.114.23.224,10211.69,1,1,30,0.368,5.71,1,1,1,1,mittel
+BW-2025-00274,Betrug,Online-Plattform,Pforzheim,0,2025-10-04 01:00:00,1,Android Smartphone,Telekom,69270,153.82.252.66,3668.73,2,0,40,0.447,5.69,1,1,0,0,mittel
+BW-2025-00275,Raub,Laptop,Heilbronn,1,2025-03-24 21:00:00,0,iPhone,Vodafone,11567,26.201.141.46,2923.69,2,1,24,0.382,4.68,1,1,0,1,mittel
+BW-2025-00276,Raub,Brecheisen,Heidelberg,0,2025-02-27 08:00:00,0,Tablet,O2,86326,161.11.224.244,5132.12,3,2,57,0.744,14.13,0,1,1,0,hoch
+BW-2025-00277,Cybercrime,Laptop,Stuttgart,1,2025-10-30 17:00:00,0,iPhone,Vodafone,26880,34.139.233.104,1667.77,1,0,23,0.445,18.33,0,0,1,0,mittel
+BW-2025-00278,Drogenhandel,Laptop,Stuttgart,1,2025-04-25 16:00:00,0,Tablet,Telekom,85220,121.227.86.7,1369.51,1,2,9,0.35,4.23,0,1,0,0,niedrig
+BW-2025-00279,Sachbeschädigung,keines,Stuttgart,1,2025-04-28 23:00:00,1,Tablet,1&1,56392,65.247.162.108,2219.64,2,1,19,0.387,6.72,1,1,1,1,mittel
+BW-2025-00280,Einbruchdiebstahl,Online-Plattform,Pforzheim,0,2025-01-24 15:00:00,0,Tablet,Vodafone,90492,169.130.90.174,4312.54,1,1,35,0.573,6.16,1,1,1,1,mittel
+BW-2025-00281,Raub,Online-Plattform,Heilbronn,1,2025-02-11 15:00:00,0,Tablet,1&1,21497,82.159.102.40,7252.0,3,2,48,0.724,24.58,1,0,1,0,hoch
+BW-2025-00282,Sachbeschädigung,Brecheisen,Ulm,0,2025-01-14 07:00:00,0,Android Smartphone,Vodafone,60134,211.43.161.190,1276.9,3,2,37,0.758,3.47,1,0,1,0,mittel
+BW-2025-00283,Drogenhandel,keines,Heilbronn,1,2025-09-23 03:00:00,1,Laptop,O2,45446,57.8.105.193,0.0,2,2,13,0.408,0.0,0,1,0,0,niedrig
+BW-2025-00284,Betrug,Phishing-Mail,Heidelberg,0,2025-02-09 23:00:00,1,iPhone,O2,71824,146.136.223.237,975.72,1,2,21,0.38,6.26,0,0,0,0,niedrig
+BW-2025-00285,Drogenhandel,Fahrzeug,Mannheim,1,2025-06-14 15:00:00,0,iPhone,Vodafone,44934,147.159.225.7,2038.82,2,0,13,0.554,0.0,0,0,0,0,niedrig
+BW-2025-00286,Betrug,Fahrzeug,Ulm,0,2025-05-01 05:00:00,1,Laptop,Vodafone,41005,162.175.91.222,6557.71,1,0,30,0.893,9.62,1,1,1,0,mittel
+BW-2025-00287,Drogenhandel,Phishing-Mail,Stuttgart,1,2025-05-09 12:00:00,0,Laptop,Vodafone,74517,149.200.173.147,0.0,4,3,63,1.0,31.72,0,1,1,1,hoch
+BW-2025-00288,Cybercrime,Brecheisen,Heilbronn,1,2025-02-08 08:00:00,0,iPhone,Telekom,40490,165.6.146.149,1760.06,2,0,5,0.784,10.07,0,1,0,0,niedrig
+BW-2025-00289,Raub,Smartphone,Heilbronn,1,2025-05-18 12:00:00,0,iPhone,O2,27103,98.59.252.23,5005.3,2,1,26,0.168,4.84,1,0,0,0,mittel
+BW-2025-00290,Einbruchdiebstahl,Phishing-Mail,Stuttgart,1,2025-04-07 16:00:00,0,iPhone,Vodafone,24538,145.187.66.199,4891.38,1,1,38,0.456,9.44,1,0,0,0,mittel
+BW-2025-00291,Drogenhandel,Laptop,Freiburg,1,2025-08-18 18:00:00,0,Tablet,Telekom,49552,93.150.31.179,13966.08,1,1,2,0.651,28.62,1,0,0,1,hoch
+BW-2025-00292,Einbruchdiebstahl,Brecheisen,Ulm,0,2025-04-29 22:00:00,1,Tablet,O2,83659,188.141.44.140,0.0,1,1,16,0.431,1.96,0,0,0,0,niedrig
+BW-2025-00293,Drogenhandel,Fahrzeug,Mannheim,1,2025-07-21 01:00:00,1,Tablet,O2,26691,56.126.74.69,1241.33,1,2,9,0.398,0.37,1,1,0,0,niedrig
+BW-2025-00294,Betrug,Messer,Stuttgart,1,2025-05-31 19:00:00,0,Android Smartphone,O2,93839,155.199.230.172,0.0,3,3,23,0.492,3.58,0,1,1,0,mittel
+BW-2025-00295,Diebstahl,keines,Mannheim,1,2025-06-12 11:00:00,0,Laptop,Telekom,55457,92.203.249.229,0.0,1,1,25,0.581,16.11,1,1,0,1,mittel
+BW-2025-00296,Einbruchdiebstahl,Laptop,Freiburg,1,2025-07-01 01:00:00,1,Tablet,Telekom,37483,74.225.232.243,4383.87,1,4,30,0.876,5.6,0,1,1,1,mittel
+BW-2025-00297,Diebstahl,Phishing-Mail,Pforzheim,0,2025-02-02 20:00:00,0,iPhone,Telekom,60585,123.47.49.229,8045.15,2,3,31,0.539,17.31,1,0,0,0,mittel
+BW-2025-00298,Sachbeschädigung,Brecheisen,Ulm,0,2025-08-28 18:00:00,0,Tablet,1&1,81568,107.22.199.67,1086.65,2,1,23,0.455,3.48,1,0,1,0,niedrig
+BW-2025-00299,Diebstahl,keines,Heidelberg,0,2025-02-20 07:00:00,0,Android Smartphone,1&1,14379,86.127.33.131,10609.36,1,3,53,0.849,0.0,1,1,1,1,hoch
+BW-2025-00300,Betrug,Phishing-Mail,Pforzheim,0,2025-08-22 08:00:00,0,iPhone,Telekom,32296,107.30.2.17,1666.77,1,0,8,0.31,0.0,0,0,1,1,niedrig
+BW-2025-00301,Einbruchdiebstahl,Laptop,Karlsruhe,1,2025-01-22 03:00:00,1,Laptop,1&1,66534,178.84.162.159,4360.89,2,0,24,0.522,14.44,1,0,0,0,mittel
+BW-2025-00302,Einbruchdiebstahl,Messer,Mannheim,1,2025-08-15 00:00:00,1,iPhone,Telekom,36941,59.162.206.232,8327.06,2,0,34,0.971,23.16,1,0,1,1,hoch
+BW-2025-00303,Sachbeschädigung,Online-Plattform,Pforzheim,0,2025-03-07 11:00:00,0,Laptop,Vodafone,16505,111.149.61.95,595.38,1,1,21,0.237,4.28,0,1,1,0,niedrig
+BW-2025-00304,Körperverletzung,Brecheisen,Stuttgart,1,2025-10-19 21:00:00,0,Laptop,Telekom,21485,86.103.151.161,1962.79,1,1,0,0.24,6.71,0,0,0,0,niedrig
+BW-2025-00305,Körperverletzung,Fahrzeug,Karlsruhe,1,2025-04-27 14:00:00,0,iPhone,Vodafone,93648,85.180.39.227,4512.35,4,2,49,0.617,27.47,1,1,1,1,hoch
+BW-2025-00306,Diebstahl,keines,Karlsruhe,1,2025-11-18 11:00:00,0,Laptop,1&1,74106,180.57.235.209,732.09,1,0,27,0.195,6.1,0,1,1,0,niedrig
+BW-2025-00307,Cybercrime,Laptop,Ulm,0,2025-09-18 09:00:00,0,Android Smartphone,O2,58418,58.195.230.73,0.0,1,0,10,0.526,6.06,1,1,0,0,niedrig
+BW-2025-00308,Körperverletzung,Smartphone,Pforzheim,0,2025-06-29 19:00:00,0,Tablet,1&1,39654,79.192.122.154,1549.5,3,2,34,0.773,16.32,1,0,0,0,mittel
+BW-2025-00309,Betrug,Brecheisen,Karlsruhe,1,2025-10-10 14:00:00,0,iPhone,O2,87296,69.62.70.176,4059.37,3,1,30,0.736,13.26,1,1,1,1,mittel
+BW-2025-00310,Betrug,Messer,Ulm,0,2025-06-10 20:00:00,0,Desktop PC,1&1,72424,87.129.146.96,5158.62,1,2,37,0.64,17.1,1,1,0,1,mittel
+BW-2025-00311,Diebstahl,Messer,Stuttgart,1,2025-03-24 02:00:00,1,Desktop PC,Vodafone,68856,55.65.203.211,0.0,2,0,8,0.481,0.0,0,0,1,0,niedrig
+BW-2025-00312,Einbruchdiebstahl,Fahrzeug,Heidelberg,0,2025-10-17 00:00:00,1,Android Smartphone,Telekom,20271,185.225.79.135,6182.22,2,0,19,0.8,14.68,1,0,1,0,mittel
+BW-2025-00313,Sachbeschädigung,Fahrzeug,Mannheim,1,2025-08-07 06:00:00,0,Desktop PC,O2,18783,33.71.110.63,1153.18,1,0,12,0.61,0.0,0,0,1,1,niedrig
+BW-2025-00314,Sachbeschädigung,Messer,Freiburg,1,2025-01-09 10:00:00,0,Laptop,1&1,91665,161.107.98.234,7555.48,4,1,29,0.39,13.77,1,0,0,0,mittel
+BW-2025-00315,Sachbeschädigung,Laptop,Ulm,0,2025-03-10 09:00:00,0,Android Smartphone,Vodafone,23845,155.12.10.247,912.59,1,1,16,0.563,8.64,1,0,0,0,niedrig
+BW-2025-00316,Diebstahl,Online-Plattform,Freiburg,1,2025-09-19 11:00:00,0,Tablet,O2,95824,135.79.72.228,5131.62,1,2,18,0.785,13.99,1,0,1,1,mittel
+BW-2025-00317,Körperverletzung,Smartphone,Mannheim,1,2025-04-09 04:00:00,1,Laptop,1&1,91034,166.208.212.199,16735.48,4,3,55,0.548,38.27,1,1,1,0,hoch
+BW-2025-00318,Sachbeschädigung,Smartphone,Ulm,0,2025-02-03 15:00:00,0,Laptop,Vodafone,72287,79.193.241.181,3698.99,2,1,6,0.725,0.63,1,0,1,0,mittel
+BW-2025-00319,Drogenhandel,Smartphone,Freiburg,1,2025-07-11 09:00:00,0,Laptop,O2,74437,189.57.9.244,7258.55,3,2,28,0.438,16.09,1,0,0,1,mittel
+BW-2025-00320,Diebstahl,Fahrzeug,Mannheim,1,2025-08-08 01:00:00,1,Laptop,1&1,45313,197.146.153.46,1519.25,1,1,45,0.691,16.21,0,0,0,1,mittel
+BW-2025-00321,Sachbeschädigung,Laptop,Heidelberg,0,2025-10-05 23:00:00,1,Tablet,Vodafone,73499,205.110.39.6,2183.67,3,0,6,0.285,5.67,0,1,0,0,niedrig
+BW-2025-00322,Drogenhandel,Smartphone,Mannheim,1,2025-12-12 23:00:00,1,iPhone,O2,62872,45.185.242.76,2546.23,4,0,24,0.76,6.63,1,0,0,0,niedrig
+BW-2025-00323,Betrug,Brecheisen,Heidelberg,0,2025-06-20 07:00:00,0,Android Smartphone,Telekom,14334,127.217.209.245,0.0,2,0,2,0.636,6.3,0,0,0,0,niedrig
+BW-2025-00324,Betrug,Phishing-Mail,Heidelberg,0,2025-11-13 21:00:00,0,Laptop,O2,76207,112.158.2.88,1803.34,3,0,12,0.322,7.06,0,1,0,1,niedrig
+BW-2025-00325,Diebstahl,Smartphone,Heidelberg,0,2025-11-01 12:00:00,0,Laptop,1&1,33276,132.126.57.132,6026.03,2,3,18,0.532,12.03,1,0,1,0,mittel
+BW-2025-00326,Drogenhandel,Phishing-Mail,Mannheim,1,2025-07-14 14:00:00,0,Laptop,Telekom,13597,109.245.247.194,0.0,2,2,18,0.452,13.49,1,1,0,0,hoch
+BW-2025-00327,Betrug,Brecheisen,Heidelberg,0,2025-05-22 03:00:00,1,Android Smartphone,Vodafone,45269,177.206.109.122,3543.91,4,2,10,0.027,9.96,0,0,0,0,niedrig
+BW-2025-00328,Sachbeschädigung,Smartphone,Stuttgart,1,2025-04-29 05:00:00,1,Tablet,Vodafone,88792,216.5.121.226,4218.24,4,1,59,0.806,0.0,0,1,1,1,hoch
+BW-2025-00329,Betrug,Fahrzeug,Pforzheim,0,2025-07-07 23:00:00,1,Desktop PC,O2,65549,107.96.177.235,12138.66,2,3,27,0.584,24.07,0,0,1,0,hoch
+BW-2025-00330,Drogenhandel,keines,Pforzheim,0,2025-07-26 06:00:00,0,Android Smartphone,1&1,98761,144.72.134.123,1144.97,1,2,16,0.332,5.74,0,1,1,0,niedrig
+BW-2025-00331,Sachbeschädigung,Laptop,Stuttgart,1,2025-07-12 23:00:00,1,Desktop PC,O2,49121,186.53.179.11,0.0,1,2,36,0.515,3.58,0,0,1,1,mittel
+BW-2025-00332,Diebstahl,keines,Karlsruhe,1,2025-08-10 23:00:00,1,Laptop,O2,46291,77.218.134.9,918.8,2,0,10,0.336,5.7,0,0,1,0,niedrig
+BW-2025-00333,Cybercrime,Fahrzeug,Mannheim,1,2025-02-08 18:00:00,0,Desktop PC,Vodafone,88647,114.114.254.159,1701.85,1,2,28,0.359,6.31,1,0,1,0,niedrig
+BW-2025-00334,Drogenhandel,Brecheisen,Stuttgart,1,2025-06-27 02:00:00,1,Tablet,O2,64862,114.147.203.9,2880.48,2,1,10,0.392,0.0,0,0,0,0,niedrig
+BW-2025-00335,Sachbeschädigung,Smartphone,Heidelberg,0,2025-12-31 23:00:00,1,Laptop,Vodafone,93665,211.239.3.119,2974.58,3,2,24,0.554,2.97,1,0,0,1,mittel
+BW-2025-00336,Körperverletzung,Phishing-Mail,Pforzheim,0,2025-07-20 13:00:00,0,Android Smartphone,Vodafone,22793,131.133.24.125,8705.12,4,2,76,0.881,16.14,1,1,1,1,hoch
+BW-2025-00337,Einbruchdiebstahl,Online-Plattform,Mannheim,1,2025-06-01 17:00:00,0,Laptop,Telekom,56567,68.44.4.218,5552.42,2,1,29,0.483,3.93,1,0,1,1,mittel
+BW-2025-00338,Cybercrime,Messer,Freiburg,1,2025-07-20 17:00:00,0,Laptop,O2,70786,41.38.237.49,0.0,3,1,15,0.441,0.34,0,0,0,0,niedrig
+BW-2025-00339,Körperverletzung,Smartphone,Karlsruhe,1,2025-12-08 15:00:00,0,Tablet,Vodafone,25704,185.66.53.104,6335.74,1,3,14,0.651,7.91,0,0,1,0,mittel
+BW-2025-00340,Sachbeschädigung,Online-Plattform,Ulm,0,2025-04-04 18:00:00,0,iPhone,Vodafone,36253,98.185.54.176,2006.44,3,3,31,0.606,10.96,1,0,1,0,mittel
+BW-2025-00341,Sachbeschädigung,keines,Mannheim,1,2025-02-25 04:00:00,1,Laptop,Vodafone,73908,96.39.52.7,760.51,1,2,28,0.245,0.0,1,0,0,0,niedrig
+BW-2025-00342,Einbruchdiebstahl,Phishing-Mail,Stuttgart,1,2025-07-06 17:00:00,0,iPhone,1&1,37444,205.221.144.29,7243.58,4,0,53,0.278,1.62,0,0,1,1,mittel
+BW-2025-00343,Einbruchdiebstahl,Brecheisen,Heilbronn,1,2025-10-24 01:00:00,1,iPhone,Vodafone,93032,120.237.203.165,9524.14,2,5,81,0.662,14.66,1,1,1,1,hoch
+BW-2025-00344,Sachbeschädigung,Messer,Heilbronn,1,2025-01-26 18:00:00,0,Tablet,Telekom,79963,62.12.207.245,3495.66,2,2,34,0.575,9.32,1,1,0,0,mittel
+BW-2025-00345,Drogenhandel,Smartphone,Freiburg,1,2025-01-13 05:00:00,1,Desktop PC,Vodafone,98702,12.14.66.101,251.96,3,2,29,0.801,12.35,1,1,0,1,mittel
+BW-2025-00346,Raub,Fahrzeug,Freiburg,1,2025-03-12 02:00:00,1,Laptop,Vodafone,60272,139.218.168.202,5425.13,2,2,76,1.0,45.04,1,1,1,1,hoch
+BW-2025-00347,Cybercrime,Brecheisen,Karlsruhe,1,2025-07-18 12:00:00,0,iPhone,O2,69759,197.83.49.34,0.0,1,0,2,0.591,8.73,1,1,0,0,niedrig
+BW-2025-00348,Drogenhandel,Messer,Mannheim,1,2025-09-03 05:00:00,1,Laptop,1&1,34697,53.53.206.48,7516.9,4,8,50,0.7,12.11,1,0,1,1,hoch
+BW-2025-00349,Sachbeschädigung,Smartphone,Heidelberg,0,2025-05-25 04:00:00,1,Android Smartphone,Vodafone,12872,161.246.28.9,1702.23,1,2,11,0.662,11.13,1,1,0,1,mittel
+BW-2025-00350,Einbruchdiebstahl,Laptop,Freiburg,1,2025-06-24 14:00:00,0,iPhone,1&1,80088,170.133.194.221,1085.63,2,0,24,0.511,0.0,0,0,0,0,niedrig
+BW-2025-00351,Betrug,Smartphone,Karlsruhe,1,2025-03-21 01:00:00,1,iPhone,Telekom,64627,124.190.148.195,4378.7,1,2,21,0.572,10.45,1,1,0,1,mittel
+BW-2025-00352,Sachbeschädigung,Laptop,Pforzheim,0,2025-05-21 06:00:00,0,Tablet,Vodafone,99881,172.92.21.154,0.0,1,0,18,0.543,5.13,0,1,1,1,mittel
+BW-2025-00353,Betrug,Online-Plattform,Ulm,0,2025-04-04 15:00:00,0,iPhone,O2,64896,37.219.168.207,0.0,2,2,16,0.146,8.92,0,0,0,0,niedrig
+BW-2025-00354,Diebstahl,Online-Plattform,Karlsruhe,1,2025-05-16 14:00:00,0,iPhone,1&1,89823,62.34.198.139,2387.83,1,1,13,0.411,8.81,1,1,0,1,niedrig
+BW-2025-00355,Cybercrime,Fahrzeug,Freiburg,1,2025-04-20 11:00:00,0,Tablet,O2,15164,151.82.210.113,11489.41,3,4,46,0.766,20.2,1,0,1,1,hoch
+BW-2025-00356,Körperverletzung,Fahrzeug,Heilbronn,1,2025-01-02 20:00:00,0,Laptop,Vodafone,11671,182.240.38.62,1414.43,2,0,15,0.675,0.56,1,1,1,0,niedrig
+BW-2025-00357,Diebstahl,Laptop,Heilbronn,1,2025-12-16 07:00:00,0,Android Smartphone,Telekom,19836,196.59.119.12,9236.92,2,3,34,0.506,4.43,0,0,0,1,mittel
+BW-2025-00358,Diebstahl,Online-Plattform,Heidelberg,0,2025-06-30 07:00:00,0,Tablet,O2,70853,23.210.14.67,1765.57,4,4,51,0.759,4.77,1,1,1,0,hoch
+BW-2025-00359,Diebstahl,Brecheisen,Stuttgart,1,2025-08-02 11:00:00,0,Laptop,O2,65836,200.16.248.124,210.46,2,2,22,0.239,20.48,1,1,1,1,mittel
+BW-2025-00360,Diebstahl,Laptop,Stuttgart,1,2025-04-27 09:00:00,0,iPhone,Vodafone,53078,102.134.234.105,3520.68,5,4,56,0.723,16.51,1,1,1,1,hoch
+BW-2025-00361,Körperverletzung,Online-Plattform,Karlsruhe,1,2025-05-05 20:00:00,0,Laptop,O2,24920,113.153.90.245,1008.77,2,3,16,0.171,3.27,0,0,0,0,niedrig
+BW-2025-00362,Sachbeschädigung,keines,Pforzheim,0,2025-10-15 21:00:00,0,Tablet,1&1,95045,215.2.67.198,2035.18,2,0,26,0.459,6.56,1,1,1,1,mittel
+BW-2025-00363,Einbruchdiebstahl,Laptop,Mannheim,1,2025-03-12 19:00:00,0,iPhone,Vodafone,64529,162.59.105.119,6233.09,2,1,43,0.548,11.78,0,1,1,1,mittel
+BW-2025-00364,Körperverletzung,keines,Mannheim,1,2025-09-02 19:00:00,0,Desktop PC,1&1,90131,18.96.128.31,4221.03,1,1,13,0.447,6.85,0,0,1,0,mittel
+BW-2025-00365,Einbruchdiebstahl,keines,Heilbronn,1,2025-10-28 20:00:00,0,iPhone,1&1,16025,27.54.202.129,6074.71,2,1,14,0.418,0.01,1,1,0,0,mittel
+BW-2025-00366,Cybercrime,Phishing-Mail,Stuttgart,1,2025-08-19 22:00:00,1,Desktop PC,Vodafone,78039,144.234.22.224,333.28,1,1,6,0.159,0.32,1,0,1,0,niedrig
+BW-2025-00367,Diebstahl,Messer,Heidelberg,0,2025-09-20 17:00:00,0,Tablet,O2,29484,222.145.109.207,2268.77,2,0,41,0.667,7.53,1,1,1,1,mittel
+BW-2025-00368,Betrug,Smartphone,Mannheim,1,2025-12-05 11:00:00,0,Desktop PC,1&1,31679,30.42.94.88,3089.16,2,1,14,0.23,2.7,0,0,1,1,mittel
+BW-2025-00369,Körperverletzung,Phishing-Mail,Heidelberg,0,2025-02-04 08:00:00,0,Laptop,O2,76444,68.3.75.101,3898.66,1,3,28,0.297,0.0,1,0,0,1,mittel
+BW-2025-00370,Sachbeschädigung,Messer,Heidelberg,0,2025-10-31 05:00:00,1,iPhone,1&1,85108,125.182.150.202,740.62,1,0,19,0.326,5.61,0,1,0,1,niedrig
+BW-2025-00371,Diebstahl,keines,Heilbronn,1,2025-12-06 12:00:00,0,Laptop,Telekom,95638,15.140.132.128,540.77,1,0,18,0.563,5.92,0,0,0,0,niedrig
+BW-2025-00372,Diebstahl,Messer,Ulm,0,2025-03-04 01:00:00,1,iPhone,Telekom,89194,169.123.30.149,35.85,1,2,12,0.289,0.87,1,0,1,0,niedrig
+BW-2025-00373,Cybercrime,Fahrzeug,Heilbronn,1,2025-02-07 01:00:00,1,Laptop,O2,39218,127.87.125.71,937.52,1,2,32,0.809,3.36,1,1,1,0,mittel
+BW-2025-00374,Drogenhandel,keines,Freiburg,1,2025-03-08 12:00:00,0,Tablet,Telekom,96364,67.196.107.56,10.53,3,1,23,0.392,9.96,1,0,0,0,mittel
+BW-2025-00375,Betrug,Phishing-Mail,Freiburg,1,2025-03-14 13:00:00,0,Laptop,O2,16000,53.6.22.9,2960.98,3,2,29,0.859,24.49,1,0,0,0,mittel
+BW-2025-00376,Körperverletzung,Brecheisen,Ulm,0,2025-05-14 17:00:00,0,iPhone,O2,34581,41.233.50.96,6814.92,1,3,25,0.216,14.46,0,0,1,1,mittel
+BW-2025-00377,Sachbeschädigung,Fahrzeug,Heilbronn,1,2025-03-15 13:00:00,0,Android Smartphone,O2,64325,22.231.114.142,200.75,1,0,13,0.376,7.4,1,1,0,0,niedrig
+BW-2025-00378,Diebstahl,keines,Heilbronn,1,2025-12-07 12:00:00,0,Desktop PC,Vodafone,10568,146.197.245.38,728.34,2,3,18,0.418,1.78,0,1,0,1,niedrig
+BW-2025-00379,Betrug,Messer,Heilbronn,1,2025-04-29 13:00:00,0,Desktop PC,Vodafone,26827,37.130.131.60,7414.73,1,3,48,0.972,11.86,1,1,0,0,hoch
+BW-2025-00380,Sachbeschädigung,Phishing-Mail,Ulm,0,2025-07-06 18:00:00,0,Tablet,Vodafone,62149,98.197.152.44,7606.54,3,4,29,0.718,31.03,0,1,1,0,hoch
+BW-2025-00381,Cybercrime,keines,Mannheim,1,2025-12-16 17:00:00,0,Android Smartphone,1&1,49179,190.149.33.147,531.34,1,5,29,0.752,6.7,1,0,1,1,mittel
+BW-2025-00382,Drogenhandel,Fahrzeug,Heidelberg,0,2025-08-24 17:00:00,0,Android Smartphone,O2,98129,44.246.198.61,2224.11,1,0,19,0.427,2.88,0,1,0,0,niedrig
+BW-2025-00383,Einbruchdiebstahl,Phishing-Mail,Karlsruhe,1,2025-10-12 23:00:00,1,Laptop,1&1,98374,202.116.83.28,2244.36,4,2,16,0.84,32.56,1,0,0,0,hoch
+BW-2025-00384,Cybercrime,Messer,Stuttgart,1,2025-01-18 06:00:00,0,Desktop PC,Telekom,59921,48.52.33.188,0.0,2,0,21,0.623,11.87,1,1,1,0,mittel
+BW-2025-00385,Betrug,Smartphone,Heidelberg,0,2025-07-15 15:00:00,0,Laptop,Vodafone,99573,75.36.196.36,0.0,3,6,43,0.5,25.01,1,0,1,0,mittel
+BW-2025-00386,Einbruchdiebstahl,Smartphone,Pforzheim,0,2025-09-02 20:00:00,0,Android Smartphone,Telekom,69322,37.60.33.49,573.71,2,0,30,0.211,0.0,0,0,1,1,niedrig
+BW-2025-00387,Raub,Messer,Heidelberg,0,2025-02-02 01:00:00,1,Desktop PC,O2,60014,110.54.200.21,634.48,1,1,12,0.646,5.44,0,0,1,0,niedrig
+BW-2025-00388,Sachbeschädigung,Phishing-Mail,Stuttgart,1,2025-05-19 15:00:00,0,iPhone,O2,91338,210.234.177.155,1849.14,3,2,34,0.616,40.9,1,1,1,1,hoch
+BW-2025-00389,Körperverletzung,Fahrzeug,Freiburg,1,2025-05-13 02:00:00,1,Desktop PC,Vodafone,48558,125.229.136.233,1234.55,1,0,10,0.263,6.78,0,0,0,0,niedrig
+BW-2025-00390,Einbruchdiebstahl,Laptop,Mannheim,1,2025-09-15 12:00:00,0,Android Smartphone,Telekom,15326,120.178.176.32,0.0,2,0,12,0.203,4.87,1,1,1,0,niedrig
+BW-2025-00391,Cybercrime,Online-Plattform,Mannheim,1,2025-01-04 20:00:00,0,Android Smartphone,O2,53327,130.97.125.128,2683.44,1,2,0,0.388,15.74,1,1,1,0,mittel
+BW-2025-00392,Einbruchdiebstahl,Smartphone,Mannheim,1,2025-07-25 14:00:00,0,Laptop,Telekom,74297,213.55.108.54,4011.9,3,1,37,0.467,14.2,1,0,0,0,mittel
+BW-2025-00393,Drogenhandel,Laptop,Freiburg,1,2025-05-06 12:00:00,0,Desktop PC,Vodafone,78236,28.116.3.87,20665.95,3,2,55,0.799,9.88,0,1,0,1,hoch
+BW-2025-00394,Einbruchdiebstahl,Messer,Ulm,0,2025-06-01 00:00:00,1,iPhone,O2,37964,180.208.73.220,4125.74,3,0,18,0.423,11.14,0,0,1,1,mittel
+BW-2025-00395,Drogenhandel,Phishing-Mail,Freiburg,1,2025-12-29 03:00:00,1,Laptop,Vodafone,72240,154.179.161.52,4243.11,1,1,29,0.477,0.0,1,1,1,0,mittel
+BW-2025-00396,Betrug,Laptop,Freiburg,1,2025-06-16 10:00:00,0,Tablet,Vodafone,15226,185.187.175.156,10851.47,2,2,44,0.639,22.95,1,1,0,1,hoch
+BW-2025-00397,Drogenhandel,Messer,Karlsruhe,1,2025-07-13 01:00:00,1,Tablet,O2,13238,143.81.115.3,8294.08,3,6,48,1.0,9.62,0,0,1,0,hoch
+BW-2025-00398,Drogenhandel,keines,Heilbronn,1,2025-05-12 10:00:00,0,iPhone,O2,51984,142.142.154.97,1041.4,1,0,7,0.154,8.85,0,1,0,1,niedrig
+BW-2025-00399,Diebstahl,Laptop,Mannheim,1,2025-02-14 16:00:00,0,Desktop PC,Telekom,37627,182.155.21.61,2267.14,1,1,42,0.333,22.7,0,0,1,0,mittel
+BW-2025-00400,Raub,Messer,Karlsruhe,1,2025-02-19 05:00:00,1,Android Smartphone,1&1,99921,50.92.117.220,0.0,1,0,10,0.325,7.83,0,0,1,0,niedrig
+BW-2025-00401,Betrug,keines,Freiburg,1,2025-02-20 00:00:00,1,iPhone,Telekom,17113,56.144.228.238,4019.01,1,2,28,0.581,9.75,1,1,0,1,mittel
+BW-2025-00402,Cybercrime,Laptop,Heidelberg,0,2025-09-22 21:00:00,0,Laptop,1&1,69129,172.85.235.44,14021.11,3,6,44,0.998,23.03,1,0,1,0,hoch
+BW-2025-00403,Sachbeschädigung,Messer,Freiburg,1,2025-03-22 18:00:00,0,iPhone,1&1,80101,12.130.151.130,1632.69,2,1,32,0.496,0.0,0,0,1,0,mittel
+BW-2025-00404,Diebstahl,Smartphone,Karlsruhe,1,2025-07-17 20:00:00,0,Laptop,Telekom,99899,88.37.81.235,5965.94,1,1,23,0.357,8.95,0,0,1,1,mittel
+BW-2025-00405,Diebstahl,Online-Plattform,Heilbronn,1,2025-01-22 00:00:00,1,Tablet,1&1,72126,51.4.208.172,10211.78,3,3,37,0.564,14.98,1,1,0,1,hoch
+BW-2025-00406,Raub,Brecheisen,Ulm,0,2025-04-09 08:00:00,0,Desktop PC,O2,49066,184.98.208.148,4018.89,1,0,13,0.519,0.0,0,1,1,0,niedrig
+BW-2025-00407,Drogenhandel,Smartphone,Mannheim,1,2025-01-04 10:00:00,0,iPhone,Telekom,85067,163.190.95.240,10094.24,2,4,17,0.353,4.18,1,1,1,1,mittel
+BW-2025-00408,Sachbeschädigung,Laptop,Pforzheim,0,2025-05-25 13:00:00,0,Android Smartphone,O2,64087,176.91.196.79,4735.16,1,1,25,0.442,14.79,0,0,0,1,mittel
+BW-2025-00409,Einbruchdiebstahl,Brecheisen,Mannheim,1,2025-05-13 15:00:00,0,Android Smartphone,O2,25023,57.109.122.4,0.0,3,1,53,1.0,16.22,1,0,1,1,hoch
+BW-2025-00410,Betrug,keines,Karlsruhe,1,2025-06-21 03:00:00,1,Laptop,Telekom,22871,61.137.245.139,0.0,3,2,53,0.542,11.47,0,1,0,1,mittel
+BW-2025-00411,Körperverletzung,Phishing-Mail,Freiburg,1,2025-03-10 07:00:00,0,Android Smartphone,Vodafone,47373,169.152.150.29,0.0,1,0,19,0.069,0.0,0,1,0,1,niedrig
+BW-2025-00412,Diebstahl,Fahrzeug,Freiburg,1,2025-08-13 03:00:00,1,Tablet,1&1,90785,179.207.229.137,0.0,2,1,15,0.072,4.66,0,1,1,1,niedrig
+BW-2025-00413,Cybercrime,Brecheisen,Freiburg,1,2025-04-26 02:00:00,1,Laptop,1&1,10633,91.46.216.24,17883.0,2,3,66,0.73,11.35,1,0,1,0,hoch
+BW-2025-00414,Raub,Fahrzeug,Ulm,0,2025-04-02 16:00:00,0,Laptop,O2,99073,198.164.26.224,11417.82,2,5,43,0.635,5.7,1,1,1,1,hoch
+BW-2025-00415,Drogenhandel,keines,Heilbronn,1,2025-07-28 12:00:00,0,Tablet,O2,73828,152.58.93.118,3141.19,4,5,59,0.579,24.44,1,1,1,0,hoch
+BW-2025-00416,Diebstahl,Brecheisen,Karlsruhe,1,2025-05-15 02:00:00,1,Laptop,Vodafone,44502,198.201.148.115,1810.33,1,0,13,0.567,2.23,1,0,0,0,niedrig
+BW-2025-00417,Diebstahl,Laptop,Stuttgart,1,2025-10-04 13:00:00,0,Desktop PC,Telekom,87337,65.119.123.228,790.59,1,1,9,0.216,1.28,0,1,0,0,niedrig
+BW-2025-00418,Betrug,Online-Plattform,Heilbronn,1,2025-09-25 22:00:00,1,Android Smartphone,O2,39269,208.171.72.218,4234.12,2,3,16,0.371,19.2,0,1,1,1,mittel
+BW-2025-00419,Cybercrime,Brecheisen,Heilbronn,1,2025-09-28 20:00:00,0,Desktop PC,Telekom,57692,139.142.8.210,3581.77,1,1,18,0.759,14.56,1,1,1,0,mittel
+BW-2025-00420,Betrug,Fahrzeug,Mannheim,1,2025-11-01 14:00:00,0,Desktop PC,Vodafone,30869,56.220.117.107,12193.71,4,5,51,1.0,19.59,1,1,0,1,hoch
+BW-2025-00421,Einbruchdiebstahl,keines,Freiburg,1,2025-11-29 21:00:00,0,iPhone,Vodafone,40375,27.23.171.68,0.0,1,1,14,0.353,0.0,0,0,0,0,niedrig
+BW-2025-00422,Cybercrime,Phishing-Mail,Heidelberg,0,2025-12-20 13:00:00,0,iPhone,Vodafone,57349,110.90.17.242,1992.59,2,3,38,0.639,21.15,1,1,1,1,mittel
+BW-2025-00423,Körperverletzung,keines,Stuttgart,1,2025-03-12 11:00:00,0,iPhone,O2,78337,173.49.114.17,2378.61,1,0,10,0.153,4.54,1,1,0,0,niedrig
+BW-2025-00424,Cybercrime,Online-Plattform,Mannheim,1,2025-09-07 09:00:00,0,Tablet,1&1,87028,178.65.16.75,0.0,4,0,36,0.622,12.55,1,0,1,0,mittel
+BW-2025-00425,Diebstahl,Online-Plattform,Ulm,0,2025-08-29 21:00:00,0,Android Smartphone,1&1,55224,135.162.245.130,12986.19,3,1,42,0.997,26.44,1,1,0,1,hoch
+BW-2025-00426,Körperverletzung,Smartphone,Mannheim,1,2025-06-07 00:00:00,1,Tablet,Vodafone,20104,142.184.250.5,0.0,2,1,17,0.32,7.05,1,1,0,1,niedrig
+BW-2025-00427,Cybercrime,Fahrzeug,Mannheim,1,2025-09-05 06:00:00,0,Android Smartphone,Vodafone,88908,194.161.38.126,1813.59,2,1,8,0.253,3.71,0,1,1,0,niedrig
+BW-2025-00428,Diebstahl,Fahrzeug,Ulm,0,2025-11-25 17:00:00,0,Laptop,Telekom,98503,133.147.152.187,3239.25,1,3,20,0.559,9.59,1,0,0,1,mittel
+BW-2025-00429,Körperverletzung,Fahrzeug,Mannheim,1,2025-06-16 08:00:00,0,Tablet,Telekom,15655,43.189.20.34,9035.46,2,3,46,0.97,25.18,0,1,1,1,hoch
+BW-2025-00430,Einbruchdiebstahl,Brecheisen,Stuttgart,1,2025-02-08 04:00:00,1,Desktop PC,Vodafone,31802,77.29.77.202,5989.45,2,1,31,0.234,8.72,1,1,1,1,mittel
+BW-2025-00431,Einbruchdiebstahl,Messer,Stuttgart,1,2025-05-28 20:00:00,0,Laptop,Telekom,68877,166.69.71.224,13305.27,4,2,49,1.0,25.46,1,1,1,1,hoch
+BW-2025-00432,Körperverletzung,keines,Mannheim,1,2025-04-08 10:00:00,0,Android Smartphone,1&1,86368,221.9.56.59,6471.49,4,2,19,0.481,12.3,0,1,0,0,mittel
+BW-2025-00433,Einbruchdiebstahl,Online-Plattform,Mannheim,1,2025-02-16 23:00:00,1,Laptop,1&1,40122,107.210.117.154,234.29,2,0,25,0.583,6.18,1,1,0,1,niedrig
+BW-2025-00434,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-12-23 20:00:00,0,iPhone,Vodafone,76107,186.50.186.248,646.6,2,1,5,0.401,0.62,0,0,1,0,niedrig
+BW-2025-00435,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-01-27 15:00:00,0,Android Smartphone,1&1,79655,139.218.46.215,4883.47,2,0,44,0.303,14.05,1,1,0,1,mittel
+BW-2025-00436,Diebstahl,Laptop,Heilbronn,1,2025-10-22 13:00:00,0,Android Smartphone,Telekom,78425,118.177.242.188,590.72,1,0,7,0.107,0.0,1,0,1,0,niedrig
+BW-2025-00437,Drogenhandel,Smartphone,Ulm,0,2025-09-18 06:00:00,0,Android Smartphone,1&1,55943,161.203.218.251,9858.5,1,6,36,0.624,18.68,1,1,1,0,hoch
+BW-2025-00438,Diebstahl,Messer,Mannheim,1,2025-06-08 17:00:00,0,Laptop,1&1,20986,83.132.42.20,0.0,2,0,11,0.543,5.99,1,1,1,0,niedrig
+BW-2025-00439,Sachbeschädigung,Online-Plattform,Heidelberg,0,2025-12-23 17:00:00,0,iPhone,Telekom,25444,144.15.28.220,8687.66,3,0,26,0.794,11.53,0,0,0,1,mittel
+BW-2025-00440,Betrug,Messer,Heidelberg,0,2025-09-05 07:00:00,0,Laptop,1&1,23970,50.159.145.171,0.0,2,1,16,0.366,10.09,0,0,0,1,niedrig
+BW-2025-00441,Sachbeschädigung,Online-Plattform,Pforzheim,0,2025-09-07 14:00:00,0,Desktop PC,1&1,90200,81.139.34.175,0.0,2,2,19,0.332,3.77,0,1,1,1,niedrig
+BW-2025-00442,Sachbeschädigung,Fahrzeug,Ulm,0,2025-05-03 00:00:00,1,Desktop PC,1&1,58524,154.32.197.231,2247.39,1,0,26,0.093,5.11,0,1,0,0,niedrig
+BW-2025-00443,Körperverletzung,Online-Plattform,Pforzheim,0,2025-09-29 18:00:00,0,Desktop PC,O2,28096,179.198.194.223,6627.85,2,1,51,0.599,11.88,1,0,0,1,hoch
+BW-2025-00444,Diebstahl,Fahrzeug,Heilbronn,1,2025-05-27 09:00:00,0,Android Smartphone,Telekom,76629,113.139.40.218,2513.82,2,2,22,0.49,14.85,1,0,1,1,mittel
+BW-2025-00445,Drogenhandel,Smartphone,Mannheim,1,2025-03-04 04:00:00,1,Tablet,Telekom,29048,131.191.70.250,2038.86,1,2,26,0.695,10.82,1,1,1,1,mittel
+BW-2025-00446,Sachbeschädigung,Laptop,Karlsruhe,1,2025-09-11 03:00:00,1,Laptop,Vodafone,20490,166.233.80.199,1576.09,2,2,33,0.116,9.95,0,0,0,1,mittel
+BW-2025-00447,Betrug,Messer,Ulm,0,2025-02-09 05:00:00,1,Desktop PC,O2,32973,174.234.33.162,3895.22,1,3,25,0.481,12.94,1,1,1,1,mittel
+BW-2025-00448,Körperverletzung,keines,Stuttgart,1,2025-05-13 22:00:00,1,Android Smartphone,O2,14405,211.177.144.225,7104.86,1,0,16,1.0,8.56,1,1,1,1,mittel
+BW-2025-00449,Raub,Brecheisen,Stuttgart,1,2025-01-01 04:00:00,1,Laptop,Vodafone,30636,33.59.84.129,1210.52,2,0,25,0.23,1.07,1,1,0,0,niedrig
+BW-2025-00450,Cybercrime,Messer,Freiburg,1,2025-05-17 17:00:00,0,Tablet,1&1,77861,14.239.15.119,1663.66,2,0,3,0.339,0.0,1,0,0,0,niedrig
+BW-2025-00451,Diebstahl,Laptop,Pforzheim,0,2025-08-26 05:00:00,1,Desktop PC,O2,46242,68.238.128.171,2777.78,2,2,27,0.099,3.86,0,0,1,0,niedrig
+BW-2025-00452,Raub,keines,Ulm,0,2025-06-28 05:00:00,1,Desktop PC,Telekom,32942,115.57.249.143,1254.68,2,1,12,0.181,4.98,0,1,0,0,niedrig
+BW-2025-00453,Diebstahl,Laptop,Pforzheim,0,2025-12-17 09:00:00,0,Laptop,Telekom,43776,148.180.9.74,4389.74,4,5,20,0.856,9.34,1,0,0,1,hoch
+BW-2025-00454,Cybercrime,keines,Ulm,0,2025-06-16 01:00:00,1,Desktop PC,1&1,54520,209.141.164.178,5653.59,2,0,16,0.392,15.39,1,0,1,0,mittel
+BW-2025-00455,Körperverletzung,keines,Stuttgart,1,2025-06-26 00:00:00,1,Tablet,Telekom,18854,108.246.223.190,6325.55,1,1,15,0.491,11.63,1,1,0,0,mittel
+BW-2025-00456,Raub,Fahrzeug,Freiburg,1,2025-12-19 14:00:00,0,Tablet,O2,80208,13.125.56.8,0.0,2,0,20,0.454,6.31,0,1,0,1,niedrig
+BW-2025-00457,Cybercrime,Fahrzeug,Pforzheim,0,2025-08-22 11:00:00,0,iPhone,1&1,19965,152.247.22.71,1045.61,1,1,19,0.424,5.43,0,1,0,0,niedrig
+BW-2025-00458,Einbruchdiebstahl,keines,Freiburg,1,2025-07-03 16:00:00,0,Laptop,Vodafone,33957,202.4.24.169,4066.05,2,1,20,0.37,8.03,0,0,0,0,niedrig
+BW-2025-00459,Raub,keines,Heidelberg,0,2025-07-01 04:00:00,1,Android Smartphone,Vodafone,37102,69.173.88.64,1821.59,1,0,30,0.334,10.35,0,0,0,1,niedrig
+BW-2025-00460,Raub,Fahrzeug,Freiburg,1,2025-03-23 20:00:00,0,Android Smartphone,Telekom,20287,184.2.5.245,0.0,2,2,4,0.476,6.08,1,0,0,1,niedrig
+BW-2025-00461,Körperverletzung,Smartphone,Stuttgart,1,2025-08-04 07:00:00,0,Tablet,O2,74532,158.19.179.167,10231.12,2,2,32,0.879,17.56,1,0,1,1,hoch
+BW-2025-00462,Cybercrime,keines,Mannheim,1,2025-09-29 14:00:00,0,Desktop PC,O2,39110,203.11.25.222,13329.14,2,2,55,0.835,10.07,1,1,0,0,hoch
+BW-2025-00463,Einbruchdiebstahl,Smartphone,Ulm,0,2025-12-10 00:00:00,1,Tablet,Telekom,55519,111.202.161.199,4123.87,3,0,28,0.555,14.43,0,1,1,1,mittel
+BW-2025-00464,Einbruchdiebstahl,keines,Karlsruhe,1,2025-08-04 11:00:00,0,Desktop PC,1&1,11103,14.6.162.88,0.0,1,3,26,0.131,0.97,0,0,1,0,mittel
+BW-2025-00465,Raub,Messer,Karlsruhe,1,2025-06-27 06:00:00,0,Laptop,O2,34530,151.110.166.173,9883.92,1,3,39,0.739,20.36,1,1,1,1,hoch
+BW-2025-00466,Cybercrime,Fahrzeug,Pforzheim,0,2025-09-07 19:00:00,0,Tablet,O2,34105,138.175.100.88,3252.0,2,1,43,0.498,13.97,1,0,0,0,mittel
+BW-2025-00467,Sachbeschädigung,Fahrzeug,Ulm,0,2025-10-01 11:00:00,0,Laptop,O2,46651,126.98.249.183,1174.24,1,1,32,0.482,15.2,0,0,0,0,mittel
+BW-2025-00468,Einbruchdiebstahl,Brecheisen,Heidelberg,0,2025-06-10 23:00:00,1,iPhone,O2,82789,121.165.227.65,1165.44,1,0,14,0.393,4.34,0,1,1,1,niedrig
+BW-2025-00469,Sachbeschädigung,Fahrzeug,Mannheim,1,2025-01-07 15:00:00,0,Android Smartphone,1&1,33148,118.232.199.86,2157.59,1,0,16,0.359,9.96,0,0,0,0,niedrig
+BW-2025-00470,Körperverletzung,Brecheisen,Freiburg,1,2025-06-21 07:00:00,0,Tablet,O2,83680,156.93.154.99,4119.47,4,0,34,0.522,17.0,1,0,1,1,mittel
+BW-2025-00471,Betrug,Messer,Karlsruhe,1,2025-05-28 02:00:00,1,Android Smartphone,Telekom,43330,132.254.124.204,4827.44,1,1,53,0.656,10.89,1,1,1,0,mittel
+BW-2025-00472,Diebstahl,keines,Freiburg,1,2025-09-03 23:00:00,1,Laptop,O2,83446,153.183.195.6,5676.87,3,0,25,0.604,3.72,1,0,1,0,mittel
+BW-2025-00473,Cybercrime,Phishing-Mail,Stuttgart,1,2025-08-28 16:00:00,0,Tablet,Telekom,99074,166.7.7.229,4269.88,3,2,37,1.0,38.32,1,1,1,1,hoch
+BW-2025-00474,Raub,Brecheisen,Pforzheim,0,2025-12-15 11:00:00,0,Laptop,O2,73896,209.85.165.151,149.82,2,0,33,0.673,5.53,1,1,0,1,mittel
+BW-2025-00475,Körperverletzung,Laptop,Ulm,0,2025-11-13 14:00:00,0,Desktop PC,O2,92799,48.20.199.206,2464.07,3,2,23,0.396,19.66,0,1,1,1,mittel
+BW-2025-00476,Einbruchdiebstahl,Phishing-Mail,Ulm,0,2025-02-18 16:00:00,0,Desktop PC,1&1,20369,52.120.204.115,213.51,1,0,14,0.232,2.98,0,1,1,0,niedrig
+BW-2025-00477,Drogenhandel,Fahrzeug,Freiburg,1,2025-07-02 14:00:00,0,Laptop,O2,89349,176.7.104.151,39.92,1,0,12,0.466,7.71,0,0,0,0,niedrig
+BW-2025-00478,Sachbeschädigung,Online-Plattform,Heilbronn,1,2025-10-10 14:00:00,0,Laptop,1&1,31930,58.19.42.109,5667.86,4,4,51,0.97,32.69,0,0,1,1,hoch
+BW-2025-00479,Betrug,Brecheisen,Heidelberg,0,2025-05-24 18:00:00,0,Laptop,Telekom,31877,112.164.199.155,4414.77,3,3,36,0.535,4.85,1,0,1,0,mittel
+BW-2025-00480,Diebstahl,Laptop,Karlsruhe,1,2025-01-18 23:00:00,1,Tablet,Telekom,62037,145.35.188.116,3774.04,2,2,15,0.571,7.93,0,1,0,0,niedrig
+BW-2025-00481,Diebstahl,Laptop,Pforzheim,0,2025-02-27 13:00:00,0,Desktop PC,Vodafone,95830,110.204.246.4,0.0,3,2,23,0.648,7.26,1,1,0,0,mittel
+BW-2025-00482,Cybercrime,Fahrzeug,Heidelberg,0,2025-03-28 07:00:00,0,Laptop,1&1,27206,145.216.149.229,2470.54,1,0,14,0.441,2.73,1,0,1,1,niedrig
+BW-2025-00483,Einbruchdiebstahl,Smartphone,Stuttgart,1,2025-11-22 01:00:00,1,Laptop,O2,71235,149.99.185.60,0.0,1,0,11,0.536,1.25,0,0,1,0,niedrig
+BW-2025-00484,Cybercrime,keines,Mannheim,1,2025-11-08 16:00:00,0,Desktop PC,Vodafone,92712,202.184.171.185,0.0,1,2,31,0.106,2.81,1,1,0,1,mittel
+BW-2025-00485,Sachbeschädigung,Online-Plattform,Freiburg,1,2025-03-03 03:00:00,1,Tablet,Vodafone,67915,89.208.115.13,5717.7,2,1,51,0.13,14.1,1,0,0,0,mittel
+BW-2025-00486,Drogenhandel,Messer,Pforzheim,0,2025-01-08 04:00:00,1,Android Smartphone,O2,10012,144.248.13.155,5041.82,3,0,49,1.0,2.43,1,1,1,1,hoch
+BW-2025-00487,Einbruchdiebstahl,Phishing-Mail,Pforzheim,0,2025-12-02 19:00:00,0,Tablet,Telekom,72530,87.179.70.99,1266.32,2,0,4,0.539,5.95,0,0,0,1,niedrig
+BW-2025-00488,Betrug,Messer,Pforzheim,0,2025-01-05 22:00:00,1,Desktop PC,Vodafone,81855,106.167.32.18,15192.45,4,0,36,0.755,31.45,0,1,1,0,hoch
+BW-2025-00489,Raub,Messer,Ulm,0,2025-04-22 11:00:00,0,Tablet,Vodafone,94671,110.196.231.109,3823.85,1,1,25,0.056,0.0,1,0,1,1,mittel
+BW-2025-00490,Sachbeschädigung,Fahrzeug,Pforzheim,0,2025-06-13 12:00:00,0,iPhone,1&1,77713,206.184.200.15,4727.67,3,3,30,0.73,7.18,1,0,0,1,mittel
+BW-2025-00491,Cybercrime,Online-Plattform,Pforzheim,0,2025-02-16 17:00:00,0,Tablet,Vodafone,33908,45.249.202.254,1235.84,1,1,16,0.621,1.92,1,1,0,0,niedrig
+BW-2025-00492,Cybercrime,Laptop,Heilbronn,1,2025-07-05 18:00:00,0,Desktop PC,1&1,91625,136.243.115.120,1839.49,1,3,24,0.698,10.78,0,0,1,1,mittel
+BW-2025-00493,Raub,Phishing-Mail,Stuttgart,1,2025-01-16 02:00:00,1,Android Smartphone,Telekom,34371,37.46.152.100,0.0,1,1,15,0.579,11.36,1,1,1,0,mittel
+BW-2025-00494,Cybercrime,Online-Plattform,Mannheim,1,2025-06-08 22:00:00,1,Tablet,Telekom,21822,49.147.52.239,675.35,1,0,19,0.07,4.8,1,0,1,0,niedrig
+BW-2025-00495,Betrug,keines,Heidelberg,0,2025-08-01 16:00:00,0,Laptop,1&1,75325,106.19.225.11,1320.95,1,1,6,0.522,13.3,1,0,0,0,niedrig
+BW-2025-00496,Körperverletzung,Smartphone,Freiburg,1,2025-02-08 06:00:00,0,iPhone,Vodafone,44931,209.145.48.105,0.0,2,4,25,0.567,25.76,1,0,1,1,hoch
+BW-2025-00497,Sachbeschädigung,Laptop,Heilbronn,1,2025-06-20 17:00:00,0,Android Smartphone,Vodafone,60014,14.58.196.214,3824.58,3,0,33,0.6,10.47,0,1,1,0,mittel
+BW-2025-00498,Diebstahl,Fahrzeug,Ulm,0,2025-01-23 21:00:00,0,Tablet,Vodafone,36106,128.249.66.48,0.0,1,1,14,0.097,3.46,0,1,1,0,niedrig
+BW-2025-00499,Diebstahl,Fahrzeug,Heilbronn,1,2025-08-09 13:00:00,0,Tablet,O2,30789,172.16.232.135,10337.11,2,3,43,0.902,13.8,1,1,1,1,hoch
+BW-2025-00500,Betrug,Laptop,Pforzheim,0,2025-05-16 15:00:00,0,Tablet,O2,57241,24.85.155.100,1379.52,1,2,19,0.427,4.16,0,1,1,1,niedrig
+BW-2025-00501,Raub,Laptop,Heidelberg,0,2025-01-11 06:00:00,0,Tablet,O2,31936,214.93.43.89,7081.47,1,0,21,0.435,13.22,1,1,1,1,mittel
+BW-2025-00502,Cybercrime,Laptop,Ulm,0,2025-01-29 16:00:00,0,Android Smartphone,Telekom,86162,211.145.213.93,12652.46,2,3,43,0.703,30.96,1,1,1,0,hoch
+BW-2025-00503,Körperverletzung,Brecheisen,Freiburg,1,2025-04-18 15:00:00,0,iPhone,Vodafone,75525,34.102.23.149,4313.94,2,2,19,0.316,10.05,1,0,1,1,mittel
+BW-2025-00504,Drogenhandel,Smartphone,Stuttgart,1,2025-03-15 07:00:00,0,Laptop,Vodafone,26492,135.227.69.99,142.29,3,0,8,0.147,5.24,0,0,1,0,niedrig
+BW-2025-00505,Raub,Phishing-Mail,Freiburg,1,2025-01-15 13:00:00,0,Tablet,Vodafone,59514,102.176.221.118,316.04,2,1,28,0.594,7.32,0,0,1,1,mittel
+BW-2025-00506,Einbruchdiebstahl,Online-Plattform,Stuttgart,1,2025-07-21 04:00:00,1,Tablet,1&1,81137,189.113.17.91,2577.65,2,2,25,0.838,4.66,0,1,1,0,mittel
+BW-2025-00507,Körperverletzung,Fahrzeug,Mannheim,1,2025-08-09 23:00:00,1,Desktop PC,O2,71393,81.123.169.229,0.0,5,2,36,0.782,6.96,1,0,1,1,mittel
+BW-2025-00508,Einbruchdiebstahl,Laptop,Mannheim,1,2025-06-29 18:00:00,0,Tablet,O2,80989,104.251.25.34,3061.76,2,2,19,0.678,10.18,0,0,1,0,mittel
+BW-2025-00509,Körperverletzung,Smartphone,Ulm,0,2025-09-06 13:00:00,0,Android Smartphone,Telekom,91290,72.33.29.175,0.0,2,1,11,0.446,11.34,1,0,0,0,niedrig
+BW-2025-00510,Drogenhandel,Laptop,Ulm,0,2025-04-16 05:00:00,1,Android Smartphone,1&1,90352,83.123.37.215,17955.76,3,3,68,0.682,21.68,0,1,1,0,hoch
+BW-2025-00511,Drogenhandel,Messer,Freiburg,1,2025-12-24 04:00:00,1,iPhone,Telekom,96362,28.17.238.41,2947.59,1,3,21,0.252,1.3,0,0,0,0,niedrig
+BW-2025-00512,Betrug,Brecheisen,Mannheim,1,2025-03-15 01:00:00,1,iPhone,Vodafone,73618,60.13.201.209,5029.98,1,1,32,0.608,5.41,0,0,1,0,mittel
+BW-2025-00513,Diebstahl,Smartphone,Ulm,0,2025-02-03 12:00:00,0,Tablet,O2,58018,67.129.73.220,6423.52,1,2,35,0.808,25.53,0,0,0,0,mittel
+BW-2025-00514,Diebstahl,Smartphone,Heidelberg,0,2025-11-16 12:00:00,0,Tablet,Telekom,93744,26.138.12.44,1382.8,1,1,35,0.895,34.32,1,0,0,1,hoch
+BW-2025-00515,Drogenhandel,Messer,Freiburg,1,2025-12-28 03:00:00,1,iPhone,O2,15328,198.251.27.113,4998.94,1,2,41,0.473,0.0,0,1,1,1,mittel
+BW-2025-00516,Diebstahl,Online-Plattform,Karlsruhe,1,2025-03-11 02:00:00,1,Android Smartphone,Telekom,40279,147.26.240.79,5411.2,1,3,12,0.481,15.84,1,1,1,1,mittel
+BW-2025-00517,Sachbeschädigung,Fahrzeug,Heidelberg,0,2025-05-03 03:00:00,1,Desktop PC,Vodafone,83193,202.203.51.136,303.78,1,0,12,0.078,3.12,1,0,0,0,niedrig
+BW-2025-00518,Sachbeschädigung,Laptop,Freiburg,1,2025-03-13 01:00:00,1,Tablet,1&1,31864,213.222.195.121,2501.04,1,2,2,0.224,0.0,0,0,0,1,niedrig
+BW-2025-00519,Einbruchdiebstahl,Messer,Freiburg,1,2025-08-29 12:00:00,0,Android Smartphone,1&1,51307,151.210.33.111,4842.44,1,2,23,0.447,5.19,0,1,0,0,mittel
+BW-2025-00520,Drogenhandel,Phishing-Mail,Ulm,0,2025-06-14 07:00:00,0,Tablet,O2,83812,150.174.41.94,6437.66,4,3,19,0.627,18.05,0,1,1,1,hoch
+BW-2025-00521,Raub,Messer,Pforzheim,0,2025-11-02 11:00:00,0,Laptop,1&1,62047,11.12.210.26,7687.15,3,1,31,0.584,16.97,0,0,1,0,mittel
+BW-2025-00522,Betrug,Online-Plattform,Stuttgart,1,2025-07-26 01:00:00,1,Desktop PC,Vodafone,10860,87.226.175.162,0.0,1,1,15,0.183,3.24,0,1,1,0,niedrig
+BW-2025-00523,Raub,Fahrzeug,Freiburg,1,2025-12-16 00:00:00,1,iPhone,O2,82918,157.23.79.176,0.0,2,0,9,0.33,9.77,0,0,1,1,niedrig
+BW-2025-00524,Einbruchdiebstahl,Laptop,Stuttgart,1,2025-04-17 13:00:00,0,Tablet,O2,28141,78.214.67.237,7293.33,5,5,54,0.514,30.24,1,1,0,0,hoch
+BW-2025-00525,Drogenhandel,Fahrzeug,Heidelberg,0,2025-03-04 17:00:00,0,Laptop,O2,84774,113.89.45.131,3122.12,3,0,12,0.284,0.0,1,0,1,1,mittel
+BW-2025-00526,Raub,Laptop,Freiburg,1,2025-11-30 07:00:00,0,Tablet,Vodafone,85527,220.203.192.146,1323.43,1,0,23,0.084,5.83,1,0,1,1,niedrig
+BW-2025-00527,Diebstahl,Online-Plattform,Stuttgart,1,2025-02-23 13:00:00,0,Desktop PC,1&1,17329,208.89.205.15,2873.6,1,0,31,0.312,7.62,1,1,1,0,mittel
+BW-2025-00528,Drogenhandel,Phishing-Mail,Ulm,0,2025-06-04 18:00:00,0,Tablet,Telekom,95561,165.48.112.150,0.0,2,1,10,0.256,0.94,1,0,0,0,niedrig
+BW-2025-00529,Betrug,Messer,Stuttgart,1,2025-08-06 23:00:00,1,Laptop,Telekom,80769,155.158.33.186,5690.43,2,3,16,0.735,9.45,0,0,1,1,mittel
+BW-2025-00530,Einbruchdiebstahl,Phishing-Mail,Heidelberg,0,2025-09-26 04:00:00,1,Android Smartphone,Telekom,68407,203.186.34.164,274.56,1,0,4,0.493,5.67,0,0,1,0,niedrig
+BW-2025-00531,Diebstahl,Fahrzeug,Ulm,0,2025-04-12 01:00:00,1,Laptop,1&1,27326,97.15.30.45,4398.84,1,1,16,0.593,14.6,1,1,1,0,mittel
+BW-2025-00532,Diebstahl,keines,Stuttgart,1,2025-06-29 05:00:00,1,Desktop PC,1&1,21151,113.5.222.60,8498.1,3,0,45,0.328,15.86,1,0,1,0,mittel
+BW-2025-00533,Sachbeschädigung,Brecheisen,Mannheim,1,2025-11-30 01:00:00,1,Tablet,Vodafone,61815,177.249.192.225,2879.38,1,2,27,0.522,1.67,1,1,0,0,niedrig
+BW-2025-00534,Raub,Fahrzeug,Heidelberg,0,2025-10-21 14:00:00,0,iPhone,O2,52390,186.74.252.221,561.39,2,0,13,0.645,3.27,1,0,0,0,niedrig
+BW-2025-00535,Diebstahl,Laptop,Ulm,0,2025-08-26 18:00:00,0,Tablet,O2,34967,93.27.232.194,3450.51,2,3,32,0.408,7.69,0,0,0,0,mittel
+BW-2025-00536,Drogenhandel,Smartphone,Pforzheim,0,2025-10-29 21:00:00,0,Android Smartphone,O2,91681,48.84.92.26,1717.03,1,0,24,0.0,10.33,1,1,0,0,niedrig
+BW-2025-00537,Körperverletzung,Smartphone,Heidelberg,0,2025-04-17 11:00:00,0,Android Smartphone,O2,21247,39.196.100.237,2483.33,1,4,2,0.505,9.15,0,1,0,1,mittel
+BW-2025-00538,Betrug,Fahrzeug,Mannheim,1,2025-08-23 08:00:00,0,Laptop,Telekom,24585,89.28.55.98,13379.89,1,0,51,0.658,13.78,1,1,1,1,hoch
+BW-2025-00539,Körperverletzung,keines,Stuttgart,1,2025-05-25 15:00:00,0,Laptop,Vodafone,36712,150.226.117.22,6559.83,1,1,36,0.554,1.66,0,0,1,0,mittel
+BW-2025-00540,Cybercrime,keines,Mannheim,1,2025-12-26 15:00:00,0,iPhone,1&1,15699,76.101.150.76,9490.49,5,5,44,0.776,27.29,1,1,1,1,hoch
+BW-2025-00541,Einbruchdiebstahl,Smartphone,Pforzheim,0,2025-02-06 05:00:00,1,Android Smartphone,O2,70943,178.158.54.38,1202.58,4,2,32,0.452,17.97,0,0,0,0,mittel
+BW-2025-00542,Betrug,Laptop,Ulm,0,2025-03-15 15:00:00,0,Laptop,O2,12500,85.224.253.122,1123.71,1,2,0,0.0,4.84,0,1,1,1,niedrig
+BW-2025-00543,Sachbeschädigung,Fahrzeug,Ulm,0,2025-08-04 08:00:00,0,Desktop PC,Telekom,73525,163.219.247.50,2840.66,1,3,28,0.307,9.95,1,0,1,1,mittel
+BW-2025-00544,Diebstahl,Brecheisen,Heidelberg,0,2025-01-15 16:00:00,0,Desktop PC,1&1,15210,74.85.23.64,1208.36,1,0,30,0.534,10.57,0,1,0,0,niedrig
+BW-2025-00545,Cybercrime,Phishing-Mail,Heilbronn,1,2025-01-13 13:00:00,0,Tablet,Vodafone,55453,186.47.7.115,1669.35,2,1,27,0.25,2.98,0,1,1,0,niedrig
+BW-2025-00546,Drogenhandel,Phishing-Mail,Pforzheim,0,2025-02-12 07:00:00,0,Android Smartphone,O2,92023,76.247.70.81,6312.33,1,1,32,0.495,10.68,1,0,1,0,mittel
+BW-2025-00547,Sachbeschädigung,Smartphone,Pforzheim,0,2025-08-22 07:00:00,0,Android Smartphone,Vodafone,61491,179.44.174.24,10065.47,4,5,45,0.895,43.2,0,1,1,0,hoch
+BW-2025-00548,Einbruchdiebstahl,Laptop,Ulm,0,2025-10-12 21:00:00,0,Desktop PC,Vodafone,41504,157.169.122.205,586.81,1,0,7,0.137,3.66,0,1,0,0,niedrig
+BW-2025-00549,Einbruchdiebstahl,Messer,Pforzheim,0,2025-11-03 15:00:00,0,Desktop PC,O2,81071,44.187.209.131,1408.56,1,2,17,0.217,7.46,1,1,1,0,niedrig
+BW-2025-00550,Raub,Brecheisen,Heidelberg,0,2025-12-24 14:00:00,0,Android Smartphone,O2,27727,121.24.177.132,3701.66,1,1,21,0.249,0.0,0,0,1,0,niedrig
+BW-2025-00551,Einbruchdiebstahl,Brecheisen,Freiburg,1,2025-05-06 16:00:00,0,iPhone,Telekom,51628,48.64.251.254,6897.97,2,3,39,0.375,5.17,1,1,1,1,mittel
+BW-2025-00552,Betrug,Phishing-Mail,Ulm,0,2025-10-30 10:00:00,0,Tablet,O2,93472,200.3.211.59,1134.27,1,2,2,0.352,9.54,1,0,1,0,niedrig
+BW-2025-00553,Cybercrime,Brecheisen,Heidelberg,0,2025-05-07 02:00:00,1,iPhone,Vodafone,13433,206.47.194.27,2381.57,1,2,56,0.286,10.12,0,1,1,1,mittel
+BW-2025-00554,Cybercrime,Fahrzeug,Heidelberg,0,2025-09-03 06:00:00,0,Android Smartphone,Telekom,20417,187.42.6.238,1122.04,1,1,22,0.251,17.53,1,0,1,1,mittel
+BW-2025-00555,Körperverletzung,Brecheisen,Heilbronn,1,2025-09-22 12:00:00,0,Laptop,Vodafone,74414,132.78.8.56,602.79,2,0,31,0.401,4.56,1,1,0,0,niedrig
+BW-2025-00556,Einbruchdiebstahl,Brecheisen,Heidelberg,0,2025-10-06 22:00:00,1,Android Smartphone,Telekom,11967,80.21.117.185,5072.94,1,2,26,0.673,9.85,1,1,1,0,mittel
+BW-2025-00557,Sachbeschädigung,Fahrzeug,Heidelberg,0,2025-05-01 21:00:00,0,Android Smartphone,Telekom,67577,168.247.154.39,2957.1,2,3,17,0.721,12.39,1,1,0,1,mittel
+BW-2025-00558,Körperverletzung,Phishing-Mail,Heilbronn,1,2025-10-04 09:00:00,0,Android Smartphone,1&1,15482,166.161.76.53,1740.59,1,0,9,0.363,0.0,0,1,0,1,niedrig
+BW-2025-00559,Sachbeschädigung,Phishing-Mail,Ulm,0,2025-12-22 10:00:00,0,Desktop PC,Telekom,24328,126.156.175.165,2575.22,1,0,15,0.108,8.62,1,1,0,0,mittel
+BW-2025-00560,Körperverletzung,Smartphone,Heidelberg,0,2025-01-27 19:00:00,0,Desktop PC,1&1,83098,110.44.129.126,12602.79,2,1,53,1.0,14.46,1,1,1,1,hoch
+BW-2025-00561,Betrug,Fahrzeug,Pforzheim,0,2025-07-27 21:00:00,0,Tablet,1&1,47475,129.26.217.20,3747.33,1,1,30,0.546,4.14,1,1,1,0,mittel
+BW-2025-00562,Einbruchdiebstahl,Messer,Pforzheim,0,2025-12-19 22:00:00,1,Desktop PC,Telekom,28643,129.173.28.51,2869.17,1,0,1,0.258,7.87,0,1,0,0,niedrig
+BW-2025-00563,Körperverletzung,Laptop,Karlsruhe,1,2025-09-26 08:00:00,0,Android Smartphone,Vodafone,64206,93.206.85.227,388.4,1,0,12,0.463,3.68,0,0,0,1,niedrig
+BW-2025-00564,Körperverletzung,Smartphone,Mannheim,1,2025-11-07 09:00:00,0,Tablet,Vodafone,21820,75.5.100.184,11139.14,2,2,12,0.81,32.19,1,0,1,1,hoch
+BW-2025-00565,Drogenhandel,Brecheisen,Karlsruhe,1,2025-11-03 18:00:00,0,iPhone,Telekom,93109,103.233.219.188,313.7,1,2,2,0.609,10.84,1,0,1,1,mittel
+BW-2025-00566,Diebstahl,Messer,Mannheim,1,2025-01-30 23:00:00,1,Tablet,1&1,32398,96.207.55.186,1812.15,1,2,18,0.475,11.65,1,0,0,0,niedrig
+BW-2025-00567,Einbruchdiebstahl,Brecheisen,Mannheim,1,2025-10-14 10:00:00,0,Android Smartphone,Telekom,50378,90.60.151.113,0.0,1,1,20,0.209,5.04,1,0,0,0,niedrig
+BW-2025-00568,Körperverletzung,Online-Plattform,Mannheim,1,2025-05-19 11:00:00,0,iPhone,Vodafone,10463,170.96.29.23,3069.82,1,0,5,0.302,4.13,1,0,0,1,niedrig
+BW-2025-00569,Cybercrime,Smartphone,Heilbronn,1,2025-01-04 22:00:00,1,Tablet,1&1,89689,137.83.215.2,9208.67,3,3,65,0.698,20.56,1,0,0,1,hoch
+BW-2025-00570,Raub,Fahrzeug,Heilbronn,1,2025-10-29 15:00:00,0,Tablet,1&1,20407,164.233.84.51,1421.17,1,1,5,0.244,5.43,0,0,0,1,niedrig
+BW-2025-00571,Betrug,Fahrzeug,Pforzheim,0,2025-02-03 09:00:00,0,Desktop PC,Vodafone,34227,48.244.29.214,0.0,1,1,10,0.394,2.12,0,1,0,0,niedrig
+BW-2025-00572,Betrug,Phishing-Mail,Stuttgart,1,2025-07-23 17:00:00,0,Android Smartphone,Telekom,53399,33.115.174.251,0.0,1,0,38,0.298,2.57,1,0,1,0,mittel
+BW-2025-00573,Betrug,Laptop,Ulm,0,2025-07-14 03:00:00,1,Android Smartphone,Vodafone,90096,180.50.90.225,5901.44,1,2,24,0.423,11.25,1,1,1,1,mittel
+BW-2025-00574,Einbruchdiebstahl,keines,Freiburg,1,2025-07-24 07:00:00,0,iPhone,Telekom,52312,105.90.144.193,0.0,2,1,3,0.828,14.03,0,1,0,0,mittel
+BW-2025-00575,Sachbeschädigung,Laptop,Ulm,0,2025-07-19 21:00:00,0,Desktop PC,Telekom,71710,45.113.151.202,1247.86,4,2,41,0.444,4.63,1,0,0,1,hoch
+BW-2025-00576,Diebstahl,Online-Plattform,Freiburg,1,2025-12-25 03:00:00,1,Desktop PC,1&1,37504,189.33.225.197,2426.94,1,0,15,0.547,3.72,1,0,1,0,niedrig
+BW-2025-00577,Raub,Smartphone,Karlsruhe,1,2025-11-27 04:00:00,1,Desktop PC,Telekom,89269,212.198.123.81,0.0,2,1,0,0.884,4.59,1,1,0,1,mittel
+BW-2025-00578,Cybercrime,Messer,Freiburg,1,2025-03-30 13:00:00,0,Laptop,O2,90516,155.8.205.201,6942.84,2,3,54,0.508,37.03,1,1,1,0,hoch
+BW-2025-00579,Körperverletzung,keines,Heilbronn,1,2025-07-18 07:00:00,0,Android Smartphone,Vodafone,35369,11.103.155.98,8725.85,3,6,31,0.625,32.15,1,0,1,1,hoch
+BW-2025-00580,Diebstahl,Smartphone,Heilbronn,1,2025-10-11 01:00:00,1,iPhone,Vodafone,64269,22.165.96.80,4670.04,1,1,25,0.673,12.35,0,0,0,0,niedrig
+BW-2025-00581,Drogenhandel,Phishing-Mail,Heidelberg,0,2025-07-12 06:00:00,0,iPhone,Vodafone,43347,213.74.64.188,2049.26,2,1,20,0.152,0.0,0,0,0,0,niedrig
+BW-2025-00582,Diebstahl,Online-Plattform,Pforzheim,0,2025-01-05 04:00:00,1,Desktop PC,O2,24920,186.146.239.34,2043.68,1,2,11,0.72,0.75,0,0,0,1,niedrig
+BW-2025-00583,Drogenhandel,Phishing-Mail,Ulm,0,2025-04-30 21:00:00,0,Desktop PC,Telekom,35430,95.156.158.185,3726.36,1,2,29,0.33,2.49,0,0,1,0,niedrig
+BW-2025-00584,Drogenhandel,keines,Heilbronn,1,2025-11-25 16:00:00,0,iPhone,Vodafone,30366,171.144.54.13,9318.28,1,5,46,0.522,12.03,1,1,1,1,hoch
+BW-2025-00585,Körperverletzung,Phishing-Mail,Heilbronn,1,2025-12-22 17:00:00,0,Tablet,Telekom,49235,155.160.20.171,15929.57,4,5,26,0.818,7.16,0,1,0,1,hoch
+BW-2025-00586,Drogenhandel,Smartphone,Heidelberg,0,2025-08-30 09:00:00,0,Desktop PC,O2,18678,49.56.216.190,1257.34,4,2,41,0.934,18.15,1,0,0,1,hoch
+BW-2025-00587,Cybercrime,Smartphone,Freiburg,1,2025-09-23 22:00:00,1,Tablet,Vodafone,34560,163.94.126.137,864.68,4,4,49,0.949,20.39,0,1,1,1,hoch
+BW-2025-00588,Diebstahl,Online-Plattform,Freiburg,1,2025-10-10 12:00:00,0,iPhone,O2,21376,138.62.245.155,3223.02,1,1,27,0.467,5.78,1,0,0,1,mittel
+BW-2025-00589,Raub,Phishing-Mail,Heilbronn,1,2025-12-25 11:00:00,0,Laptop,Vodafone,49625,55.205.162.175,0.0,1,1,29,0.668,14.37,0,1,0,0,mittel
+BW-2025-00590,Diebstahl,Phishing-Mail,Stuttgart,1,2025-10-30 22:00:00,1,Android Smartphone,Telekom,76321,17.98.32.12,6403.54,3,4,65,0.974,17.64,0,1,0,1,hoch
+BW-2025-00591,Körperverletzung,Brecheisen,Heidelberg,0,2025-12-24 11:00:00,0,Laptop,1&1,50679,209.137.88.54,5636.01,5,4,34,0.368,9.76,0,1,1,0,mittel
+BW-2025-00592,Drogenhandel,Brecheisen,Karlsruhe,1,2025-05-21 01:00:00,1,Desktop PC,Vodafone,14791,128.153.43.10,790.43,2,2,28,0.211,0.0,1,1,1,0,niedrig
+BW-2025-00593,Sachbeschädigung,Laptop,Stuttgart,1,2025-03-01 10:00:00,0,Laptop,Telekom,53684,130.133.45.219,1261.43,2,0,23,0.595,19.47,0,0,1,0,mittel
+BW-2025-00594,Betrug,Laptop,Pforzheim,0,2025-05-24 06:00:00,0,iPhone,O2,52058,62.87.155.39,281.11,1,1,13,0.489,4.13,1,0,1,1,niedrig
+BW-2025-00595,Raub,Online-Plattform,Pforzheim,0,2025-10-29 03:00:00,1,Desktop PC,O2,97965,41.30.93.145,4257.21,2,0,19,0.564,14.43,1,0,1,1,mittel
+BW-2025-00596,Cybercrime,Brecheisen,Mannheim,1,2025-01-11 09:00:00,0,Laptop,Telekom,91650,154.67.162.80,4082.61,1,2,29,0.404,13.06,1,0,0,0,mittel
+BW-2025-00597,Diebstahl,Fahrzeug,Freiburg,1,2025-07-05 00:00:00,1,Desktop PC,O2,28554,191.80.134.16,1684.1,2,2,19,0.509,3.81,1,1,1,1,mittel
+BW-2025-00598,Cybercrime,Fahrzeug,Mannheim,1,2025-08-20 05:00:00,1,iPhone,O2,80854,124.146.228.67,3213.82,2,1,43,0.394,17.03,1,0,1,1,mittel
+BW-2025-00599,Betrug,Brecheisen,Stuttgart,1,2025-03-14 07:00:00,0,Tablet,Telekom,60279,24.197.212.46,2997.72,1,1,5,0.546,1.72,1,0,0,0,niedrig
+BW-2025-00600,Diebstahl,Messer,Ulm,0,2025-08-31 18:00:00,0,Android Smartphone,1&1,50952,96.19.183.79,1180.12,2,0,25,0.748,2.55,1,1,0,1,niedrig
+BW-2025-00601,Raub,Laptop,Heilbronn,1,2025-03-05 10:00:00,0,Desktop PC,Vodafone,71377,35.230.58.85,1551.73,2,1,39,0.82,15.21,0,1,1,1,hoch
+BW-2025-00602,Körperverletzung,Online-Plattform,Heilbronn,1,2025-06-02 18:00:00,0,Tablet,Vodafone,28837,168.239.234.185,1329.14,2,5,25,0.36,17.64,0,0,1,1,hoch
+BW-2025-00603,Cybercrime,Phishing-Mail,Ulm,0,2025-08-10 16:00:00,0,Android Smartphone,O2,69412,135.205.61.192,3253.33,1,0,4,0.411,2.95,0,0,1,0,niedrig
+BW-2025-00604,Betrug,Laptop,Heilbronn,1,2025-11-23 18:00:00,0,iPhone,O2,70455,54.185.166.97,5910.39,1,2,41,0.521,16.74,1,0,1,0,mittel
+BW-2025-00605,Cybercrime,Phishing-Mail,Mannheim,1,2025-10-04 22:00:00,1,Desktop PC,Telekom,24022,94.108.50.208,4468.17,1,2,26,0.264,7.14,1,0,1,0,mittel
+BW-2025-00606,Diebstahl,Online-Plattform,Heilbronn,1,2025-06-12 20:00:00,0,Tablet,1&1,91379,73.98.137.129,2119.35,1,1,50,0.923,3.03,0,0,1,0,mittel
+BW-2025-00607,Einbruchdiebstahl,keines,Ulm,0,2025-05-23 03:00:00,1,iPhone,O2,87459,121.95.191.113,7455.29,1,2,33,0.229,4.44,1,0,1,1,mittel
+BW-2025-00608,Sachbeschädigung,Phishing-Mail,Heidelberg,0,2025-11-29 04:00:00,1,Android Smartphone,Telekom,24984,162.152.0.195,5916.21,1,5,34,0.557,16.52,1,0,1,1,hoch
+BW-2025-00609,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-07-30 06:00:00,0,Tablet,Vodafone,63188,28.209.206.80,2741.32,1,0,17,0.311,0.24,1,1,0,0,niedrig
+BW-2025-00610,Diebstahl,Messer,Freiburg,1,2025-03-03 19:00:00,0,Tablet,Telekom,38522,220.41.29.19,1987.73,2,3,22,0.478,25.83,1,0,1,1,mittel
+BW-2025-00611,Einbruchdiebstahl,Smartphone,Mannheim,1,2025-12-29 16:00:00,0,Android Smartphone,1&1,48207,110.213.231.80,4254.68,1,1,24,0.833,14.64,0,0,0,0,mittel
+BW-2025-00612,Körperverletzung,Fahrzeug,Heidelberg,0,2025-07-27 21:00:00,0,Laptop,O2,66980,194.193.42.76,1999.04,2,4,20,0.473,24.35,1,0,1,0,mittel
+BW-2025-00613,Drogenhandel,Laptop,Stuttgart,1,2025-03-29 01:00:00,1,Desktop PC,1&1,48559,26.250.35.102,1581.55,2,3,37,0.712,15.4,0,0,1,1,mittel
+BW-2025-00614,Drogenhandel,Smartphone,Stuttgart,1,2025-03-16 21:00:00,0,Desktop PC,O2,46989,18.251.185.32,817.66,1,2,19,0.429,0.0,0,0,0,0,niedrig
+BW-2025-00615,Raub,Messer,Ulm,0,2025-10-05 04:00:00,1,Laptop,1&1,60012,122.104.157.101,5196.82,3,1,39,0.161,15.87,0,0,0,0,mittel
+BW-2025-00616,Raub,Brecheisen,Heilbronn,1,2025-09-20 13:00:00,0,Android Smartphone,Vodafone,57223,117.207.242.15,977.88,2,1,23,0.479,13.3,0,1,0,1,niedrig
+BW-2025-00617,Einbruchdiebstahl,Online-Plattform,Mannheim,1,2025-02-18 23:00:00,1,Android Smartphone,Telekom,94985,15.5.109.43,2177.63,3,2,24,0.578,0.72,0,0,0,0,mittel
+BW-2025-00618,Einbruchdiebstahl,keines,Ulm,0,2025-04-04 16:00:00,0,Android Smartphone,Telekom,94180,217.82.48.157,3944.45,2,0,34,0.461,10.83,0,0,1,1,mittel
+BW-2025-00619,Sachbeschädigung,keines,Ulm,0,2025-11-07 04:00:00,1,Desktop PC,Vodafone,76770,119.147.111.105,3387.19,2,1,26,0.556,10.45,0,0,1,0,mittel
+BW-2025-00620,Körperverletzung,Messer,Freiburg,1,2025-10-17 23:00:00,1,Android Smartphone,Vodafone,89242,12.230.238.154,10449.91,1,1,7,0.503,22.87,1,0,0,1,mittel
+BW-2025-00621,Körperverletzung,Fahrzeug,Pforzheim,0,2025-01-23 20:00:00,0,Tablet,O2,14963,156.114.64.35,0.0,1,2,39,0.154,9.11,1,0,1,1,mittel
+BW-2025-00622,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-02-24 15:00:00,0,Desktop PC,1&1,28623,197.237.111.73,1674.88,1,1,31,0.101,4.12,1,0,0,0,niedrig
+BW-2025-00623,Cybercrime,keines,Karlsruhe,1,2025-06-17 09:00:00,0,Desktop PC,Telekom,71925,172.115.30.216,9941.05,3,4,64,0.745,4.93,1,0,1,1,hoch
+BW-2025-00624,Diebstahl,Online-Plattform,Stuttgart,1,2025-11-17 01:00:00,1,Laptop,Telekom,69511,142.61.227.173,844.36,2,2,17,0.807,11.45,1,1,1,1,hoch
+BW-2025-00625,Körperverletzung,Phishing-Mail,Ulm,0,2025-07-17 10:00:00,0,Laptop,O2,31955,20.11.35.237,4241.38,2,3,28,0.846,3.81,1,0,0,1,mittel
+BW-2025-00626,Cybercrime,Online-Plattform,Stuttgart,1,2025-02-05 05:00:00,1,Tablet,Vodafone,96025,85.176.86.153,417.83,1,2,18,0.309,0.0,0,1,0,1,niedrig
+BW-2025-00627,Betrug,Online-Plattform,Heilbronn,1,2025-12-12 03:00:00,1,iPhone,Vodafone,20074,211.164.174.33,1445.46,1,1,43,0.821,7.2,0,0,1,0,mittel
+BW-2025-00628,Cybercrime,Online-Plattform,Mannheim,1,2025-07-07 21:00:00,0,Desktop PC,O2,43679,14.162.206.233,0.0,1,0,9,0.679,6.07,1,0,0,0,niedrig
+BW-2025-00629,Diebstahl,Brecheisen,Mannheim,1,2025-04-30 17:00:00,0,Tablet,O2,44242,211.83.188.85,5751.74,2,3,36,0.757,30.83,1,0,1,1,hoch
+BW-2025-00630,Raub,keines,Mannheim,1,2025-08-23 01:00:00,1,Desktop PC,Telekom,21062,48.35.82.246,2200.56,1,2,21,0.575,7.72,0,0,0,0,mittel
+BW-2025-00631,Einbruchdiebstahl,keines,Ulm,0,2025-10-28 11:00:00,0,Tablet,Vodafone,93568,53.211.19.111,2287.41,2,1,37,0.867,14.04,1,1,1,1,hoch
+BW-2025-00632,Raub,Phishing-Mail,Stuttgart,1,2025-02-05 20:00:00,0,Laptop,Telekom,31967,129.201.174.178,0.0,2,0,19,0.419,2.86,0,0,0,0,niedrig
+BW-2025-00633,Sachbeschädigung,keines,Pforzheim,0,2025-09-17 06:00:00,0,Tablet,Vodafone,99589,191.162.182.153,5383.51,3,1,25,0.379,11.15,1,1,0,1,mittel
+BW-2025-00634,Sachbeschädigung,keines,Pforzheim,0,2025-01-09 02:00:00,1,Android Smartphone,1&1,47852,215.28.114.4,4681.39,1,1,10,0.366,3.37,1,1,0,1,mittel
+BW-2025-00635,Körperverletzung,Messer,Freiburg,1,2025-03-08 11:00:00,0,Desktop PC,Telekom,79637,174.46.58.181,10966.89,1,1,71,0.658,29.24,0,1,0,1,hoch
+BW-2025-00636,Drogenhandel,Messer,Pforzheim,0,2025-07-02 07:00:00,0,Laptop,O2,22881,76.94.56.5,10556.83,2,0,26,1.0,40.61,1,1,1,1,hoch
+BW-2025-00637,Sachbeschädigung,keines,Heidelberg,0,2025-12-21 22:00:00,1,Desktop PC,Vodafone,54224,184.126.239.247,5705.72,1,3,27,0.476,14.84,1,1,1,0,mittel
+BW-2025-00638,Einbruchdiebstahl,Phishing-Mail,Stuttgart,1,2025-01-09 03:00:00,1,iPhone,Telekom,63903,36.2.201.59,3549.0,1,2,33,0.418,12.23,0,0,0,1,mittel
+BW-2025-00639,Diebstahl,keines,Freiburg,1,2025-06-21 23:00:00,1,Android Smartphone,O2,35307,19.182.246.29,6196.08,1,2,17,0.606,0.0,1,0,1,1,mittel
+BW-2025-00640,Betrug,Laptop,Stuttgart,1,2025-03-25 03:00:00,1,Desktop PC,Vodafone,25725,33.29.106.207,0.0,1,3,18,0.215,2.88,0,1,0,1,niedrig
+BW-2025-00641,Einbruchdiebstahl,Messer,Mannheim,1,2025-06-22 22:00:00,1,iPhone,Vodafone,48609,130.138.102.159,1687.1,3,7,55,1.0,19.68,0,1,1,1,hoch
+BW-2025-00642,Diebstahl,keines,Pforzheim,0,2025-06-25 16:00:00,0,Tablet,O2,31229,210.222.1.169,3771.61,1,1,16,0.558,1.57,0,0,0,0,niedrig
+BW-2025-00643,Diebstahl,Online-Plattform,Stuttgart,1,2025-08-16 02:00:00,1,Tablet,1&1,17872,77.27.236.202,0.0,1,1,2,0.637,4.41,0,1,1,0,niedrig
+BW-2025-00644,Cybercrime,Brecheisen,Heilbronn,1,2025-05-17 23:00:00,1,iPhone,1&1,89993,111.131.176.231,941.06,1,0,19,0.629,0.0,0,0,0,0,niedrig
+BW-2025-00645,Einbruchdiebstahl,keines,Karlsruhe,1,2025-05-30 02:00:00,1,Android Smartphone,1&1,90473,175.177.207.106,734.69,2,0,18,0.339,0.0,1,0,1,0,niedrig
+BW-2025-00646,Diebstahl,keines,Pforzheim,0,2025-02-19 18:00:00,0,iPhone,Telekom,19229,157.67.163.1,4457.72,3,9,61,1.0,4.74,1,1,1,1,hoch
+BW-2025-00647,Cybercrime,keines,Stuttgart,1,2025-01-01 14:00:00,0,Tablet,Vodafone,14959,181.35.155.162,2936.84,1,2,26,0.853,12.46,1,1,1,0,mittel
+BW-2025-00648,Sachbeschädigung,Online-Plattform,Mannheim,1,2025-01-03 12:00:00,0,Laptop,1&1,77552,192.37.164.217,352.65,1,1,12,0.289,1.31,1,1,0,0,niedrig
+BW-2025-00649,Körperverletzung,keines,Ulm,0,2025-06-04 04:00:00,1,Tablet,Telekom,10433,109.105.154.68,3837.63,1,0,45,0.379,5.98,0,0,1,1,mittel
+BW-2025-00650,Körperverletzung,Laptop,Freiburg,1,2025-10-01 11:00:00,0,Laptop,O2,17234,172.220.156.171,6265.58,2,0,34,0.767,12.08,1,1,1,1,mittel
+BW-2025-00651,Diebstahl,Phishing-Mail,Freiburg,1,2025-07-17 22:00:00,1,iPhone,1&1,94907,62.255.180.2,1787.21,3,2,21,0.723,0.0,1,0,1,0,mittel
+BW-2025-00652,Einbruchdiebstahl,Smartphone,Ulm,0,2025-09-24 07:00:00,0,Android Smartphone,O2,23994,172.112.30.142,0.0,1,2,25,0.581,4.58,1,1,1,0,niedrig
+BW-2025-00653,Drogenhandel,keines,Karlsruhe,1,2025-04-06 12:00:00,0,Tablet,Vodafone,14679,60.110.134.69,1098.35,2,1,11,0.333,0.0,1,0,1,1,niedrig
+BW-2025-00654,Betrug,Fahrzeug,Heilbronn,1,2025-07-30 01:00:00,1,Tablet,Telekom,75494,147.176.75.119,0.0,1,0,0,0.225,5.89,0,0,1,0,niedrig
+BW-2025-00655,Körperverletzung,Smartphone,Stuttgart,1,2025-08-19 13:00:00,0,Laptop,Telekom,15611,114.207.92.224,4836.9,3,4,56,0.714,36.23,1,1,1,1,hoch
+BW-2025-00656,Diebstahl,Fahrzeug,Heilbronn,1,2025-06-09 01:00:00,1,Desktop PC,Vodafone,19441,20.112.208.157,3384.85,1,4,42,0.607,0.0,1,1,1,1,mittel
+BW-2025-00657,Einbruchdiebstahl,keines,Stuttgart,1,2025-06-15 16:00:00,0,Tablet,Telekom,95037,44.106.235.207,10073.71,1,6,21,0.806,13.58,1,1,0,1,hoch
+BW-2025-00658,Betrug,Brecheisen,Stuttgart,1,2025-11-08 10:00:00,0,Laptop,Telekom,90114,54.178.76.188,7014.28,2,1,30,0.698,9.76,1,1,0,0,mittel
+BW-2025-00659,Diebstahl,Laptop,Karlsruhe,1,2025-02-13 01:00:00,1,Tablet,Vodafone,36560,120.28.49.214,6090.49,1,1,20,0.682,7.46,1,1,1,0,mittel
+BW-2025-00660,Drogenhandel,Messer,Freiburg,1,2025-08-08 12:00:00,0,iPhone,Vodafone,37948,206.164.112.79,7586.47,2,4,50,0.858,46.77,0,1,1,0,hoch
+BW-2025-00661,Betrug,Brecheisen,Freiburg,1,2025-07-06 23:00:00,1,iPhone,Telekom,28512,204.238.205.122,1389.71,1,1,18,0.734,5.13,0,1,1,0,niedrig
+BW-2025-00662,Sachbeschädigung,Brecheisen,Freiburg,1,2025-10-27 11:00:00,0,Desktop PC,Vodafone,41934,159.253.5.148,0.0,1,2,25,0.749,8.5,0,1,1,0,mittel
+BW-2025-00663,Betrug,Brecheisen,Karlsruhe,1,2025-04-18 16:00:00,0,Desktop PC,1&1,12048,135.169.230.143,6341.98,4,2,45,0.763,18.81,1,0,1,1,hoch
+BW-2025-00664,Diebstahl,Smartphone,Stuttgart,1,2025-07-13 16:00:00,0,Android Smartphone,Telekom,64555,188.137.114.127,3054.88,4,0,20,0.596,28.45,1,1,1,0,hoch
+BW-2025-00665,Körperverletzung,Brecheisen,Heidelberg,0,2025-12-24 02:00:00,1,Android Smartphone,O2,69037,116.122.226.148,4882.5,2,1,10,0.135,0.0,1,1,1,0,mittel
+BW-2025-00666,Raub,Brecheisen,Stuttgart,1,2025-12-08 06:00:00,0,Desktop PC,Vodafone,90222,33.136.142.132,0.0,1,1,28,0.0,2.12,1,0,0,0,niedrig
+BW-2025-00667,Cybercrime,Phishing-Mail,Ulm,0,2025-05-12 00:00:00,1,iPhone,Vodafone,25401,146.187.31.109,715.19,3,1,19,0.25,1.12,1,1,0,0,niedrig
+BW-2025-00668,Diebstahl,Phishing-Mail,Heidelberg,0,2025-07-08 16:00:00,0,Tablet,Vodafone,16955,60.151.145.103,163.36,1,1,11,0.433,0.0,0,0,0,0,niedrig
+BW-2025-00669,Diebstahl,Brecheisen,Heilbronn,1,2025-04-20 01:00:00,1,Tablet,Vodafone,97836,22.9.159.204,6150.72,1,1,36,0.552,8.15,0,1,0,0,mittel
+BW-2025-00670,Betrug,Phishing-Mail,Pforzheim,0,2025-06-21 14:00:00,0,Android Smartphone,1&1,53816,168.231.223.123,2088.91,1,1,8,0.193,10.77,0,0,1,1,niedrig
+BW-2025-00671,Körperverletzung,Smartphone,Karlsruhe,1,2025-04-18 21:00:00,0,iPhone,Vodafone,13809,135.44.251.207,1236.81,1,0,29,0.698,5.03,1,0,0,1,niedrig
+BW-2025-00672,Diebstahl,Laptop,Heidelberg,0,2025-10-14 01:00:00,1,Tablet,O2,36050,202.65.19.203,2183.61,1,3,14,0.37,13.31,1,0,1,1,mittel
+BW-2025-00673,Drogenhandel,Fahrzeug,Karlsruhe,1,2025-03-08 22:00:00,1,Laptop,Vodafone,41079,199.221.11.72,1666.29,2,1,19,0.255,20.83,1,0,1,1,mittel
+BW-2025-00674,Sachbeschädigung,Fahrzeug,Ulm,0,2025-11-18 12:00:00,0,Android Smartphone,Telekom,86689,135.2.36.229,2399.81,3,3,34,0.502,21.5,1,0,1,0,hoch
+BW-2025-00675,Betrug,Messer,Mannheim,1,2025-05-02 13:00:00,0,Android Smartphone,1&1,60768,106.156.183.224,1364.74,1,3,39,0.561,11.31,1,1,0,1,hoch
+BW-2025-00676,Einbruchdiebstahl,keines,Heidelberg,0,2025-05-19 01:00:00,1,Laptop,O2,54025,43.144.243.94,1783.65,3,0,23,0.711,14.78,1,0,0,0,mittel
+BW-2025-00677,Betrug,Smartphone,Pforzheim,0,2025-11-14 19:00:00,0,Android Smartphone,Telekom,70106,118.16.183.134,16572.6,3,2,34,0.303,6.14,1,1,1,1,hoch
+BW-2025-00678,Einbruchdiebstahl,Phishing-Mail,Heidelberg,0,2025-04-27 00:00:00,1,Laptop,Vodafone,85775,152.129.100.176,1544.12,3,4,25,0.486,16.63,1,1,0,1,mittel
+BW-2025-00679,Raub,Laptop,Ulm,0,2025-05-28 18:00:00,0,Desktop PC,1&1,87539,132.54.147.30,2716.09,1,2,35,0.284,17.03,1,0,1,0,mittel
+BW-2025-00680,Körperverletzung,Online-Plattform,Stuttgart,1,2025-06-19 04:00:00,1,Tablet,Vodafone,52899,122.42.236.138,1313.43,3,1,36,0.367,8.47,0,1,0,1,niedrig
+BW-2025-00681,Raub,Brecheisen,Stuttgart,1,2025-01-28 08:00:00,0,Tablet,Telekom,71689,198.197.26.80,9044.43,3,3,57,0.515,21.38,1,1,1,1,hoch
+BW-2025-00682,Betrug,Messer,Ulm,0,2025-11-05 20:00:00,0,Tablet,Telekom,74918,72.146.41.82,14071.31,3,2,34,1.0,45.27,1,0,1,1,hoch
+BW-2025-00683,Diebstahl,Smartphone,Ulm,0,2025-09-02 16:00:00,0,Android Smartphone,Vodafone,48769,72.51.49.100,2223.22,1,0,9,0.124,1.78,0,0,0,0,niedrig
+BW-2025-00684,Diebstahl,Smartphone,Heilbronn,1,2025-11-10 12:00:00,0,Laptop,Vodafone,84760,202.78.46.70,4970.19,3,2,25,0.45,8.32,1,0,0,0,mittel
+BW-2025-00685,Betrug,keines,Heilbronn,1,2025-05-07 06:00:00,0,Android Smartphone,1&1,58551,171.118.174.214,1195.79,1,1,15,0.457,9.68,1,0,1,0,niedrig
+BW-2025-00686,Körperverletzung,Smartphone,Karlsruhe,1,2025-12-29 10:00:00,0,Tablet,O2,14287,86.237.82.60,4594.56,2,1,50,0.005,8.72,1,1,1,1,mittel
+BW-2025-00687,Sachbeschädigung,Online-Plattform,Heidelberg,0,2025-02-07 10:00:00,0,iPhone,O2,77467,183.182.14.129,6631.24,4,1,44,0.539,11.52,1,0,0,1,mittel
+BW-2025-00688,Drogenhandel,Smartphone,Karlsruhe,1,2025-11-14 16:00:00,0,Tablet,O2,91151,21.118.189.145,363.26,1,1,11,0.003,8.01,1,0,1,1,niedrig
+BW-2025-00689,Drogenhandel,Phishing-Mail,Mannheim,1,2025-05-20 18:00:00,0,Desktop PC,Telekom,28141,96.189.243.158,2741.29,3,2,22,0.552,9.44,1,0,0,1,mittel
+BW-2025-00690,Raub,Laptop,Heilbronn,1,2025-06-03 21:00:00,0,Desktop PC,Vodafone,52003,101.75.79.219,6125.12,2,1,25,0.545,21.72,1,1,0,0,mittel
+BW-2025-00691,Cybercrime,Messer,Pforzheim,0,2025-09-12 12:00:00,0,iPhone,Telekom,55249,126.209.47.62,11091.3,3,2,33,0.326,29.34,1,1,1,0,hoch
+BW-2025-00692,Körperverletzung,Laptop,Heilbronn,1,2025-11-05 13:00:00,0,Desktop PC,O2,91389,105.62.206.96,13808.17,5,1,30,1.0,3.86,1,1,1,1,hoch
+BW-2025-00693,Diebstahl,Fahrzeug,Heilbronn,1,2025-09-24 16:00:00,0,iPhone,Telekom,33437,84.210.202.192,4837.43,4,1,29,0.949,4.11,1,0,0,0,mittel
+BW-2025-00694,Diebstahl,Laptop,Mannheim,1,2025-04-12 00:00:00,1,Laptop,Telekom,75054,49.135.10.152,0.0,3,1,15,0.726,9.74,1,1,1,1,mittel
+BW-2025-00695,Raub,Smartphone,Pforzheim,0,2025-11-20 12:00:00,0,Tablet,Vodafone,55442,118.141.163.64,12893.54,2,3,65,0.712,36.97,1,1,0,0,hoch
+BW-2025-00696,Körperverletzung,Smartphone,Pforzheim,0,2025-01-16 01:00:00,1,Android Smartphone,Telekom,40451,144.5.217.29,642.09,1,0,11,0.342,9.37,1,0,1,0,niedrig
+BW-2025-00697,Drogenhandel,Messer,Freiburg,1,2025-12-28 22:00:00,1,Laptop,1&1,81888,124.252.81.54,0.0,2,0,0,0.221,1.22,0,1,1,1,niedrig
+BW-2025-00698,Körperverletzung,Online-Plattform,Mannheim,1,2025-06-27 11:00:00,0,Laptop,Vodafone,39724,134.247.91.87,3753.07,1,1,22,0.551,7.18,1,0,0,1,mittel
+BW-2025-00699,Drogenhandel,Online-Plattform,Stuttgart,1,2025-07-14 03:00:00,1,Android Smartphone,O2,69759,53.150.197.38,7329.11,1,2,7,0.784,5.35,1,0,1,1,mittel
+BW-2025-00700,Einbruchdiebstahl,Online-Plattform,Mannheim,1,2025-04-21 01:00:00,1,Android Smartphone,Vodafone,41182,40.238.75.109,4870.17,1,1,46,0.527,16.51,1,0,0,0,mittel
+BW-2025-00701,Betrug,Phishing-Mail,Mannheim,1,2025-09-10 08:00:00,0,Tablet,O2,34182,63.133.15.205,8173.5,2,4,38,0.625,29.64,1,0,1,1,hoch
+BW-2025-00702,Betrug,Phishing-Mail,Freiburg,1,2025-11-03 03:00:00,1,Android Smartphone,O2,80761,52.159.255.48,0.0,1,6,35,0.61,12.7,1,1,0,1,mittel
+BW-2025-00703,Cybercrime,Laptop,Stuttgart,1,2025-04-10 05:00:00,1,Tablet,1&1,70036,92.249.205.119,3239.1,3,2,20,0.946,13.85,1,0,0,0,mittel
+BW-2025-00704,Einbruchdiebstahl,Smartphone,Freiburg,1,2025-07-17 20:00:00,0,Laptop,1&1,85199,181.185.39.141,3287.6,1,0,6,0.037,8.43,0,0,0,0,niedrig
+BW-2025-00705,Einbruchdiebstahl,keines,Freiburg,1,2025-01-28 08:00:00,0,iPhone,1&1,28274,184.145.244.86,0.0,2,1,34,0.342,20.13,0,1,0,0,mittel
+BW-2025-00706,Diebstahl,Online-Plattform,Stuttgart,1,2025-11-01 10:00:00,0,Tablet,Vodafone,56844,34.172.215.233,6843.26,3,2,42,0.672,14.55,0,1,1,1,hoch
+BW-2025-00707,Drogenhandel,Smartphone,Heidelberg,0,2025-07-09 17:00:00,0,Desktop PC,Vodafone,35652,16.197.191.141,366.26,2,0,9,0.54,7.87,1,0,1,1,niedrig
+BW-2025-00708,Diebstahl,keines,Karlsruhe,1,2025-05-13 17:00:00,0,Desktop PC,1&1,74286,92.88.147.117,5297.92,4,3,47,0.552,12.32,0,1,1,0,mittel
+BW-2025-00709,Betrug,Phishing-Mail,Ulm,0,2025-09-10 08:00:00,0,Android Smartphone,1&1,60608,106.113.220.196,6898.24,2,0,7,0.725,24.56,1,1,0,0,mittel
+BW-2025-00710,Betrug,Online-Plattform,Freiburg,1,2025-11-01 04:00:00,1,Laptop,O2,83535,33.108.221.51,2854.28,3,2,27,0.704,5.35,1,0,1,1,mittel
+BW-2025-00711,Raub,keines,Ulm,0,2025-04-22 19:00:00,0,Tablet,O2,65552,197.133.228.3,6920.24,2,2,46,0.546,15.18,1,0,1,0,mittel
+BW-2025-00712,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-07-27 00:00:00,1,Android Smartphone,Vodafone,72208,145.122.33.26,186.25,3,2,21,0.447,7.26,1,1,0,1,mittel
+BW-2025-00713,Drogenhandel,Laptop,Ulm,0,2025-10-07 12:00:00,0,iPhone,Telekom,93729,80.248.225.77,1606.79,1,1,7,0.269,0.98,0,0,1,0,niedrig
+BW-2025-00714,Sachbeschädigung,Brecheisen,Heilbronn,1,2025-05-17 00:00:00,1,Desktop PC,Vodafone,34380,108.187.165.251,1179.45,3,1,34,0.526,7.27,0,1,0,1,mittel
+BW-2025-00715,Cybercrime,keines,Stuttgart,1,2025-12-04 07:00:00,0,Laptop,O2,83306,200.103.52.88,4112.39,5,1,35,1.0,18.37,0,1,0,1,mittel
+BW-2025-00716,Körperverletzung,Fahrzeug,Stuttgart,1,2025-06-29 07:00:00,0,iPhone,Vodafone,49343,174.251.109.11,7835.39,1,4,33,0.863,6.47,1,0,1,1,hoch
+BW-2025-00717,Körperverletzung,Laptop,Pforzheim,0,2025-12-02 19:00:00,0,Tablet,Vodafone,94513,73.167.244.25,4317.48,4,2,57,0.817,19.23,1,1,1,0,hoch
+BW-2025-00718,Betrug,Laptop,Pforzheim,0,2025-09-04 23:00:00,1,Tablet,Telekom,86161,134.1.31.221,1600.82,3,3,45,0.456,2.28,0,1,1,0,mittel
+BW-2025-00719,Sachbeschädigung,Online-Plattform,Heilbronn,1,2025-12-16 21:00:00,0,iPhone,O2,85400,15.125.213.131,2236.28,2,4,37,0.719,7.95,1,0,0,1,mittel
+BW-2025-00720,Cybercrime,Brecheisen,Stuttgart,1,2025-11-11 17:00:00,0,Android Smartphone,O2,27759,102.125.157.45,1456.27,1,1,12,0.567,1.52,0,0,1,1,niedrig
+BW-2025-00721,Einbruchdiebstahl,Smartphone,Pforzheim,0,2025-09-01 00:00:00,1,Laptop,1&1,16385,85.52.4.30,1296.71,2,2,26,0.396,19.99,0,0,1,0,mittel
+BW-2025-00722,Cybercrime,Laptop,Heidelberg,0,2025-04-25 02:00:00,1,Android Smartphone,Telekom,81265,93.150.92.243,0.0,3,3,50,0.197,14.69,1,0,1,0,mittel
+BW-2025-00723,Drogenhandel,Online-Plattform,Pforzheim,0,2025-12-31 19:00:00,0,Laptop,Telekom,86027,101.4.97.201,106.06,1,1,23,0.027,6.16,0,0,0,0,niedrig
+BW-2025-00724,Einbruchdiebstahl,Smartphone,Mannheim,1,2025-09-12 15:00:00,0,Desktop PC,O2,73556,116.120.120.193,1247.66,1,0,24,0.491,3.67,0,0,0,0,niedrig
+BW-2025-00725,Drogenhandel,Brecheisen,Karlsruhe,1,2025-12-10 15:00:00,0,Android Smartphone,Vodafone,38981,59.60.21.3,3550.68,2,7,62,0.838,26.9,1,0,1,1,hoch
+BW-2025-00726,Diebstahl,Messer,Heilbronn,1,2025-03-31 14:00:00,0,iPhone,Telekom,12277,133.193.180.249,6118.74,1,1,19,0.658,8.49,1,0,1,1,mittel
+BW-2025-00727,Drogenhandel,Online-Plattform,Freiburg,1,2025-12-24 02:00:00,1,Android Smartphone,1&1,54832,55.21.196.173,744.25,1,1,0,0.169,5.44,0,1,0,0,niedrig
+BW-2025-00728,Cybercrime,Smartphone,Karlsruhe,1,2025-04-08 04:00:00,1,Android Smartphone,Vodafone,39697,89.179.159.99,4420.46,3,2,27,0.896,0.0,1,1,0,0,mittel
+BW-2025-00729,Einbruchdiebstahl,Fahrzeug,Mannheim,1,2025-03-18 06:00:00,0,iPhone,1&1,20188,15.208.127.41,3988.51,1,5,21,0.796,12.77,0,1,1,0,mittel
+BW-2025-00730,Körperverletzung,Messer,Stuttgart,1,2025-01-23 09:00:00,0,Android Smartphone,Telekom,96479,142.115.95.73,882.77,1,1,6,0.26,1.94,0,0,1,0,niedrig
+BW-2025-00731,Betrug,keines,Karlsruhe,1,2025-02-15 05:00:00,1,Laptop,Telekom,49537,181.230.241.161,17560.5,3,5,33,0.574,16.01,1,1,1,1,hoch
+BW-2025-00732,Betrug,Laptop,Karlsruhe,1,2025-05-17 13:00:00,0,Desktop PC,Vodafone,34219,182.172.123.248,0.0,2,1,0,0.471,7.94,1,1,0,0,niedrig
+BW-2025-00733,Drogenhandel,Smartphone,Karlsruhe,1,2025-08-26 10:00:00,0,Android Smartphone,O2,56163,52.26.73.5,863.69,2,4,53,0.69,35.71,1,1,0,1,hoch
+BW-2025-00734,Raub,Laptop,Karlsruhe,1,2025-12-28 00:00:00,1,Desktop PC,Telekom,38442,194.63.110.100,0.0,2,0,11,0.0,1.06,0,0,0,1,niedrig
+BW-2025-00735,Raub,Online-Plattform,Mannheim,1,2025-03-09 08:00:00,0,Desktop PC,Telekom,38051,140.18.240.255,826.87,3,0,25,0.697,4.19,0,1,0,0,niedrig
+BW-2025-00736,Körperverletzung,Phishing-Mail,Mannheim,1,2025-05-04 11:00:00,0,Tablet,Telekom,56507,108.46.115.199,0.0,2,0,21,0.398,9.26,0,0,0,0,niedrig
+BW-2025-00737,Sachbeschädigung,Fahrzeug,Heidelberg,0,2025-08-03 13:00:00,0,Tablet,Telekom,26202,130.69.85.96,3461.32,3,1,36,0.623,0.0,1,0,0,1,mittel
+BW-2025-00738,Diebstahl,Brecheisen,Heilbronn,1,2025-01-28 17:00:00,0,Laptop,O2,20780,94.255.95.31,769.92,1,0,15,0.615,5.51,0,0,0,0,niedrig
+BW-2025-00739,Körperverletzung,Laptop,Ulm,0,2025-08-01 23:00:00,1,Laptop,1&1,68190,68.210.215.74,5347.74,4,2,55,0.744,38.37,1,0,0,1,hoch
+BW-2025-00740,Sachbeschädigung,Online-Plattform,Ulm,0,2025-11-21 17:00:00,0,Android Smartphone,Telekom,99015,105.16.163.160,1675.64,1,1,8,0.332,9.79,0,0,1,1,niedrig
+BW-2025-00741,Einbruchdiebstahl,Smartphone,Heilbronn,1,2025-10-27 01:00:00,1,iPhone,1&1,78506,179.150.158.112,407.0,1,0,12,0.235,5.27,1,0,0,1,niedrig
+BW-2025-00742,Diebstahl,Laptop,Mannheim,1,2025-03-11 10:00:00,0,Tablet,1&1,32114,27.144.220.157,1147.19,1,0,16,0.0,0.77,0,1,1,0,niedrig
+BW-2025-00743,Drogenhandel,Fahrzeug,Freiburg,1,2025-03-25 19:00:00,0,Android Smartphone,1&1,40522,119.185.106.44,6237.94,2,2,35,0.774,3.53,1,0,1,1,hoch
+BW-2025-00744,Körperverletzung,Online-Plattform,Pforzheim,0,2025-11-21 19:00:00,0,Tablet,O2,97382,165.105.12.173,1496.03,2,0,23,0.196,7.86,0,1,0,0,niedrig
+BW-2025-00745,Sachbeschädigung,keines,Pforzheim,0,2025-03-15 18:00:00,0,Android Smartphone,1&1,26015,75.45.53.232,2045.2,2,0,15,0.352,0.93,0,0,0,0,niedrig
+BW-2025-00746,Körperverletzung,keines,Heidelberg,0,2025-03-09 23:00:00,1,Android Smartphone,Telekom,16927,28.119.111.33,4046.91,3,1,19,0.248,0.0,0,0,0,0,mittel
+BW-2025-00747,Körperverletzung,Smartphone,Mannheim,1,2025-04-15 06:00:00,0,Tablet,O2,49682,170.57.54.165,2686.24,2,5,61,0.299,13.81,1,1,0,1,hoch
+BW-2025-00748,Diebstahl,Laptop,Heilbronn,1,2025-07-20 09:00:00,0,Tablet,Vodafone,96781,138.118.79.206,1069.21,1,1,8,0.254,7.75,0,1,1,0,niedrig
+BW-2025-00749,Körperverletzung,Online-Plattform,Freiburg,1,2025-01-22 13:00:00,0,Desktop PC,Telekom,66414,41.127.146.173,2110.84,1,2,13,0.424,1.61,0,1,1,0,niedrig
+BW-2025-00750,Sachbeschädigung,keines,Freiburg,1,2025-11-10 19:00:00,0,Tablet,1&1,14716,19.105.127.250,6079.13,1,0,16,0.727,16.09,1,0,0,0,mittel
+BW-2025-00751,Einbruchdiebstahl,Online-Plattform,Mannheim,1,2025-04-02 19:00:00,0,Tablet,1&1,50954,194.57.162.138,10933.39,2,2,31,0.823,6.0,0,1,0,0,hoch
+BW-2025-00752,Sachbeschädigung,keines,Karlsruhe,1,2025-11-17 17:00:00,0,Desktop PC,1&1,72378,154.239.248.123,903.2,2,3,9,0.562,2.8,1,0,0,1,niedrig
+BW-2025-00753,Einbruchdiebstahl,Smartphone,Ulm,0,2025-09-15 21:00:00,0,Laptop,1&1,90863,184.46.77.184,2439.34,3,3,47,1.0,24.92,1,1,1,1,hoch
+BW-2025-00754,Drogenhandel,Online-Plattform,Freiburg,1,2025-01-31 19:00:00,0,iPhone,Telekom,26803,104.205.13.64,3794.27,1,0,29,0.204,14.52,0,0,0,1,mittel
+BW-2025-00755,Drogenhandel,Smartphone,Freiburg,1,2025-10-20 06:00:00,0,Tablet,Telekom,55238,102.124.87.232,8582.72,4,1,73,0.9,31.91,1,0,1,1,hoch
+BW-2025-00756,Sachbeschädigung,Phishing-Mail,Stuttgart,1,2025-06-10 04:00:00,1,Android Smartphone,Vodafone,94945,90.229.193.59,2169.35,3,4,13,0.29,17.89,0,0,1,1,mittel
+BW-2025-00757,Diebstahl,Laptop,Pforzheim,0,2025-04-26 21:00:00,0,iPhone,O2,12583,148.213.175.35,2055.92,2,1,24,0.51,3.18,0,1,0,0,niedrig
+BW-2025-00758,Drogenhandel,Smartphone,Heilbronn,1,2025-07-02 00:00:00,1,Tablet,1&1,12674,189.42.85.166,2773.9,2,4,21,0.62,16.64,1,1,1,1,mittel
+BW-2025-00759,Körperverletzung,Smartphone,Freiburg,1,2025-08-09 02:00:00,1,Tablet,1&1,85043,36.4.140.167,844.5,2,1,16,0.202,3.85,0,0,0,1,niedrig
+BW-2025-00760,Körperverletzung,Laptop,Heidelberg,0,2025-12-10 05:00:00,1,Laptop,1&1,97475,97.236.14.85,2103.24,1,2,4,0.292,4.58,0,0,1,0,niedrig
+BW-2025-00761,Einbruchdiebstahl,Online-Plattform,Freiburg,1,2025-12-06 06:00:00,0,Tablet,Vodafone,93288,212.130.163.0,0.0,4,0,19,0.129,18.97,1,0,0,0,mittel
+BW-2025-00762,Diebstahl,Fahrzeug,Pforzheim,0,2025-07-22 23:00:00,1,Laptop,Telekom,85172,113.235.67.176,2065.34,2,1,23,0.173,7.91,0,1,1,1,niedrig
+BW-2025-00763,Raub,Laptop,Karlsruhe,1,2025-07-06 14:00:00,0,Desktop PC,O2,18817,156.1.113.210,2317.05,1,0,13,0.384,0.0,1,0,1,0,niedrig
+BW-2025-00764,Körperverletzung,Messer,Heidelberg,0,2025-07-26 01:00:00,1,Laptop,Telekom,76144,216.219.63.158,5104.87,1,0,18,0.989,0.0,0,1,0,1,mittel
+BW-2025-00765,Cybercrime,Messer,Freiburg,1,2025-10-02 15:00:00,0,Android Smartphone,1&1,42933,170.253.161.231,2250.4,1,0,24,0.95,8.15,0,1,0,0,mittel
+BW-2025-00766,Körperverletzung,Brecheisen,Stuttgart,1,2025-12-07 18:00:00,0,Desktop PC,Vodafone,37912,180.42.152.128,998.43,1,1,0,0.659,22.33,1,0,1,0,mittel
+BW-2025-00767,Körperverletzung,Online-Plattform,Ulm,0,2025-12-23 12:00:00,0,Desktop PC,Telekom,36299,104.65.26.197,3869.55,4,3,47,1.0,4.59,1,1,0,0,mittel
+BW-2025-00768,Körperverletzung,Brecheisen,Heidelberg,0,2025-10-25 05:00:00,1,Android Smartphone,O2,63773,92.147.65.45,2044.85,2,0,27,0.412,9.62,0,1,0,0,mittel
+BW-2025-00769,Diebstahl,Fahrzeug,Ulm,0,2025-04-20 15:00:00,0,Laptop,O2,43612,186.213.185.11,1870.12,2,5,64,0.677,0.0,0,1,0,0,hoch
+BW-2025-00770,Raub,Messer,Heidelberg,0,2025-05-12 00:00:00,1,iPhone,Vodafone,13631,73.222.195.142,1041.63,2,0,3,0.147,5.56,0,1,0,0,niedrig
+BW-2025-00771,Cybercrime,keines,Heilbronn,1,2025-10-16 02:00:00,1,Desktop PC,1&1,94793,20.121.19.160,565.32,1,5,28,0.495,7.26,1,0,0,0,mittel
+BW-2025-00772,Raub,Brecheisen,Pforzheim,0,2025-06-26 09:00:00,0,Android Smartphone,Telekom,46408,179.158.164.223,4899.0,3,4,49,0.913,31.12,1,1,1,0,hoch
+BW-2025-00773,Einbruchdiebstahl,Smartphone,Heilbronn,1,2025-02-27 07:00:00,0,iPhone,Telekom,51144,165.2.112.218,2750.74,2,0,13,0.672,18.08,1,0,0,1,mittel
+BW-2025-00774,Cybercrime,Laptop,Ulm,0,2025-09-28 22:00:00,1,Laptop,Telekom,28423,71.109.49.115,7214.08,4,5,15,0.813,4.67,1,0,0,0,hoch
+BW-2025-00775,Diebstahl,Laptop,Pforzheim,0,2025-06-12 12:00:00,0,Tablet,Telekom,88619,42.77.136.206,1733.82,2,2,24,0.195,1.39,0,0,1,0,niedrig
+BW-2025-00776,Drogenhandel,Phishing-Mail,Ulm,0,2025-05-29 19:00:00,0,Android Smartphone,1&1,28910,38.88.41.201,8432.76,3,1,43,0.706,18.95,1,0,1,0,mittel
+BW-2025-00777,Einbruchdiebstahl,Fahrzeug,Pforzheim,0,2025-06-23 14:00:00,0,Tablet,1&1,87264,25.81.32.131,620.78,3,2,20,0.232,1.96,1,0,1,0,niedrig
+BW-2025-00778,Körperverletzung,Phishing-Mail,Karlsruhe,1,2025-11-21 04:00:00,1,Laptop,1&1,99487,74.16.147.140,14.56,2,0,0,0.374,1.91,0,1,0,0,niedrig
+BW-2025-00779,Cybercrime,Brecheisen,Freiburg,1,2025-07-30 09:00:00,0,Tablet,O2,12762,176.56.198.167,320.52,1,0,8,0.39,2.59,0,0,1,1,niedrig
+BW-2025-00780,Betrug,Smartphone,Heidelberg,0,2025-07-31 03:00:00,1,Laptop,1&1,93748,190.91.159.120,13441.54,3,5,49,0.566,41.83,1,1,0,1,hoch
+BW-2025-00781,Drogenhandel,Laptop,Heidelberg,0,2025-01-06 08:00:00,0,Tablet,1&1,61508,76.106.167.246,17350.0,3,7,44,0.667,38.14,1,1,0,0,hoch
+BW-2025-00782,Cybercrime,Laptop,Heidelberg,0,2025-04-20 09:00:00,0,Laptop,Vodafone,67520,172.160.84.169,3745.19,2,1,0,0.179,0.0,0,0,0,0,niedrig
+BW-2025-00783,Drogenhandel,Messer,Stuttgart,1,2025-12-02 15:00:00,0,Laptop,Telekom,71746,199.168.58.130,3157.53,1,1,43,0.832,14.71,0,0,1,0,mittel
+BW-2025-00784,Sachbeschädigung,Phishing-Mail,Ulm,0,2025-06-28 03:00:00,1,iPhone,Vodafone,76366,27.253.113.100,3290.54,5,2,31,0.359,8.44,0,1,0,0,mittel
+BW-2025-00785,Drogenhandel,Messer,Freiburg,1,2025-02-05 13:00:00,0,Tablet,Telekom,94066,175.63.104.58,4426.5,1,1,19,0.368,7.14,1,1,1,0,mittel
+BW-2025-00786,Einbruchdiebstahl,keines,Mannheim,1,2025-05-17 14:00:00,0,iPhone,1&1,92352,89.56.93.3,1470.07,1,0,16,0.172,4.42,1,0,0,0,niedrig
+BW-2025-00787,Drogenhandel,Laptop,Karlsruhe,1,2025-12-19 12:00:00,0,Android Smartphone,Vodafone,95089,206.94.161.138,3876.51,2,3,24,0.74,14.05,1,0,1,0,mittel
+BW-2025-00788,Einbruchdiebstahl,Messer,Freiburg,1,2025-04-02 03:00:00,1,Tablet,1&1,44167,55.105.31.4,1100.76,2,2,22,0.261,5.41,0,0,0,0,niedrig
+BW-2025-00789,Drogenhandel,Online-Plattform,Heidelberg,0,2025-09-08 22:00:00,1,iPhone,1&1,33840,111.188.8.207,0.0,3,1,26,0.556,8.95,1,1,1,1,mittel
+BW-2025-00790,Sachbeschädigung,Fahrzeug,Stuttgart,1,2025-03-02 17:00:00,0,iPhone,Vodafone,70610,61.193.146.241,13172.34,4,2,9,0.601,16.23,1,1,0,1,hoch
+BW-2025-00791,Cybercrime,Brecheisen,Stuttgart,1,2025-06-27 14:00:00,0,Tablet,1&1,29562,33.204.184.19,0.0,1,5,25,0.554,20.08,1,1,1,1,hoch
+BW-2025-00792,Drogenhandel,Brecheisen,Karlsruhe,1,2025-11-06 17:00:00,0,iPhone,1&1,98291,137.128.141.5,6350.63,1,3,36,0.361,8.91,0,0,0,0,mittel
+BW-2025-00793,Diebstahl,Fahrzeug,Heidelberg,0,2025-07-16 13:00:00,0,Android Smartphone,O2,74771,108.207.145.251,4203.03,2,1,46,0.244,9.27,0,0,0,0,mittel
+BW-2025-00794,Einbruchdiebstahl,Messer,Heidelberg,0,2025-07-13 04:00:00,1,Desktop PC,Vodafone,98760,59.122.26.203,1924.88,1,1,38,0.545,13.77,1,1,1,1,mittel
+BW-2025-00795,Sachbeschädigung,Brecheisen,Ulm,0,2025-07-18 02:00:00,1,Android Smartphone,Telekom,44314,71.72.201.54,7661.6,3,1,24,0.586,3.78,1,1,0,0,mittel
+BW-2025-00796,Körperverletzung,Fahrzeug,Freiburg,1,2025-02-28 12:00:00,0,Desktop PC,1&1,11352,131.8.160.4,5476.9,2,2,21,0.614,8.46,1,1,1,0,mittel
+BW-2025-00797,Einbruchdiebstahl,Phishing-Mail,Ulm,0,2025-10-16 23:00:00,1,Android Smartphone,1&1,88275,76.152.0.41,6688.43,3,5,23,0.803,0.02,0,0,0,1,mittel
+BW-2025-00798,Diebstahl,Laptop,Stuttgart,1,2025-06-10 07:00:00,0,iPhone,O2,71726,101.179.131.201,3748.68,2,1,41,0.561,14.09,0,0,0,1,mittel
+BW-2025-00799,Betrug,Smartphone,Pforzheim,0,2025-07-26 12:00:00,0,Desktop PC,1&1,61733,182.215.211.241,1985.25,1,0,22,0.466,12.31,0,1,0,0,niedrig
+BW-2025-00800,Drogenhandel,Brecheisen,Stuttgart,1,2025-06-27 16:00:00,0,Desktop PC,Vodafone,32264,139.245.139.129,0.0,2,0,8,0.261,2.11,0,0,0,1,niedrig
+BW-2025-00801,Körperverletzung,Phishing-Mail,Heilbronn,1,2025-08-05 14:00:00,0,Android Smartphone,Telekom,79523,121.212.122.109,1721.73,1,2,30,0.847,0.0,1,0,0,0,mittel
+BW-2025-00802,Einbruchdiebstahl,Online-Plattform,Karlsruhe,1,2025-03-29 07:00:00,0,Laptop,Telekom,75432,82.239.168.134,1853.55,2,0,12,0.395,4.92,0,1,0,0,niedrig
+BW-2025-00803,Drogenhandel,Messer,Pforzheim,0,2025-12-19 22:00:00,1,Laptop,O2,51026,122.142.249.120,1815.13,3,2,35,0.733,4.08,1,1,1,1,mittel
+BW-2025-00804,Einbruchdiebstahl,Phishing-Mail,Heilbronn,1,2025-02-06 07:00:00,0,Android Smartphone,1&1,34762,49.12.3.126,991.35,3,0,13,0.343,6.87,0,1,1,0,niedrig
+BW-2025-00805,Betrug,Fahrzeug,Mannheim,1,2025-06-27 15:00:00,0,iPhone,1&1,31437,191.185.251.115,5277.75,1,0,6,0.371,9.71,0,1,1,0,niedrig
+BW-2025-00806,Körperverletzung,Messer,Karlsruhe,1,2025-10-29 09:00:00,0,Tablet,Telekom,56729,192.130.239.12,577.63,3,0,14,0.233,0.0,1,1,0,0,niedrig
+BW-2025-00807,Körperverletzung,keines,Heilbronn,1,2025-03-26 09:00:00,0,iPhone,Vodafone,55823,34.244.184.93,4633.05,3,1,53,0.501,12.45,1,1,1,1,hoch
+BW-2025-00808,Raub,Online-Plattform,Mannheim,1,2025-05-25 23:00:00,1,Android Smartphone,O2,86486,12.14.98.43,3771.0,1,2,19,0.777,8.1,1,1,0,0,mittel
+BW-2025-00809,Einbruchdiebstahl,Messer,Karlsruhe,1,2025-03-06 09:00:00,0,Android Smartphone,1&1,53077,17.165.116.236,6936.21,1,0,34,0.95,5.3,1,1,1,1,mittel
+BW-2025-00810,Cybercrime,Laptop,Ulm,0,2025-08-09 20:00:00,0,Laptop,Telekom,30155,18.100.81.211,1567.36,3,2,26,0.264,1.11,1,0,1,1,niedrig
+BW-2025-00811,Diebstahl,keines,Heilbronn,1,2025-01-04 23:00:00,1,Tablet,O2,53178,22.57.142.137,1366.63,1,1,30,0.235,2.94,0,0,0,0,niedrig
+BW-2025-00812,Körperverletzung,Phishing-Mail,Mannheim,1,2025-07-13 03:00:00,1,Android Smartphone,Telekom,52358,215.83.92.62,11887.66,4,5,14,0.459,43.69,1,1,1,0,hoch
+BW-2025-00813,Betrug,Laptop,Ulm,0,2025-06-24 04:00:00,1,iPhone,1&1,33332,72.117.228.35,7603.57,3,2,32,0.699,9.31,1,1,0,0,mittel
+BW-2025-00814,Sachbeschädigung,Laptop,Stuttgart,1,2025-09-23 05:00:00,1,Android Smartphone,Vodafone,62742,83.241.142.237,5308.96,1,3,24,0.793,9.91,1,1,1,0,mittel
+BW-2025-00815,Einbruchdiebstahl,Laptop,Pforzheim,0,2025-07-31 16:00:00,0,Tablet,1&1,99779,165.127.222.35,4150.43,3,2,40,0.249,6.66,0,1,1,1,mittel
+BW-2025-00816,Einbruchdiebstahl,Phishing-Mail,Karlsruhe,1,2025-12-01 05:00:00,1,Laptop,Vodafone,68385,110.89.213.206,3358.03,1,1,34,0.601,2.06,0,1,0,1,mittel
+BW-2025-00817,Körperverletzung,Online-Plattform,Ulm,0,2025-09-09 09:00:00,0,iPhone,1&1,90460,58.181.4.1,2410.25,1,2,11,0.706,10.12,0,0,1,0,mittel
+BW-2025-00818,Sachbeschädigung,Messer,Karlsruhe,1,2025-11-13 10:00:00,0,iPhone,O2,98662,68.103.38.170,2192.52,1,4,15,0.088,10.52,0,0,0,1,niedrig
+BW-2025-00819,Einbruchdiebstahl,keines,Karlsruhe,1,2025-10-26 13:00:00,0,Laptop,1&1,20378,216.50.8.120,1644.41,2,0,21,0.439,0.0,1,0,1,0,niedrig
+BW-2025-00820,Körperverletzung,Online-Plattform,Mannheim,1,2025-06-19 17:00:00,0,Android Smartphone,O2,78562,120.127.212.226,4608.23,2,3,26,0.692,0.0,1,0,1,1,mittel
+BW-2025-00821,Cybercrime,Smartphone,Karlsruhe,1,2025-12-15 14:00:00,0,iPhone,Telekom,65694,116.187.163.196,3193.19,1,0,17,0.246,5.18,1,0,0,0,niedrig
+BW-2025-00822,Diebstahl,keines,Pforzheim,0,2025-02-25 19:00:00,0,Laptop,O2,75987,15.42.47.100,4218.18,3,1,34,0.543,14.98,1,0,1,0,mittel
+BW-2025-00823,Diebstahl,keines,Mannheim,1,2025-01-31 21:00:00,0,Android Smartphone,1&1,20917,117.143.118.84,113.04,1,1,16,0.378,4.78,1,0,1,0,niedrig
+BW-2025-00824,Cybercrime,Phishing-Mail,Heilbronn,1,2025-08-22 00:00:00,1,Tablet,O2,34535,65.8.147.178,916.16,1,0,29,0.575,12.16,0,0,0,1,niedrig
+BW-2025-00825,Einbruchdiebstahl,Laptop,Pforzheim,0,2025-12-31 19:00:00,0,iPhone,1&1,12348,12.127.49.159,1775.1,1,2,10,0.152,6.93,0,1,1,0,niedrig
+BW-2025-00826,Sachbeschädigung,Laptop,Stuttgart,1,2025-11-11 03:00:00,1,Android Smartphone,1&1,63096,179.96.37.191,1623.97,1,1,37,0.474,13.62,1,0,0,0,mittel
+BW-2025-00827,Körperverletzung,Online-Plattform,Freiburg,1,2025-03-01 19:00:00,0,Tablet,O2,26395,45.150.211.246,7003.75,2,1,22,0.581,0.69,1,1,0,1,mittel
+BW-2025-00828,Betrug,Fahrzeug,Karlsruhe,1,2025-01-19 07:00:00,0,iPhone,Vodafone,37424,134.42.127.16,813.9,1,0,24,0.727,0.12,1,0,1,0,niedrig
+BW-2025-00829,Einbruchdiebstahl,Fahrzeug,Ulm,0,2025-02-28 18:00:00,0,Desktop PC,Vodafone,49441,208.12.113.244,9911.6,5,1,34,0.901,14.4,1,1,1,1,hoch
+BW-2025-00830,Körperverletzung,Brecheisen,Heilbronn,1,2025-03-21 12:00:00,0,Tablet,Telekom,31771,50.5.36.203,374.24,4,1,10,0.236,7.12,0,1,0,1,niedrig
+BW-2025-00831,Körperverletzung,keines,Heilbronn,1,2025-06-15 15:00:00,0,iPhone,1&1,36389,86.122.18.62,1991.21,1,2,25,0.236,8.52,1,0,0,0,niedrig
+BW-2025-00832,Sachbeschädigung,Smartphone,Freiburg,1,2025-10-22 18:00:00,0,iPhone,Telekom,64484,137.230.103.222,0.0,1,1,23,0.27,0.47,1,0,1,1,niedrig
+BW-2025-00833,Cybercrime,Smartphone,Heilbronn,1,2025-12-17 10:00:00,0,Tablet,1&1,87468,196.128.80.166,0.0,2,0,36,0.738,11.12,0,0,1,0,mittel
+BW-2025-00834,Körperverletzung,Fahrzeug,Stuttgart,1,2025-10-16 02:00:00,1,Desktop PC,Telekom,85550,91.219.142.52,1668.33,1,1,2,0.375,2.73,0,0,1,0,niedrig
+BW-2025-00835,Diebstahl,Online-Plattform,Ulm,0,2025-12-04 18:00:00,0,Tablet,Telekom,91618,176.108.10.86,1306.95,1,4,35,0.736,11.25,0,0,1,0,mittel
+BW-2025-00836,Drogenhandel,keines,Ulm,0,2025-07-16 14:00:00,0,iPhone,Vodafone,35192,131.32.36.38,6576.15,2,1,20,0.632,12.46,0,0,1,1,mittel
+BW-2025-00837,Drogenhandel,keines,Heidelberg,0,2025-08-20 12:00:00,0,Desktop PC,Vodafone,88918,194.23.74.207,6536.67,2,0,44,0.431,8.92,0,1,1,1,mittel
+BW-2025-00838,Körperverletzung,Brecheisen,Pforzheim,0,2025-09-03 22:00:00,1,Tablet,1&1,71908,215.188.191.75,632.38,1,1,13,0.462,3.22,1,0,1,0,niedrig
+BW-2025-00839,Einbruchdiebstahl,Fahrzeug,Pforzheim,0,2025-03-30 03:00:00,1,iPhone,1&1,32713,62.17.101.224,4732.74,2,2,60,0.515,26.14,1,1,1,1,hoch
+BW-2025-00840,Einbruchdiebstahl,keines,Karlsruhe,1,2025-07-27 07:00:00,0,Tablet,1&1,40765,64.157.101.174,19636.89,3,5,38,0.878,24.62,0,1,1,1,hoch
+BW-2025-00841,Betrug,Smartphone,Freiburg,1,2025-04-19 06:00:00,0,Laptop,O2,32900,222.244.113.231,7249.33,3,4,38,1.0,0.83,0,0,1,1,hoch
+BW-2025-00842,Betrug,Laptop,Freiburg,1,2025-06-04 18:00:00,0,Tablet,Telekom,25818,154.222.4.42,2609.01,4,2,43,0.779,3.33,1,1,1,1,mittel
+BW-2025-00843,Raub,keines,Pforzheim,0,2025-02-01 20:00:00,0,Laptop,O2,83010,79.122.78.44,0.0,1,0,20,0.299,8.21,1,0,1,0,niedrig
+BW-2025-00844,Einbruchdiebstahl,Laptop,Stuttgart,1,2025-03-17 17:00:00,0,Tablet,1&1,23879,211.26.95.15,0.0,5,2,30,0.325,3.47,1,1,1,1,mittel
+BW-2025-00845,Diebstahl,Smartphone,Karlsruhe,1,2025-05-21 05:00:00,1,Android Smartphone,Telekom,57400,51.51.72.234,4903.68,4,4,34,0.744,11.42,1,0,1,0,mittel
+BW-2025-00846,Cybercrime,keines,Heilbronn,1,2025-09-06 07:00:00,0,iPhone,Vodafone,53857,220.180.133.98,6365.45,3,4,30,0.639,12.54,1,0,0,0,mittel
+BW-2025-00847,Einbruchdiebstahl,Laptop,Heidelberg,0,2025-01-05 11:00:00,0,Tablet,1&1,42154,218.36.36.19,0.0,2,0,32,0.623,14.66,1,1,0,1,mittel
+BW-2025-00848,Körperverletzung,Phishing-Mail,Pforzheim,0,2025-02-28 04:00:00,1,Desktop PC,Vodafone,44867,106.87.253.39,1860.32,1,3,15,0.378,0.0,0,0,0,1,niedrig
+BW-2025-00849,Sachbeschädigung,Phishing-Mail,Heidelberg,0,2025-06-05 18:00:00,0,Android Smartphone,1&1,28087,216.64.182.72,0.0,3,0,10,0.09,6.55,1,1,1,0,niedrig
+BW-2025-00850,Sachbeschädigung,Messer,Ulm,0,2025-01-21 07:00:00,0,Tablet,O2,68009,48.69.3.76,1445.76,2,0,3,0.043,5.49,1,1,0,0,niedrig
+BW-2025-00851,Betrug,Laptop,Karlsruhe,1,2025-10-02 04:00:00,1,Laptop,O2,31538,122.31.92.106,1298.1,3,1,36,0.574,0.0,1,0,0,0,mittel
+BW-2025-00852,Betrug,Messer,Stuttgart,1,2025-12-21 20:00:00,0,Android Smartphone,Telekom,48761,118.87.151.137,1118.14,1,1,9,0.278,0.0,1,1,0,1,niedrig
+BW-2025-00853,Sachbeschädigung,Online-Plattform,Freiburg,1,2025-07-10 23:00:00,1,Laptop,Telekom,79178,167.67.62.103,1068.15,2,5,14,1.0,9.31,0,0,0,1,hoch
+BW-2025-00854,Einbruchdiebstahl,Messer,Heilbronn,1,2025-08-24 16:00:00,0,Android Smartphone,1&1,95033,114.141.175.151,4335.39,2,2,29,0.842,15.83,0,0,1,0,mittel
+BW-2025-00855,Raub,Online-Plattform,Karlsruhe,1,2025-09-24 05:00:00,1,iPhone,O2,26515,144.61.128.144,261.85,1,5,34,0.837,1.74,1,1,0,0,mittel
+BW-2025-00856,Cybercrime,Fahrzeug,Karlsruhe,1,2025-12-22 21:00:00,0,Desktop PC,O2,54657,204.205.201.164,13207.6,2,4,37,0.556,25.59,0,0,0,1,hoch
+BW-2025-00857,Einbruchdiebstahl,Smartphone,Stuttgart,1,2025-06-14 18:00:00,0,Desktop PC,O2,49838,196.252.130.159,5088.13,1,1,48,0.73,7.71,0,0,0,0,mittel
+BW-2025-00858,Sachbeschädigung,Laptop,Stuttgart,1,2025-12-13 10:00:00,0,Laptop,O2,56461,42.178.53.196,2630.32,1,0,25,0.564,0.74,1,1,0,0,niedrig
+BW-2025-00859,Betrug,Laptop,Heilbronn,1,2025-11-06 08:00:00,0,Laptop,Telekom,54430,71.112.223.202,0.0,1,0,3,0.385,4.38,1,1,1,0,niedrig
+BW-2025-00860,Raub,Phishing-Mail,Pforzheim,0,2025-09-15 19:00:00,0,Laptop,Vodafone,78113,199.205.155.140,3597.02,2,0,32,0.603,12.28,0,1,1,1,mittel
+BW-2025-00861,Raub,Laptop,Freiburg,1,2025-09-04 15:00:00,0,Desktop PC,Vodafone,69547,36.21.187.28,6856.8,1,2,23,0.362,11.85,1,1,1,0,mittel
+BW-2025-00862,Einbruchdiebstahl,Messer,Ulm,0,2025-02-12 10:00:00,0,iPhone,Telekom,65690,44.75.212.115,14792.52,1,5,29,0.678,33.63,1,0,1,1,hoch
+BW-2025-00863,Körperverletzung,Fahrzeug,Heilbronn,1,2025-12-26 06:00:00,0,iPhone,O2,62789,161.150.220.108,2718.19,1,1,14,0.605,1.89,1,0,0,1,niedrig
+BW-2025-00864,Sachbeschädigung,Online-Plattform,Heilbronn,1,2025-12-01 04:00:00,1,Tablet,1&1,64646,221.229.85.18,2870.51,1,1,5,0.435,16.6,1,0,0,0,niedrig
+BW-2025-00865,Einbruchdiebstahl,Brecheisen,Mannheim,1,2025-03-30 07:00:00,0,Tablet,1&1,77264,146.117.202.191,6264.0,1,1,24,0.521,19.25,1,0,0,1,mittel
+BW-2025-00866,Diebstahl,Fahrzeug,Heilbronn,1,2025-04-18 01:00:00,1,Tablet,Telekom,83272,105.140.139.191,4878.98,2,3,36,0.499,4.31,1,1,1,1,mittel
+BW-2025-00867,Diebstahl,Messer,Karlsruhe,1,2025-07-17 16:00:00,0,iPhone,O2,15279,144.212.191.15,3760.45,1,4,47,0.657,12.81,1,1,0,0,hoch
+BW-2025-00868,Einbruchdiebstahl,Laptop,Freiburg,1,2025-07-27 00:00:00,1,Laptop,O2,48532,135.101.157.201,144.43,1,1,13,0.401,3.39,0,1,1,0,niedrig
+BW-2025-00869,Betrug,Brecheisen,Mannheim,1,2025-02-03 05:00:00,1,Desktop PC,1&1,49998,83.146.75.214,4583.91,2,2,25,0.626,4.92,1,0,1,1,mittel
+BW-2025-00870,Raub,Brecheisen,Heilbronn,1,2025-08-27 00:00:00,1,iPhone,Telekom,18855,22.112.79.151,4593.56,1,0,28,0.353,13.76,0,1,0,0,mittel
+BW-2025-00871,Sachbeschädigung,keines,Pforzheim,0,2025-08-19 14:00:00,0,Desktop PC,1&1,59454,132.168.131.47,1141.48,1,0,19,0.087,5.73,0,1,0,0,niedrig
+BW-2025-00872,Einbruchdiebstahl,Brecheisen,Heilbronn,1,2025-04-12 16:00:00,0,Tablet,1&1,52626,33.221.88.175,299.18,2,1,17,0.304,0.0,0,0,1,0,niedrig
+BW-2025-00873,Sachbeschädigung,Messer,Heidelberg,0,2025-02-01 06:00:00,0,Tablet,O2,97876,124.110.192.182,0.0,2,2,25,0.683,0.73,0,0,1,1,mittel
+BW-2025-00874,Cybercrime,Laptop,Mannheim,1,2025-03-26 12:00:00,0,iPhone,O2,94399,154.49.191.46,1840.43,3,1,9,0.589,7.27,0,1,0,1,niedrig
+BW-2025-00875,Diebstahl,Fahrzeug,Stuttgart,1,2025-11-21 20:00:00,0,Desktop PC,Vodafone,75881,15.199.43.42,1216.35,2,3,36,0.505,20.0,1,0,1,1,mittel
+BW-2025-00876,Diebstahl,Brecheisen,Stuttgart,1,2025-06-17 10:00:00,0,Laptop,Vodafone,85963,124.185.5.200,7502.69,3,1,27,0.57,17.0,0,0,0,1,mittel
+BW-2025-00877,Diebstahl,Phishing-Mail,Ulm,0,2025-12-02 12:00:00,0,Desktop PC,Telekom,13049,98.7.100.148,15148.01,4,2,43,1.0,18.74,1,1,1,1,hoch
+BW-2025-00878,Sachbeschädigung,Brecheisen,Ulm,0,2025-09-18 18:00:00,0,iPhone,O2,43708,34.77.107.135,3747.01,2,1,42,0.558,27.62,1,0,1,0,hoch
+BW-2025-00879,Diebstahl,Laptop,Mannheim,1,2025-05-05 16:00:00,0,Laptop,Vodafone,43496,207.175.157.201,943.03,1,0,20,0.271,8.29,0,1,0,0,niedrig
+BW-2025-00880,Diebstahl,Brecheisen,Pforzheim,0,2025-02-10 05:00:00,1,Tablet,Vodafone,90540,94.70.64.92,10201.3,1,8,22,0.804,12.47,0,0,1,1,hoch
+BW-2025-00881,Einbruchdiebstahl,Smartphone,Stuttgart,1,2025-03-09 09:00:00,0,Laptop,1&1,51948,47.120.75.125,0.0,1,1,28,0.584,9.79,1,0,1,1,mittel
+BW-2025-00882,Sachbeschädigung,Phishing-Mail,Pforzheim,0,2025-02-05 09:00:00,0,Tablet,Telekom,36549,72.87.238.39,2590.44,2,0,13,0.78,9.39,1,1,1,1,mittel
+BW-2025-00883,Raub,keines,Ulm,0,2025-02-11 09:00:00,0,iPhone,O2,51724,129.254.172.214,3593.88,4,0,22,0.633,2.85,0,0,0,1,mittel
+BW-2025-00884,Sachbeschädigung,Laptop,Heilbronn,1,2025-06-09 13:00:00,0,iPhone,1&1,12440,79.231.167.2,6215.77,1,1,11,0.339,18.56,1,1,1,0,mittel
+BW-2025-00885,Diebstahl,Fahrzeug,Mannheim,1,2025-11-01 10:00:00,0,Laptop,1&1,20998,173.195.185.23,5562.95,1,3,34,0.825,30.92,1,1,0,0,hoch
+BW-2025-00886,Raub,Brecheisen,Freiburg,1,2025-06-17 08:00:00,0,Desktop PC,Vodafone,80455,119.123.10.119,651.68,1,0,15,0.26,2.64,1,0,0,0,niedrig
+BW-2025-00887,Körperverletzung,Smartphone,Stuttgart,1,2025-04-25 06:00:00,0,Tablet,O2,10071,26.103.161.116,6054.91,4,3,32,0.92,13.24,0,0,0,0,mittel
+BW-2025-00888,Körperverletzung,Online-Plattform,Pforzheim,0,2025-05-26 05:00:00,1,Tablet,O2,86697,141.164.226.46,2474.6,1,2,21,0.444,4.75,0,0,0,0,niedrig
+BW-2025-00889,Cybercrime,Smartphone,Mannheim,1,2025-07-25 05:00:00,1,Desktop PC,Telekom,21759,112.50.179.174,2930.64,3,3,33,0.742,19.63,1,1,0,0,mittel
+BW-2025-00890,Diebstahl,Brecheisen,Pforzheim,0,2025-12-11 14:00:00,0,Tablet,Vodafone,51720,185.158.43.191,6760.26,4,4,44,0.711,24.99,1,1,1,1,hoch
+BW-2025-00891,Drogenhandel,Online-Plattform,Heilbronn,1,2025-08-08 13:00:00,0,Laptop,Vodafone,54778,64.235.114.143,730.61,2,1,16,0.529,6.3,0,0,1,1,niedrig
+BW-2025-00892,Körperverletzung,Phishing-Mail,Stuttgart,1,2025-11-22 07:00:00,0,Android Smartphone,Telekom,10560,13.115.190.104,6994.61,3,1,34,0.764,15.63,1,0,0,1,mittel
+BW-2025-00893,Einbruchdiebstahl,Messer,Heilbronn,1,2025-02-22 22:00:00,1,Tablet,Telekom,80601,18.236.45.50,1123.35,2,1,5,0.549,2.49,1,1,0,1,niedrig
+BW-2025-00894,Körperverletzung,Laptop,Freiburg,1,2025-09-22 00:00:00,1,Tablet,O2,33224,207.153.104.221,0.0,1,0,21,0.309,1.06,1,0,1,0,niedrig
+BW-2025-00895,Betrug,Laptop,Heilbronn,1,2025-10-31 11:00:00,0,Laptop,Vodafone,11227,67.181.149.185,416.36,1,0,18,0.334,10.44,0,0,1,1,niedrig
+BW-2025-00896,Betrug,Online-Plattform,Freiburg,1,2025-07-26 23:00:00,1,Android Smartphone,Telekom,38986,70.248.84.6,10781.31,3,4,47,0.742,18.9,1,1,1,1,hoch
+BW-2025-00897,Körperverletzung,Phishing-Mail,Stuttgart,1,2025-05-23 17:00:00,0,Laptop,1&1,10935,61.50.190.114,6686.09,1,1,39,0.402,10.84,1,1,0,1,mittel
+BW-2025-00898,Sachbeschädigung,Laptop,Pforzheim,0,2025-04-27 09:00:00,0,Desktop PC,1&1,82323,60.154.237.106,2126.68,1,3,22,0.011,6.04,0,0,0,0,niedrig
+BW-2025-00899,Einbruchdiebstahl,Laptop,Mannheim,1,2025-06-27 05:00:00,1,iPhone,Vodafone,84698,69.91.236.233,5753.17,1,1,17,0.683,23.69,1,0,1,1,mittel
+BW-2025-00900,Cybercrime,Fahrzeug,Stuttgart,1,2025-11-06 21:00:00,0,Desktop PC,O2,10256,120.87.95.209,365.34,1,1,4,0.512,9.87,1,0,0,0,niedrig
+BW-2025-00901,Betrug,Phishing-Mail,Ulm,0,2025-03-25 02:00:00,1,Tablet,O2,99151,143.174.255.190,1658.07,1,2,6,0.296,0.95,0,0,1,1,niedrig
+BW-2025-00902,Körperverletzung,keines,Freiburg,1,2025-06-03 06:00:00,0,Desktop PC,Telekom,16155,82.38.158.127,6824.49,1,1,19,0.885,7.39,1,1,1,0,mittel
+BW-2025-00903,Sachbeschädigung,keines,Freiburg,1,2025-05-13 20:00:00,0,iPhone,1&1,53870,31.241.109.146,0.0,1,0,23,0.667,11.31,0,0,1,0,niedrig
+BW-2025-00904,Betrug,Fahrzeug,Ulm,0,2025-05-15 09:00:00,0,iPhone,Vodafone,31558,95.72.16.222,4273.21,1,1,1,0.29,15.2,0,1,1,0,mittel
+BW-2025-00905,Cybercrime,Laptop,Karlsruhe,1,2025-10-22 21:00:00,0,iPhone,1&1,13148,162.176.24.176,7161.76,2,1,17,0.636,13.91,1,0,1,1,mittel
+BW-2025-00906,Drogenhandel,Online-Plattform,Heidelberg,0,2025-06-12 17:00:00,0,iPhone,1&1,54669,24.239.79.208,16735.43,3,2,74,0.531,12.88,0,1,1,1,hoch
+BW-2025-00907,Drogenhandel,Fahrzeug,Karlsruhe,1,2025-03-07 07:00:00,0,Desktop PC,1&1,91965,125.74.243.251,1724.96,3,3,37,0.716,12.24,0,1,1,1,mittel
+BW-2025-00908,Diebstahl,Laptop,Stuttgart,1,2025-08-02 20:00:00,0,iPhone,1&1,18523,211.91.129.27,6195.31,2,1,25,0.351,7.22,1,1,0,0,mittel
+BW-2025-00909,Einbruchdiebstahl,Smartphone,Heilbronn,1,2025-10-22 19:00:00,0,iPhone,O2,18623,37.17.95.89,3058.16,2,1,38,0.771,2.62,1,1,0,1,hoch
+BW-2025-00910,Betrug,Smartphone,Pforzheim,0,2025-03-07 10:00:00,0,Tablet,1&1,90911,203.128.171.164,4063.17,3,3,33,0.513,18.35,0,1,1,0,mittel
+BW-2025-00911,Sachbeschädigung,Fahrzeug,Stuttgart,1,2025-11-13 21:00:00,0,Tablet,1&1,66112,169.198.32.224,2969.39,3,2,30,0.436,15.8,0,0,0,1,mittel
+BW-2025-00912,Diebstahl,Phishing-Mail,Stuttgart,1,2025-05-12 09:00:00,0,Tablet,O2,24156,37.73.222.152,9713.4,5,2,54,0.914,17.26,1,1,1,1,hoch
+BW-2025-00913,Betrug,Laptop,Heidelberg,0,2025-12-14 09:00:00,0,Desktop PC,Vodafone,43591,101.250.235.50,1570.86,2,1,2,0.292,9.34,1,1,0,0,niedrig
+BW-2025-00914,Sachbeschädigung,keines,Heilbronn,1,2025-04-04 23:00:00,1,Android Smartphone,Vodafone,15776,26.124.89.173,492.1,2,0,19,0.03,10.57,0,0,0,0,niedrig
+BW-2025-00915,Einbruchdiebstahl,Online-Plattform,Ulm,0,2025-08-01 10:00:00,0,Desktop PC,O2,86502,149.136.100.199,3681.52,3,1,54,1.0,13.72,0,0,1,1,hoch
+BW-2025-00916,Einbruchdiebstahl,Brecheisen,Heilbronn,1,2025-07-18 16:00:00,0,Laptop,O2,58343,13.17.166.202,2208.59,3,8,55,0.663,2.95,1,1,1,1,hoch
+BW-2025-00917,Einbruchdiebstahl,Smartphone,Heidelberg,0,2025-10-16 03:00:00,1,Desktop PC,Telekom,55064,61.6.51.136,2981.71,1,1,41,0.543,4.56,1,0,1,1,mittel
+BW-2025-00918,Raub,Fahrzeug,Karlsruhe,1,2025-11-21 18:00:00,0,Laptop,Vodafone,71263,164.138.5.168,439.03,1,3,29,0.5,11.75,0,1,1,1,mittel
+BW-2025-00919,Drogenhandel,Phishing-Mail,Pforzheim,0,2025-04-21 18:00:00,0,Tablet,O2,23742,127.77.36.66,4200.59,1,3,48,0.723,5.02,1,0,1,1,mittel
+BW-2025-00920,Betrug,keines,Heidelberg,0,2025-06-07 04:00:00,1,iPhone,Vodafone,71149,170.185.56.224,1337.37,1,0,14,0.502,1.23,0,0,0,0,niedrig
+BW-2025-00921,Raub,Fahrzeug,Heilbronn,1,2025-05-21 03:00:00,1,Laptop,1&1,62469,58.42.165.232,677.83,2,1,10,0.418,3.33,0,1,0,0,niedrig
+BW-2025-00922,Betrug,Phishing-Mail,Stuttgart,1,2025-01-21 11:00:00,0,iPhone,O2,82704,40.125.11.179,1393.34,3,1,13,0.543,7.01,1,0,1,0,niedrig
+BW-2025-00923,Einbruchdiebstahl,Online-Plattform,Heilbronn,1,2025-01-30 23:00:00,1,Android Smartphone,O2,13890,61.249.183.113,6500.08,5,2,17,0.599,20.87,1,1,1,1,hoch
+BW-2025-00924,Raub,Online-Plattform,Mannheim,1,2025-04-29 23:00:00,1,Android Smartphone,O2,54540,152.244.9.123,0.0,1,1,15,0.538,6.34,0,0,1,0,niedrig
+BW-2025-00925,Raub,Brecheisen,Heidelberg,0,2025-06-28 17:00:00,0,iPhone,Vodafone,23263,16.95.216.209,2411.88,2,3,27,0.463,12.35,1,0,0,1,mittel
+BW-2025-00926,Einbruchdiebstahl,Messer,Karlsruhe,1,2025-07-28 06:00:00,0,Laptop,Vodafone,69795,72.122.119.78,8296.51,5,3,72,0.968,20.55,1,0,0,1,hoch
+BW-2025-00927,Drogenhandel,Phishing-Mail,Mannheim,1,2025-02-14 15:00:00,0,Desktop PC,1&1,25531,47.249.130.236,5317.93,2,2,33,0.509,11.49,1,0,0,1,mittel
+BW-2025-00928,Einbruchdiebstahl,Fahrzeug,Heidelberg,0,2025-09-13 11:00:00,0,Desktop PC,1&1,51674,164.124.13.201,5684.11,3,1,58,0.433,45.97,1,1,1,1,hoch
+BW-2025-00929,Sachbeschädigung,Fahrzeug,Stuttgart,1,2025-07-20 19:00:00,0,Desktop PC,Vodafone,29472,94.226.224.71,6447.58,2,2,26,0.712,17.39,1,0,0,1,mittel
+BW-2025-00930,Raub,Smartphone,Pforzheim,0,2025-05-23 20:00:00,0,Android Smartphone,1&1,20670,211.223.209.241,5550.36,1,2,27,0.547,4.25,0,1,1,0,mittel
+BW-2025-00931,Körperverletzung,Laptop,Mannheim,1,2025-12-14 14:00:00,0,Desktop PC,1&1,59055,138.163.114.205,5794.86,2,4,28,0.661,8.64,1,1,0,0,mittel
+BW-2025-00932,Körperverletzung,Brecheisen,Freiburg,1,2025-12-04 18:00:00,0,Laptop,1&1,72096,79.177.161.238,1374.41,4,1,40,0.573,28.85,1,0,1,0,hoch
+BW-2025-00933,Sachbeschädigung,Smartphone,Heidelberg,0,2025-11-05 14:00:00,0,Android Smartphone,Vodafone,40721,112.89.179.101,14257.9,2,3,36,0.642,0.0,1,0,1,1,hoch
+BW-2025-00934,Raub,Online-Plattform,Ulm,0,2025-09-13 09:00:00,0,Tablet,Vodafone,43361,151.240.249.123,794.96,1,2,21,0.312,16.04,0,1,1,0,mittel
+BW-2025-00935,Diebstahl,Brecheisen,Karlsruhe,1,2025-12-21 04:00:00,1,Laptop,1&1,56081,69.236.234.248,9431.23,2,1,45,0.672,51.53,1,1,0,1,hoch
+BW-2025-00936,Betrug,keines,Freiburg,1,2025-11-16 04:00:00,1,Tablet,1&1,66689,115.177.33.26,1686.43,2,3,47,0.269,0.0,1,1,1,0,mittel
+BW-2025-00937,Drogenhandel,keines,Freiburg,1,2025-01-17 20:00:00,0,Laptop,1&1,33536,124.18.127.75,2154.86,1,1,17,0.021,8.01,0,0,0,1,niedrig
+BW-2025-00938,Raub,Online-Plattform,Karlsruhe,1,2025-07-21 01:00:00,1,Laptop,Telekom,75767,142.70.69.43,659.81,1,1,10,0.31,9.99,0,0,0,0,niedrig
+BW-2025-00939,Diebstahl,Online-Plattform,Heidelberg,0,2025-02-18 16:00:00,0,iPhone,Telekom,57216,20.204.207.26,1106.99,1,0,15,0.311,2.83,0,1,1,1,niedrig
+BW-2025-00940,Raub,Phishing-Mail,Heidelberg,0,2025-07-26 15:00:00,0,Laptop,O2,99592,81.67.79.33,2548.11,2,1,18,0.585,6.43,0,1,1,0,niedrig
+BW-2025-00941,Raub,Brecheisen,Pforzheim,0,2025-07-12 09:00:00,0,iPhone,O2,55433,211.123.23.217,0.0,1,1,25,0.33,2.47,1,0,1,0,niedrig
+BW-2025-00942,Sachbeschädigung,Messer,Stuttgart,1,2025-09-29 08:00:00,0,Tablet,Vodafone,39829,69.23.215.154,1424.53,2,0,26,0.231,10.6,0,0,1,0,niedrig
+BW-2025-00943,Raub,keines,Heidelberg,0,2025-11-11 23:00:00,1,Desktop PC,1&1,54650,213.186.239.60,12391.47,1,4,22,0.746,25.52,1,0,1,1,hoch
+BW-2025-00944,Diebstahl,Phishing-Mail,Heidelberg,0,2025-05-24 01:00:00,1,Tablet,1&1,67498,126.49.92.73,923.06,1,2,20,0.391,4.16,1,0,1,0,niedrig
+BW-2025-00945,Betrug,Phishing-Mail,Mannheim,1,2025-07-28 14:00:00,0,Desktop PC,Vodafone,11268,138.242.232.10,0.0,1,2,34,0.293,8.01,1,1,1,1,mittel
+BW-2025-00946,Drogenhandel,Phishing-Mail,Heidelberg,0,2025-10-03 08:00:00,0,Tablet,1&1,80464,87.181.6.37,1510.67,1,0,20,0.468,5.82,1,1,1,0,niedrig
+BW-2025-00947,Drogenhandel,Smartphone,Stuttgart,1,2025-08-14 10:00:00,0,Android Smartphone,Vodafone,84473,172.61.38.0,428.77,2,0,14,0.457,12.33,0,0,1,1,mittel
+BW-2025-00948,Sachbeschädigung,Messer,Heidelberg,0,2025-12-31 21:00:00,0,Tablet,Telekom,60650,59.54.246.185,14109.29,3,2,53,0.51,16.78,1,1,1,0,hoch
+BW-2025-00949,Körperverletzung,Laptop,Freiburg,1,2025-07-27 23:00:00,1,Desktop PC,1&1,22221,54.226.107.209,10809.87,4,3,23,0.779,15.51,1,0,1,1,hoch
+BW-2025-00950,Diebstahl,Brecheisen,Stuttgart,1,2025-01-19 07:00:00,0,Desktop PC,1&1,34470,61.241.148.216,0.0,1,0,16,0.409,4.59,0,1,0,0,niedrig
+BW-2025-00951,Diebstahl,Messer,Pforzheim,0,2025-07-18 17:00:00,0,Android Smartphone,Vodafone,96451,145.62.203.226,837.92,1,1,13,0.296,10.35,1,0,1,1,niedrig
+BW-2025-00952,Diebstahl,keines,Stuttgart,1,2025-04-28 07:00:00,0,Laptop,Telekom,52830,116.46.51.185,5592.48,2,3,12,0.591,11.16,1,0,0,0,mittel
+BW-2025-00953,Sachbeschädigung,Brecheisen,Karlsruhe,1,2025-11-23 11:00:00,0,Android Smartphone,1&1,19012,110.149.9.196,7691.14,1,0,31,0.835,12.23,1,1,1,0,mittel
+BW-2025-00954,Raub,Brecheisen,Heidelberg,0,2025-11-21 02:00:00,1,Laptop,1&1,30811,165.140.179.215,8434.75,1,3,12,0.63,9.87,1,0,1,1,mittel
+BW-2025-00955,Cybercrime,Fahrzeug,Heilbronn,1,2025-01-06 01:00:00,1,Laptop,Vodafone,28702,125.27.119.7,1934.88,1,2,15,0.154,8.43,1,1,0,1,niedrig
+BW-2025-00956,Diebstahl,Messer,Heidelberg,0,2025-12-02 03:00:00,1,Desktop PC,O2,70319,129.115.53.151,232.19,1,0,0,0.163,0.65,1,1,1,0,niedrig
+BW-2025-00957,Betrug,Laptop,Pforzheim,0,2025-07-23 01:00:00,1,Tablet,O2,61260,167.239.94.244,2149.67,2,1,16,0.863,14.81,0,0,1,1,mittel
+BW-2025-00958,Einbruchdiebstahl,Messer,Heidelberg,0,2025-11-09 13:00:00,0,Android Smartphone,1&1,60418,179.185.120.32,587.08,1,1,23,0.651,10.49,1,0,1,0,mittel
+BW-2025-00959,Einbruchdiebstahl,Laptop,Ulm,0,2025-04-18 19:00:00,0,iPhone,Vodafone,45884,171.202.15.142,3129.95,1,2,24,0.661,22.32,0,1,0,0,mittel
+BW-2025-00960,Cybercrime,Laptop,Heidelberg,0,2025-03-24 18:00:00,0,Tablet,1&1,58330,30.151.181.66,10388.61,1,6,66,0.768,7.82,0,1,1,1,hoch
+BW-2025-00961,Diebstahl,Phishing-Mail,Ulm,0,2025-06-22 13:00:00,0,Tablet,Vodafone,37180,140.141.114.175,0.0,2,3,45,0.637,15.78,1,1,1,1,hoch
+BW-2025-00962,Betrug,keines,Stuttgart,1,2025-09-18 04:00:00,1,iPhone,1&1,55043,201.247.17.10,16138.65,4,2,42,0.579,16.68,1,0,1,0,hoch
+BW-2025-00963,Sachbeschädigung,Fahrzeug,Ulm,0,2025-06-21 01:00:00,1,iPhone,Telekom,25031,192.135.141.51,2824.32,3,1,15,0.677,23.94,0,1,0,1,mittel
+BW-2025-00964,Einbruchdiebstahl,Phishing-Mail,Heilbronn,1,2025-02-16 13:00:00,0,Tablet,1&1,20819,151.101.208.27,4769.66,4,5,29,0.8,1.37,1,1,1,1,hoch
+BW-2025-00965,Raub,keines,Mannheim,1,2025-04-21 03:00:00,1,Tablet,O2,32359,15.159.251.95,6117.39,1,4,21,0.676,12.14,0,0,1,0,mittel
+BW-2025-00966,Diebstahl,Brecheisen,Pforzheim,0,2025-04-25 23:00:00,1,iPhone,1&1,20169,182.224.91.34,7866.97,1,1,3,0.141,17.05,1,1,0,1,mittel
+BW-2025-00967,Betrug,Online-Plattform,Mannheim,1,2025-05-02 11:00:00,0,Tablet,O2,38399,193.227.185.27,709.35,2,1,12,0.233,4.93,0,0,1,1,niedrig
+BW-2025-00968,Betrug,Fahrzeug,Heilbronn,1,2025-09-24 15:00:00,0,iPhone,Telekom,50412,124.169.28.129,1918.83,1,1,29,0.713,9.57,1,0,1,1,mittel
+BW-2025-00969,Betrug,Smartphone,Stuttgart,1,2025-06-20 11:00:00,0,Tablet,Vodafone,59105,72.16.250.149,7799.42,1,1,40,0.434,18.92,0,1,0,0,mittel
+BW-2025-00970,Raub,Laptop,Stuttgart,1,2025-01-10 22:00:00,1,Tablet,Telekom,54186,221.14.7.52,2722.87,2,4,39,0.359,10.23,1,1,1,0,hoch
+BW-2025-00971,Raub,Laptop,Heidelberg,0,2025-04-25 00:00:00,1,iPhone,Vodafone,15768,117.106.1.73,1572.97,3,1,41,0.15,5.77,0,1,1,0,mittel
+BW-2025-00972,Diebstahl,Phishing-Mail,Freiburg,1,2025-05-22 09:00:00,0,Desktop PC,Vodafone,81002,112.34.232.185,5311.79,3,5,58,0.937,6.21,1,0,1,1,hoch
+BW-2025-00973,Sachbeschädigung,Laptop,Heidelberg,0,2025-09-01 10:00:00,0,Android Smartphone,Telekom,52384,55.114.118.117,640.86,3,1,19,0.595,4.26,1,0,0,1,niedrig
+BW-2025-00974,Betrug,Messer,Freiburg,1,2025-05-26 05:00:00,1,iPhone,1&1,70132,67.88.57.102,329.2,3,4,41,1.0,10.9,1,0,1,1,hoch
+BW-2025-00975,Diebstahl,Online-Plattform,Freiburg,1,2025-05-30 04:00:00,1,iPhone,Telekom,63883,88.49.89.35,642.23,1,0,13,0.303,4.5,0,0,1,1,niedrig
+BW-2025-00976,Körperverletzung,Laptop,Mannheim,1,2025-08-10 10:00:00,0,Laptop,Telekom,92689,189.65.185.91,4627.03,2,3,21,0.331,3.37,1,0,1,1,mittel
+BW-2025-00977,Sachbeschädigung,Brecheisen,Freiburg,1,2025-11-26 03:00:00,1,Android Smartphone,O2,18849,96.201.116.164,4583.85,1,4,25,0.408,13.27,1,0,1,0,mittel
+BW-2025-00978,Betrug,keines,Ulm,0,2025-12-10 16:00:00,0,Desktop PC,Vodafone,87000,191.98.147.31,8712.29,2,4,50,0.521,44.18,0,1,1,0,hoch
+BW-2025-00979,Betrug,Fahrzeug,Stuttgart,1,2025-07-30 20:00:00,0,Desktop PC,Telekom,40984,199.231.226.152,0.0,3,0,7,0.139,5.62,0,0,0,0,niedrig
+BW-2025-00980,Sachbeschädigung,Fahrzeug,Karlsruhe,1,2025-09-13 16:00:00,0,iPhone,Vodafone,75369,86.238.241.96,1257.83,1,1,17,0.057,3.88,0,0,0,1,niedrig
+BW-2025-00981,Raub,Brecheisen,Ulm,0,2025-06-12 12:00:00,0,Android Smartphone,Telekom,88390,124.152.10.85,1601.04,3,1,13,0.668,0.0,0,1,0,1,niedrig
+BW-2025-00982,Drogenhandel,Brecheisen,Pforzheim,0,2025-12-22 13:00:00,0,Laptop,Telekom,64380,176.230.94.196,2168.85,3,1,12,0.694,0.18,1,0,1,1,mittel
+BW-2025-00983,Cybercrime,Smartphone,Heidelberg,0,2025-06-15 09:00:00,0,Laptop,O2,36976,149.16.85.197,5372.05,1,3,29,0.679,11.0,1,1,1,0,mittel
+BW-2025-00984,Betrug,Fahrzeug,Heidelberg,0,2025-12-22 23:00:00,1,Desktop PC,1&1,52157,57.252.214.12,835.87,1,0,5,0.02,8.07,1,0,0,0,niedrig
+BW-2025-00985,Körperverletzung,Smartphone,Karlsruhe,1,2025-05-12 09:00:00,0,Tablet,Telekom,16829,173.101.223.101,259.88,1,3,24,0.557,4.87,1,0,0,1,mittel
+BW-2025-00986,Einbruchdiebstahl,Fahrzeug,Mannheim,1,2025-05-20 12:00:00,0,iPhone,Vodafone,40973,140.230.147.95,0.0,1,2,9,0.148,4.1,0,0,1,0,niedrig
+BW-2025-00987,Diebstahl,Messer,Heilbronn,1,2025-05-15 20:00:00,0,Laptop,Vodafone,42102,119.140.93.14,1889.81,3,0,22,0.465,5.43,0,0,1,0,niedrig
+BW-2025-00988,Einbruchdiebstahl,Fahrzeug,Pforzheim,0,2025-05-18 11:00:00,0,Laptop,1&1,45633,211.2.141.14,3010.7,2,1,20,0.461,1.48,0,0,0,0,niedrig
+BW-2025-00989,Körperverletzung,Laptop,Freiburg,1,2025-04-25 12:00:00,0,Tablet,1&1,71697,123.254.5.161,10785.27,2,4,30,0.547,4.12,0,1,1,1,mittel
+BW-2025-00990,Sachbeschädigung,Messer,Mannheim,1,2025-09-18 09:00:00,0,Tablet,Telekom,66019,32.78.191.145,7136.87,4,6,27,0.789,19.1,1,1,0,0,mittel
+BW-2025-00991,Cybercrime,Brecheisen,Mannheim,1,2025-11-13 12:00:00,0,Laptop,1&1,50088,127.31.85.69,1216.01,6,4,50,0.701,38.69,0,1,1,1,hoch
+BW-2025-00992,Cybercrime,Messer,Heilbronn,1,2025-04-04 06:00:00,0,iPhone,O2,71506,61.26.109.113,1751.99,3,0,10,0.203,7.82,0,1,0,0,niedrig
+BW-2025-00993,Einbruchdiebstahl,Fahrzeug,Stuttgart,1,2025-12-02 11:00:00,0,iPhone,O2,63025,117.115.48.179,506.17,3,1,26,0.249,15.04,1,1,0,1,mittel
+BW-2025-00994,Sachbeschädigung,Phishing-Mail,Ulm,0,2025-02-18 15:00:00,0,Tablet,O2,63580,20.240.143.36,2303.61,2,0,23,0.25,14.58,1,1,0,1,mittel
+BW-2025-00995,Diebstahl,Messer,Mannheim,1,2025-06-24 06:00:00,0,Android Smartphone,1&1,55688,141.117.177.138,7038.37,1,3,33,0.369,10.15,0,0,0,1,mittel
+BW-2025-00996,Körperverletzung,Phishing-Mail,Stuttgart,1,2025-06-18 11:00:00,0,Tablet,1&1,41765,133.76.56.239,3464.33,2,0,28,0.729,13.55,0,1,1,0,mittel
+BW-2025-00997,Betrug,Phishing-Mail,Stuttgart,1,2025-11-07 22:00:00,1,Android Smartphone,O2,99268,48.185.222.130,7296.16,3,1,52,0.669,17.32,1,1,0,1,hoch
+BW-2025-00998,Cybercrime,Fahrzeug,Mannheim,1,2025-03-05 00:00:00,1,iPhone,Telekom,94462,193.44.9.191,1342.02,2,2,15,0.414,6.16,0,0,0,0,niedrig
+BW-2025-00999,Sachbeschädigung,Messer,Karlsruhe,1,2025-10-16 17:00:00,0,Desktop PC,Vodafone,31734,120.71.114.248,8340.69,1,1,9,0.635,21.93,1,1,0,0,mittel
+BW-2025-01000,Cybercrime,Online-Plattform,Ulm,0,2025-10-08 23:00:00,1,Desktop PC,O2,21648,38.249.98.165,4580.87,2,3,31,0.559,14.73,1,1,0,0,mittel
+BW-2025-01001,Drogenhandel,Brecheisen,Pforzheim,0,2025-07-30 07:00:00,0,Android Smartphone,1&1,10841,54.28.45.61,1240.48,2,1,9,0.189,1.52,1,0,1,0,niedrig
+BW-2025-01002,Körperverletzung,Smartphone,Karlsruhe,1,2025-12-25 08:00:00,0,iPhone,1&1,64636,178.142.179.124,11741.94,3,4,47,0.86,28.19,0,0,1,1,hoch
+BW-2025-01003,Cybercrime,Messer,Mannheim,1,2025-05-08 05:00:00,1,Android Smartphone,O2,27607,61.177.121.43,2478.51,1,1,14,0.202,10.49,0,0,0,0,niedrig
+BW-2025-01004,Körperverletzung,Brecheisen,Karlsruhe,1,2025-05-07 17:00:00,0,Tablet,Vodafone,36337,26.25.114.219,659.11,1,0,7,0.235,6.96,1,0,1,1,niedrig
+BW-2025-01005,Einbruchdiebstahl,Fahrzeug,Pforzheim,0,2025-03-16 13:00:00,0,Tablet,1&1,93418,53.135.62.2,5888.48,1,1,28,0.946,0.76,1,0,1,1,mittel
+BW-2025-01006,Diebstahl,Online-Plattform,Karlsruhe,1,2025-07-08 22:00:00,1,Tablet,Telekom,18423,98.151.68.186,10681.1,1,1,30,0.777,43.1,1,0,1,1,hoch
+BW-2025-01007,Betrug,Fahrzeug,Heilbronn,1,2025-01-07 11:00:00,0,Tablet,Telekom,18002,79.29.222.51,4901.7,1,4,25,0.616,6.61,0,1,0,1,mittel
+BW-2025-01008,Betrug,Smartphone,Karlsruhe,1,2025-09-14 10:00:00,0,Android Smartphone,Telekom,89034,144.35.147.215,993.83,1,1,33,0.521,0.31,0,0,0,0,niedrig
+BW-2025-01009,Cybercrime,keines,Heilbronn,1,2025-08-18 18:00:00,0,Laptop,1&1,58599,185.142.96.117,3749.97,3,3,24,0.693,4.84,0,0,1,0,mittel
+BW-2025-01010,Drogenhandel,Phishing-Mail,Heidelberg,0,2025-09-16 08:00:00,0,Laptop,1&1,90059,25.167.97.166,3341.74,2,2,21,0.51,20.18,0,1,1,0,mittel
+BW-2025-01011,Drogenhandel,Phishing-Mail,Karlsruhe,1,2025-10-02 07:00:00,0,iPhone,1&1,28201,17.146.254.2,8475.07,5,1,32,0.554,17.88,0,1,0,0,mittel
+BW-2025-01012,Diebstahl,Online-Plattform,Heidelberg,0,2025-11-21 09:00:00,0,Laptop,1&1,77490,116.194.170.23,4566.58,3,1,8,0.473,15.72,1,0,0,1,mittel
+BW-2025-01013,Raub,Smartphone,Freiburg,1,2025-02-01 05:00:00,1,iPhone,O2,52667,184.140.200.92,4658.06,4,2,21,0.486,6.75,1,0,0,0,mittel
+BW-2025-01014,Körperverletzung,Fahrzeug,Heilbronn,1,2025-08-26 19:00:00,0,Tablet,Telekom,66087,132.227.32.46,10190.34,3,4,60,0.958,7.88,1,1,1,0,hoch
+BW-2025-01015,Diebstahl,Messer,Pforzheim,0,2025-04-08 17:00:00,0,Desktop PC,Vodafone,78164,157.103.142.16,13628.19,2,3,41,0.685,20.83,1,0,1,1,hoch
+BW-2025-01016,Betrug,Brecheisen,Heilbronn,1,2025-11-15 16:00:00,0,iPhone,O2,32027,125.63.216.90,10768.03,5,1,42,0.793,10.38,1,0,1,1,hoch
+BW-2025-01017,Diebstahl,keines,Heidelberg,0,2025-04-27 08:00:00,0,Android Smartphone,Vodafone,96474,190.45.60.129,585.86,2,1,19,0.381,1.55,0,0,1,1,niedrig
+BW-2025-01018,Diebstahl,Laptop,Ulm,0,2025-08-11 21:00:00,0,iPhone,Vodafone,60264,207.44.208.186,0.0,1,1,29,0.351,4.84,1,1,1,1,mittel
+BW-2025-01019,Cybercrime,Fahrzeug,Pforzheim,0,2025-04-03 16:00:00,0,Tablet,Telekom,80063,173.48.54.210,6748.97,2,4,35,0.472,0.0,1,1,1,0,mittel
+BW-2025-01020,Körperverletzung,Laptop,Freiburg,1,2025-08-23 07:00:00,0,Android Smartphone,Telekom,59415,194.170.83.182,7571.94,1,5,38,0.782,0.0,1,0,1,1,hoch
+BW-2025-01021,Sachbeschädigung,Messer,Heidelberg,0,2025-03-20 23:00:00,1,Android Smartphone,O2,48138,33.114.56.14,1125.44,3,1,10,0.272,7.26,0,0,1,0,niedrig
+BW-2025-01022,Diebstahl,Laptop,Freiburg,1,2025-03-21 06:00:00,0,Desktop PC,Vodafone,85083,105.36.3.142,6243.71,1,2,24,0.281,15.63,1,1,0,0,mittel
+BW-2025-01023,Einbruchdiebstahl,Phishing-Mail,Ulm,0,2025-08-01 04:00:00,1,Desktop PC,Telekom,18111,162.14.40.122,8017.93,1,1,31,0.413,6.84,1,1,1,1,hoch
+BW-2025-01024,Raub,Messer,Ulm,0,2025-03-28 05:00:00,1,Laptop,O2,78124,180.235.11.249,4387.15,2,2,28,0.52,23.8,0,1,0,1,mittel
+BW-2025-01025,Raub,Laptop,Ulm,0,2025-08-04 16:00:00,0,iPhone,1&1,28966,219.239.18.153,0.0,2,0,9,0.056,0.0,0,0,0,0,niedrig
+BW-2025-01026,Cybercrime,Fahrzeug,Heilbronn,1,2025-07-13 11:00:00,0,Tablet,Vodafone,29119,202.63.81.213,0.0,1,1,16,0.118,1.53,0,1,1,0,niedrig
+BW-2025-01027,Betrug,Phishing-Mail,Pforzheim,0,2025-07-06 16:00:00,0,Desktop PC,Telekom,85231,133.112.188.248,3435.7,3,1,14,0.528,10.8,0,0,1,0,mittel
+BW-2025-01028,Raub,keines,Pforzheim,0,2025-08-16 10:00:00,0,Tablet,Telekom,30014,222.240.64.88,231.88,1,4,18,0.509,5.15,0,1,0,0,niedrig
+BW-2025-01029,Raub,Fahrzeug,Stuttgart,1,2025-09-25 11:00:00,0,Android Smartphone,1&1,49203,219.164.163.26,1630.62,1,0,17,0.0,5.83,1,0,1,1,niedrig
+BW-2025-01030,Einbruchdiebstahl,Smartphone,Ulm,0,2025-11-20 04:00:00,1,Laptop,1&1,55653,204.249.142.144,0.0,1,3,12,0.509,8.84,0,1,1,1,niedrig
+BW-2025-01031,Sachbeschädigung,Messer,Karlsruhe,1,2025-07-12 18:00:00,0,Desktop PC,O2,35571,190.123.219.153,9252.36,2,3,28,0.918,36.65,1,1,0,1,hoch
+BW-2025-01032,Sachbeschädigung,Laptop,Mannheim,1,2025-07-27 13:00:00,0,Laptop,Telekom,69969,178.150.23.196,546.61,2,1,24,0.139,5.89,0,1,1,1,mittel
+BW-2025-01033,Einbruchdiebstahl,Brecheisen,Heilbronn,1,2025-04-09 20:00:00,0,Tablet,O2,37494,66.215.202.179,3351.74,3,0,17,0.285,0.0,1,0,0,0,niedrig
+BW-2025-01034,Raub,Smartphone,Freiburg,1,2025-04-11 18:00:00,0,Desktop PC,Telekom,59355,120.87.38.146,1373.59,4,1,42,0.373,14.04,1,0,1,1,mittel
+BW-2025-01035,Einbruchdiebstahl,Smartphone,Karlsruhe,1,2025-05-03 15:00:00,0,Laptop,1&1,16877,41.10.113.87,0.0,2,1,1,0.472,3.97,1,1,0,0,niedrig
+BW-2025-01036,Drogenhandel,Messer,Mannheim,1,2025-01-24 04:00:00,1,Tablet,Vodafone,25571,72.168.179.122,5449.24,2,1,13,0.448,16.62,0,0,1,0,mittel
+BW-2025-01037,Sachbeschädigung,keines,Pforzheim,0,2025-09-14 06:00:00,0,Desktop PC,Vodafone,97914,179.148.177.30,3944.57,1,2,9,0.412,1.79,0,1,1,0,mittel
+BW-2025-01038,Diebstahl,keines,Ulm,0,2025-09-08 18:00:00,0,Laptop,1&1,11520,41.184.88.99,915.43,2,1,23,0.38,2.86,0,1,0,1,niedrig
+BW-2025-01039,Diebstahl,Laptop,Karlsruhe,1,2025-01-16 17:00:00,0,Tablet,Vodafone,86919,157.174.241.60,1642.66,1,1,29,0.403,10.15,1,1,0,0,mittel
+BW-2025-01040,Körperverletzung,Online-Plattform,Karlsruhe,1,2025-09-20 02:00:00,1,Desktop PC,Vodafone,73463,176.4.73.37,0.0,1,3,53,0.906,5.84,1,1,0,0,mittel
+BW-2025-01041,Sachbeschädigung,Online-Plattform,Mannheim,1,2025-02-13 08:00:00,0,iPhone,O2,80452,58.84.240.229,6127.22,3,0,20,0.463,1.13,0,1,1,0,mittel
+BW-2025-01042,Sachbeschädigung,Smartphone,Ulm,0,2025-02-13 15:00:00,0,Desktop PC,1&1,78013,160.176.79.138,933.53,3,2,43,0.44,17.36,1,1,0,1,hoch
+BW-2025-01043,Diebstahl,Fahrzeug,Karlsruhe,1,2025-01-04 15:00:00,0,Android Smartphone,Vodafone,82708,125.125.218.132,3483.16,2,3,16,0.454,11.81,1,0,1,0,mittel
+BW-2025-01044,Drogenhandel,Laptop,Stuttgart,1,2025-04-21 01:00:00,1,Android Smartphone,Vodafone,21510,154.255.192.109,2179.88,1,1,14,0.0,9.02,1,1,0,0,niedrig
+BW-2025-01045,Cybercrime,Smartphone,Karlsruhe,1,2025-09-06 04:00:00,1,iPhone,O2,81359,54.238.47.255,6628.82,4,3,36,0.849,14.62,0,1,0,0,mittel
+BW-2025-01046,Sachbeschädigung,Smartphone,Heidelberg,0,2025-12-21 14:00:00,0,Laptop,Telekom,48456,179.190.141.31,8651.72,3,2,20,0.712,19.48,1,1,1,0,mittel
+BW-2025-01047,Körperverletzung,Brecheisen,Heilbronn,1,2025-12-15 13:00:00,0,Laptop,O2,37504,187.28.51.126,12124.55,2,3,37,0.762,27.3,1,0,1,1,hoch
+BW-2025-01048,Diebstahl,Smartphone,Heidelberg,0,2025-04-07 17:00:00,0,iPhone,Vodafone,49283,66.24.49.243,1252.45,2,1,17,0.358,7.72,0,0,1,0,niedrig
+BW-2025-01049,Einbruchdiebstahl,Fahrzeug,Freiburg,1,2025-10-16 02:00:00,1,Laptop,Vodafone,19746,151.194.224.240,5026.21,2,3,39,0.771,24.42,1,1,1,1,hoch
+BW-2025-01050,Cybercrime,Online-Plattform,Ulm,0,2025-11-08 08:00:00,0,Android Smartphone,1&1,20912,76.17.230.129,0.0,2,2,18,0.26,3.25,0,0,1,0,niedrig
+BW-2025-01051,Sachbeschädigung,Brecheisen,Heidelberg,0,2025-05-12 12:00:00,0,iPhone,O2,58777,155.74.218.55,926.55,3,0,13,0.226,1.26,1,1,1,1,niedrig
+BW-2025-01052,Einbruchdiebstahl,Messer,Mannheim,1,2025-09-16 16:00:00,0,Laptop,1&1,13396,165.134.1.61,541.05,1,0,16,0.332,6.74,0,1,1,0,niedrig
+BW-2025-01053,Raub,Laptop,Pforzheim,0,2025-10-05 16:00:00,0,iPhone,Telekom,18645,95.80.198.31,11978.56,4,2,64,0.688,14.43,0,0,0,1,hoch
+BW-2025-01054,Diebstahl,Phishing-Mail,Freiburg,1,2025-06-04 02:00:00,1,Laptop,Vodafone,45867,13.134.103.93,954.35,1,0,9,0.243,0.0,1,0,0,0,niedrig
+BW-2025-01055,Diebstahl,Messer,Heidelberg,0,2025-03-26 07:00:00,0,Tablet,Telekom,33033,145.199.28.22,11555.19,2,1,44,1.0,28.25,1,1,0,0,hoch
+BW-2025-01056,Cybercrime,keines,Karlsruhe,1,2025-07-12 12:00:00,0,Desktop PC,O2,82291,80.99.202.254,4170.66,2,4,14,0.373,4.9,0,0,0,1,mittel
+BW-2025-01057,Diebstahl,Smartphone,Mannheim,1,2025-05-04 08:00:00,0,Laptop,1&1,55242,217.91.150.31,325.45,2,0,4,0.437,5.34,1,1,1,1,niedrig
+BW-2025-01058,Sachbeschädigung,keines,Mannheim,1,2025-12-17 14:00:00,0,Laptop,Telekom,30380,179.86.11.116,7067.09,2,0,12,0.412,5.94,0,0,1,0,mittel
+BW-2025-01059,Einbruchdiebstahl,Brecheisen,Ulm,0,2025-02-06 02:00:00,1,Desktop PC,O2,93780,105.194.50.47,2564.02,2,1,10,0.383,12.02,1,0,0,0,mittel
+BW-2025-01060,Raub,Messer,Heilbronn,1,2025-08-30 15:00:00,0,Android Smartphone,1&1,71428,139.146.24.155,0.0,2,1,27,0.445,3.86,0,1,1,1,mittel
+BW-2025-01061,Cybercrime,Online-Plattform,Ulm,0,2025-07-28 08:00:00,0,Desktop PC,Vodafone,93313,33.65.217.96,857.18,1,2,18,0.025,4.4,0,0,0,0,niedrig
+BW-2025-01062,Cybercrime,Messer,Freiburg,1,2025-02-22 08:00:00,0,iPhone,Telekom,41462,34.248.95.91,3278.62,1,0,16,0.157,6.75,0,1,0,0,niedrig
+BW-2025-01063,Einbruchdiebstahl,Smartphone,Karlsruhe,1,2025-01-08 07:00:00,0,Laptop,1&1,65572,184.82.9.231,6207.53,3,2,53,0.984,29.26,1,1,1,0,hoch
+BW-2025-01064,Einbruchdiebstahl,keines,Heilbronn,1,2025-10-04 19:00:00,0,Desktop PC,Telekom,11821,168.196.245.131,6082.49,1,2,6,0.595,12.1,1,0,0,0,mittel
+BW-2025-01065,Raub,Smartphone,Ulm,0,2025-06-16 17:00:00,0,Desktop PC,O2,96661,221.199.241.118,1360.2,1,0,19,0.547,7.02,1,0,1,0,niedrig
+BW-2025-01066,Betrug,keines,Mannheim,1,2025-04-30 08:00:00,0,Desktop PC,Vodafone,19846,104.247.12.193,2162.84,3,0,21,0.244,8.36,0,0,1,0,niedrig
+BW-2025-01067,Einbruchdiebstahl,Phishing-Mail,Stuttgart,1,2025-09-16 19:00:00,0,Tablet,1&1,32345,106.143.133.56,4455.08,3,3,29,0.883,8.93,0,1,0,0,mittel
+BW-2025-01068,Diebstahl,Phishing-Mail,Heidelberg,0,2025-07-18 00:00:00,1,Desktop PC,Telekom,49213,134.174.15.59,5323.97,2,2,18,0.998,22.61,1,0,0,1,hoch
+BW-2025-01069,Cybercrime,Online-Plattform,Heidelberg,0,2025-05-29 10:00:00,0,iPhone,1&1,49953,175.153.235.146,8944.91,3,2,43,0.795,20.45,1,1,1,0,hoch
+BW-2025-01070,Betrug,keines,Heilbronn,1,2025-01-05 00:00:00,1,iPhone,O2,90678,128.217.192.124,7215.0,2,3,56,0.953,23.49,1,1,0,0,hoch
+BW-2025-01071,Drogenhandel,Online-Plattform,Freiburg,1,2025-08-27 17:00:00,0,iPhone,Telekom,34400,113.237.239.48,7495.28,1,1,37,0.374,4.09,0,0,1,0,mittel
+BW-2025-01072,Drogenhandel,Smartphone,Karlsruhe,1,2025-05-15 20:00:00,0,Tablet,1&1,21107,146.114.223.74,1396.71,1,0,22,0.285,7.23,0,0,1,0,niedrig
+BW-2025-01073,Einbruchdiebstahl,Messer,Karlsruhe,1,2025-04-17 05:00:00,1,Tablet,Telekom,96066,75.8.212.218,7338.69,5,2,19,0.835,22.01,0,0,1,0,hoch
+BW-2025-01074,Raub,keines,Ulm,0,2025-09-06 19:00:00,0,Laptop,O2,66143,57.163.123.120,192.47,1,1,10,0.497,0.0,0,0,1,0,niedrig
+BW-2025-01075,Cybercrime,Laptop,Heilbronn,1,2025-04-06 11:00:00,0,Tablet,Vodafone,56365,202.65.92.152,5198.24,4,1,40,0.684,27.44,1,0,1,1,hoch
+BW-2025-01076,Sachbeschädigung,Smartphone,Freiburg,1,2025-05-10 09:00:00,0,Android Smartphone,Telekom,47342,21.78.60.207,712.18,2,0,31,0.344,6.45,1,1,1,1,mittel
+BW-2025-01077,Einbruchdiebstahl,Messer,Ulm,0,2025-04-20 10:00:00,0,Laptop,Telekom,97320,61.241.34.124,927.21,2,0,28,0.447,2.28,0,1,0,1,niedrig
+BW-2025-01078,Körperverletzung,Online-Plattform,Karlsruhe,1,2025-12-05 07:00:00,0,Tablet,1&1,99356,193.221.189.17,0.0,4,5,14,0.587,13.37,1,1,0,0,mittel
+BW-2025-01079,Einbruchdiebstahl,Phishing-Mail,Ulm,0,2025-03-31 17:00:00,0,Desktop PC,1&1,24382,38.157.255.27,961.6,1,0,17,0.242,1.81,0,1,0,0,niedrig
+BW-2025-01080,Betrug,Brecheisen,Mannheim,1,2025-06-11 10:00:00,0,Laptop,Telekom,16820,184.165.190.185,4966.62,2,1,32,0.891,11.89,0,0,1,1,mittel
+BW-2025-01081,Drogenhandel,Messer,Stuttgart,1,2025-07-17 14:00:00,0,Tablet,1&1,46991,135.101.219.251,5060.23,2,2,39,0.586,1.94,1,0,1,0,mittel
+BW-2025-01082,Diebstahl,Messer,Heidelberg,0,2025-12-16 00:00:00,1,Desktop PC,Vodafone,34492,74.221.14.43,2755.51,5,5,25,0.95,21.11,1,1,0,1,hoch
+BW-2025-01083,Cybercrime,Laptop,Pforzheim,0,2025-05-16 10:00:00,0,Android Smartphone,1&1,72114,191.218.159.4,6158.06,4,1,72,1.0,10.33,1,1,1,1,hoch
+BW-2025-01084,Diebstahl,Brecheisen,Heidelberg,0,2025-06-06 14:00:00,0,Desktop PC,Vodafone,25789,44.222.35.96,2282.8,4,1,58,0.824,7.77,0,0,0,1,hoch
+BW-2025-01085,Sachbeschädigung,Smartphone,Pforzheim,0,2025-10-19 00:00:00,1,Android Smartphone,Vodafone,12314,168.208.206.4,810.31,1,1,16,0.0,2.2,0,1,0,0,niedrig
+BW-2025-01086,Raub,Laptop,Stuttgart,1,2025-12-25 09:00:00,0,Tablet,1&1,50166,190.61.156.124,2404.04,2,2,8,0.378,2.37,0,1,0,0,niedrig
+BW-2025-01087,Raub,Fahrzeug,Freiburg,1,2025-02-11 21:00:00,0,Tablet,1&1,76828,120.84.165.1,2890.94,1,3,46,0.546,5.67,0,0,1,0,mittel
+BW-2025-01088,Betrug,Online-Plattform,Karlsruhe,1,2025-07-11 12:00:00,0,Laptop,O2,56009,193.42.121.65,11522.63,4,7,40,0.961,16.3,1,0,0,1,hoch
+BW-2025-01089,Sachbeschädigung,Fahrzeug,Freiburg,1,2025-01-28 21:00:00,0,iPhone,Vodafone,10070,24.88.110.226,1869.33,1,2,28,0.611,6.47,1,1,0,1,mittel
+BW-2025-01090,Drogenhandel,Fahrzeug,Pforzheim,0,2025-03-10 18:00:00,0,Tablet,O2,66479,58.81.172.166,3264.32,2,1,29,0.576,8.71,0,0,1,1,mittel
+BW-2025-01091,Cybercrime,keines,Freiburg,1,2025-03-18 03:00:00,1,Laptop,O2,22699,182.64.37.97,6344.64,2,2,39,0.635,12.63,0,0,0,0,mittel
+BW-2025-01092,Betrug,Brecheisen,Freiburg,1,2025-12-28 00:00:00,1,Laptop,O2,89261,106.32.172.6,1042.21,1,1,19,0.488,4.01,0,0,0,0,niedrig
+BW-2025-01093,Raub,Online-Plattform,Heidelberg,0,2025-03-01 13:00:00,0,Desktop PC,1&1,23941,44.103.125.202,0.0,5,1,44,0.956,23.97,1,0,0,1,hoch
+BW-2025-01094,Diebstahl,Smartphone,Heidelberg,0,2025-03-09 08:00:00,0,Android Smartphone,1&1,19814,150.236.154.80,654.57,1,2,20,0.49,11.56,0,0,0,0,niedrig
+BW-2025-01095,Drogenhandel,Online-Plattform,Heilbronn,1,2025-01-30 21:00:00,0,Android Smartphone,Vodafone,26755,60.19.177.58,1213.64,1,1,12,0.234,1.08,0,0,1,0,niedrig
+BW-2025-01096,Sachbeschädigung,Online-Plattform,Freiburg,1,2025-03-22 03:00:00,1,Laptop,1&1,67163,28.85.88.31,2082.79,2,0,15,0.314,4.88,1,0,0,0,niedrig
+BW-2025-01097,Körperverletzung,Messer,Stuttgart,1,2025-03-30 00:00:00,1,Android Smartphone,O2,47965,22.162.76.79,1244.64,1,0,11,0.389,4.14,0,0,0,0,niedrig
+BW-2025-01098,Betrug,Fahrzeug,Ulm,0,2025-04-23 23:00:00,1,Tablet,Telekom,67376,203.47.178.79,903.5,1,0,7,0.29,0.0,0,0,0,1,niedrig
+BW-2025-01099,Sachbeschädigung,Messer,Ulm,0,2025-05-22 06:00:00,0,Desktop PC,O2,34125,11.235.247.37,6525.98,3,7,44,0.841,25.71,1,0,1,0,hoch
+BW-2025-01100,Einbruchdiebstahl,Fahrzeug,Stuttgart,1,2025-12-10 22:00:00,1,Desktop PC,1&1,78822,77.66.252.92,9535.52,3,2,47,0.899,12.44,0,0,0,1,hoch
+BW-2025-01101,Cybercrime,Fahrzeug,Pforzheim,0,2025-04-27 19:00:00,0,Laptop,Telekom,39350,22.173.66.52,649.92,1,0,33,0.492,4.2,0,1,0,0,niedrig
+BW-2025-01102,Raub,Online-Plattform,Stuttgart,1,2025-04-01 18:00:00,0,Android Smartphone,O2,45446,213.102.40.168,4894.82,3,2,46,0.65,18.72,1,0,1,1,hoch
+BW-2025-01103,Betrug,Fahrzeug,Heidelberg,0,2025-01-01 22:00:00,1,Desktop PC,Telekom,95019,99.243.67.89,6860.71,2,5,34,0.414,11.75,1,1,0,0,mittel
+BW-2025-01104,Drogenhandel,Phishing-Mail,Karlsruhe,1,2025-04-02 05:00:00,1,Desktop PC,O2,63522,167.138.22.49,1346.39,2,2,41,0.373,21.82,1,0,1,0,mittel
+BW-2025-01105,Cybercrime,Phishing-Mail,Stuttgart,1,2025-05-30 16:00:00,0,iPhone,O2,46659,56.62.133.75,1663.67,2,2,37,0.667,10.34,0,0,1,1,mittel
+BW-2025-01106,Cybercrime,Smartphone,Karlsruhe,1,2025-05-21 17:00:00,0,Tablet,O2,67958,67.123.204.218,0.0,1,1,36,0.701,13.63,1,0,0,1,mittel
+BW-2025-01107,Drogenhandel,Online-Plattform,Heidelberg,0,2025-04-17 06:00:00,0,Desktop PC,1&1,68465,70.82.53.37,6738.73,4,2,45,0.689,22.42,1,1,1,1,hoch
+BW-2025-01108,Sachbeschädigung,Phishing-Mail,Mannheim,1,2025-12-05 13:00:00,0,Tablet,Telekom,33791,128.154.151.37,2365.79,2,3,29,0.477,18.25,1,0,1,1,mittel
+BW-2025-01109,Einbruchdiebstahl,Brecheisen,Heidelberg,0,2025-05-04 03:00:00,1,Desktop PC,1&1,94877,83.52.13.81,5457.35,3,2,37,0.683,32.1,0,1,0,0,hoch
+BW-2025-01110,Betrug,Online-Plattform,Mannheim,1,2025-05-09 05:00:00,1,Android Smartphone,1&1,19103,47.189.225.168,2920.33,1,1,0,0.432,9.51,0,1,0,0,mittel
+BW-2025-01111,Diebstahl,Messer,Heidelberg,0,2025-03-10 10:00:00,0,Tablet,1&1,79045,46.37.133.180,1876.41,1,1,5,0.316,9.11,0,1,0,0,niedrig
+BW-2025-01112,Betrug,Laptop,Ulm,0,2025-03-17 02:00:00,1,Tablet,Telekom,11776,206.113.46.66,2140.04,2,1,24,0.715,15.77,1,0,1,0,mittel
+BW-2025-01113,Betrug,Brecheisen,Heidelberg,0,2025-04-08 08:00:00,0,iPhone,O2,92232,164.129.210.143,0.0,1,3,24,0.668,12.63,1,0,1,1,mittel
+BW-2025-01114,Betrug,Smartphone,Karlsruhe,1,2025-02-28 00:00:00,1,Desktop PC,O2,36518,46.164.149.113,6534.17,3,2,42,1.0,25.14,1,1,0,1,hoch
+BW-2025-01115,Körperverletzung,keines,Mannheim,1,2025-11-23 22:00:00,1,Laptop,O2,30252,73.106.65.241,4438.44,2,2,31,0.475,7.12,1,0,1,0,mittel
+BW-2025-01116,Betrug,Online-Plattform,Karlsruhe,1,2025-03-12 04:00:00,1,iPhone,Telekom,81387,86.247.13.198,1932.37,3,2,30,0.467,5.34,0,1,0,0,mittel
+BW-2025-01117,Diebstahl,Messer,Mannheim,1,2025-01-17 09:00:00,0,iPhone,Vodafone,39710,120.88.191.99,10584.73,1,1,25,0.73,5.39,0,1,0,1,mittel
+BW-2025-01118,Sachbeschädigung,Brecheisen,Freiburg,1,2025-09-20 15:00:00,0,Laptop,Vodafone,24733,136.231.244.26,234.88,3,2,23,0.367,1.33,1,0,1,0,niedrig
+BW-2025-01119,Einbruchdiebstahl,Laptop,Heidelberg,0,2025-09-01 22:00:00,1,iPhone,O2,19999,168.158.77.162,13.68,1,2,30,0.728,2.33,1,1,0,0,mittel
+BW-2025-01120,Drogenhandel,Laptop,Freiburg,1,2025-04-14 03:00:00,1,iPhone,Telekom,33339,120.186.151.84,5621.34,4,1,44,0.399,13.04,0,1,0,1,mittel
+BW-2025-01121,Drogenhandel,Brecheisen,Ulm,0,2025-07-15 22:00:00,1,Android Smartphone,O2,55663,37.154.171.84,8957.79,1,3,30,0.116,14.28,0,0,0,1,mittel
+BW-2025-01122,Cybercrime,keines,Freiburg,1,2025-01-02 11:00:00,0,Laptop,Telekom,29482,210.28.218.194,3278.5,4,5,27,0.778,46.27,1,1,0,1,hoch
+BW-2025-01123,Einbruchdiebstahl,Phishing-Mail,Mannheim,1,2025-11-23 14:00:00,0,Tablet,1&1,18822,39.248.81.100,5303.17,1,1,42,0.564,16.47,1,1,1,1,mittel
+BW-2025-01124,Sachbeschädigung,Online-Plattform,Mannheim,1,2025-03-29 01:00:00,1,iPhone,O2,33838,207.125.51.111,634.41,1,2,11,0.434,6.22,0,0,0,0,niedrig
+BW-2025-01125,Sachbeschädigung,Phishing-Mail,Freiburg,1,2025-11-25 13:00:00,0,Tablet,1&1,64256,165.11.214.61,6208.15,5,1,40,0.553,15.2,1,0,1,0,mittel
+BW-2025-01126,Drogenhandel,Brecheisen,Heidelberg,0,2025-12-06 08:00:00,0,Tablet,1&1,80614,147.165.49.111,2024.46,2,2,39,0.234,8.42,1,1,0,1,mittel
+BW-2025-01127,Körperverletzung,Fahrzeug,Ulm,0,2025-12-26 17:00:00,0,iPhone,1&1,85743,209.206.197.27,1668.23,2,4,18,0.477,10.19,1,1,0,0,mittel
+BW-2025-01128,Raub,Laptop,Heidelberg,0,2025-05-19 18:00:00,0,Laptop,Telekom,12248,103.198.36.239,4043.68,3,2,13,0.093,4.31,0,0,1,1,mittel
+BW-2025-01129,Körperverletzung,Brecheisen,Karlsruhe,1,2025-09-04 08:00:00,0,iPhone,O2,28264,86.113.72.31,3806.45,4,3,35,0.562,7.61,0,0,1,1,mittel
+BW-2025-01130,Körperverletzung,Brecheisen,Ulm,0,2025-06-03 07:00:00,0,Android Smartphone,Vodafone,17322,202.59.22.129,492.46,1,1,14,0.547,9.04,1,0,0,0,niedrig
+BW-2025-01131,Einbruchdiebstahl,Laptop,Mannheim,1,2025-10-17 22:00:00,1,Tablet,Telekom,58717,24.216.103.229,8239.75,3,9,56,1.0,4.79,1,1,0,1,hoch
+BW-2025-01132,Diebstahl,Laptop,Heilbronn,1,2025-01-21 14:00:00,0,Desktop PC,Vodafone,29252,104.128.165.59,6321.23,1,5,18,0.857,28.1,0,1,1,1,hoch
+BW-2025-01133,Einbruchdiebstahl,Laptop,Heidelberg,0,2025-10-12 07:00:00,0,iPhone,Telekom,29623,206.242.106.57,2364.26,1,0,31,0.0,0.8,0,0,0,0,niedrig
+BW-2025-01134,Einbruchdiebstahl,keines,Mannheim,1,2025-11-17 23:00:00,1,Desktop PC,O2,63939,195.249.133.252,0.0,1,0,15,0.151,7.92,1,0,0,1,niedrig
+BW-2025-01135,Drogenhandel,keines,Stuttgart,1,2025-04-17 10:00:00,0,Laptop,Telekom,17864,175.119.226.90,7125.55,4,2,23,0.449,3.92,1,0,1,1,mittel
+BW-2025-01136,Betrug,Brecheisen,Mannheim,1,2025-10-17 04:00:00,1,iPhone,1&1,99116,127.76.198.174,5009.33,3,3,33,0.7,5.45,1,1,1,1,mittel
+BW-2025-01137,Cybercrime,Online-Plattform,Heidelberg,0,2025-07-05 13:00:00,0,Tablet,Vodafone,22050,144.129.23.161,5055.95,1,2,30,0.771,15.44,1,1,1,0,mittel
+BW-2025-01138,Sachbeschädigung,Brecheisen,Heidelberg,0,2025-05-30 10:00:00,0,Tablet,Telekom,61418,58.6.142.18,224.49,1,1,36,0.698,8.27,0,1,1,1,mittel
+BW-2025-01139,Diebstahl,keines,Heilbronn,1,2025-09-17 17:00:00,0,Laptop,1&1,31603,24.254.246.51,1277.72,1,0,34,0.519,3.23,0,0,1,1,niedrig
+BW-2025-01140,Drogenhandel,Messer,Heidelberg,0,2025-03-13 06:00:00,0,Laptop,Telekom,20198,103.218.3.133,2650.04,4,0,28,0.399,3.58,1,0,1,1,mittel
+BW-2025-01141,Drogenhandel,Smartphone,Heidelberg,0,2025-03-14 16:00:00,0,Laptop,Vodafone,18561,65.63.186.233,2933.31,2,3,26,0.884,11.83,0,0,1,1,mittel
+BW-2025-01142,Betrug,Online-Plattform,Heidelberg,0,2025-01-23 02:00:00,1,Desktop PC,Vodafone,41501,79.232.49.225,14072.49,2,6,43,0.91,19.75,1,1,1,1,hoch
+BW-2025-01143,Diebstahl,Smartphone,Heilbronn,1,2025-08-03 18:00:00,0,iPhone,Telekom,22217,90.0.186.106,3325.7,3,4,69,0.68,18.98,1,1,0,1,hoch
+BW-2025-01144,Betrug,Phishing-Mail,Pforzheim,0,2025-08-03 16:00:00,0,Tablet,Vodafone,61202,196.198.178.107,0.0,1,0,5,0.392,1.38,0,1,1,1,niedrig
+BW-2025-01145,Drogenhandel,Brecheisen,Karlsruhe,1,2025-12-10 18:00:00,0,Laptop,1&1,23238,139.142.173.242,13002.34,4,5,36,0.339,12.88,1,1,0,1,hoch
+BW-2025-01146,Einbruchdiebstahl,Smartphone,Ulm,0,2025-07-18 01:00:00,1,Tablet,Telekom,31131,49.203.46.153,584.43,1,0,28,0.747,6.6,1,0,0,1,niedrig
+BW-2025-01147,Körperverletzung,Laptop,Karlsruhe,1,2025-04-07 03:00:00,1,Android Smartphone,Vodafone,31108,139.106.41.173,1046.89,3,2,35,0.728,12.52,0,1,1,0,mittel
+BW-2025-01148,Drogenhandel,keines,Mannheim,1,2025-09-03 23:00:00,1,Laptop,O2,91719,121.79.142.163,5307.49,3,1,16,0.714,20.08,1,0,1,0,mittel
+BW-2025-01149,Betrug,Messer,Heidelberg,0,2025-04-15 00:00:00,1,Android Smartphone,Telekom,84304,171.182.210.101,1197.3,1,0,37,0.548,3.62,1,0,1,0,niedrig
+BW-2025-01150,Körperverletzung,Laptop,Stuttgart,1,2025-03-01 12:00:00,0,Android Smartphone,O2,75393,35.23.218.197,0.0,2,1,12,0.386,2.56,1,0,0,0,niedrig
+BW-2025-01151,Körperverletzung,Phishing-Mail,Mannheim,1,2025-02-16 12:00:00,0,Laptop,Vodafone,46715,158.150.68.5,2038.42,1,1,20,0.268,8.85,0,1,0,0,niedrig
+BW-2025-01152,Drogenhandel,Phishing-Mail,Karlsruhe,1,2025-11-11 12:00:00,0,iPhone,Vodafone,43809,132.39.161.54,6893.97,3,1,7,0.397,16.57,0,0,0,0,mittel
+BW-2025-01153,Cybercrime,keines,Mannheim,1,2025-01-28 00:00:00,1,iPhone,1&1,57641,84.96.66.176,3467.91,1,1,35,0.486,9.75,1,0,1,0,mittel
+BW-2025-01154,Sachbeschädigung,Messer,Mannheim,1,2025-12-16 20:00:00,0,Tablet,O2,91871,91.75.16.200,3478.73,3,4,45,0.917,20.55,1,1,0,1,hoch
+BW-2025-01155,Drogenhandel,Laptop,Ulm,0,2025-06-29 10:00:00,0,Desktop PC,1&1,99463,21.236.201.77,780.14,1,0,11,0.398,0.0,0,0,1,0,niedrig
+BW-2025-01156,Betrug,Fahrzeug,Stuttgart,1,2025-07-18 10:00:00,0,Android Smartphone,Telekom,59259,51.128.44.255,7381.12,1,1,47,0.683,9.8,1,0,0,1,mittel
+BW-2025-01157,Sachbeschädigung,Laptop,Heidelberg,0,2025-03-05 19:00:00,0,Tablet,1&1,55735,130.67.193.4,652.71,3,1,1,0.426,1.75,1,1,0,0,niedrig
+BW-2025-01158,Körperverletzung,keines,Karlsruhe,1,2025-03-15 23:00:00,1,iPhone,Vodafone,62028,207.169.216.172,10293.5,4,2,37,0.766,51.28,1,1,1,1,hoch
+BW-2025-01159,Sachbeschädigung,Fahrzeug,Ulm,0,2025-08-05 14:00:00,0,Laptop,Telekom,54882,165.183.244.73,4253.11,1,2,18,0.664,15.18,0,1,1,1,mittel
+BW-2025-01160,Körperverletzung,Fahrzeug,Heilbronn,1,2025-11-07 07:00:00,0,iPhone,O2,15017,150.138.113.102,1611.55,1,2,31,0.358,6.31,0,0,0,0,niedrig
+BW-2025-01161,Einbruchdiebstahl,keines,Mannheim,1,2025-01-22 09:00:00,0,Android Smartphone,O2,88784,209.50.85.75,0.0,2,2,14,0.439,12.87,1,1,1,1,mittel
+BW-2025-01162,Sachbeschädigung,Smartphone,Freiburg,1,2025-05-26 16:00:00,0,Tablet,1&1,17088,65.36.101.193,1073.96,3,1,33,0.427,8.26,0,0,1,0,mittel
+BW-2025-01163,Betrug,Messer,Pforzheim,0,2025-02-27 01:00:00,1,Laptop,Vodafone,28577,28.186.246.22,3520.49,1,2,19,0.417,1.75,0,1,1,1,mittel
+BW-2025-01164,Cybercrime,Messer,Karlsruhe,1,2025-10-14 12:00:00,0,Laptop,1&1,78783,65.207.148.41,1628.0,3,0,14,0.1,9.22,1,0,0,1,niedrig
+BW-2025-01165,Cybercrime,Brecheisen,Stuttgart,1,2025-08-22 11:00:00,0,iPhone,1&1,48915,53.30.218.123,2410.21,5,2,45,0.445,1.29,0,1,0,1,mittel
+BW-2025-01166,Raub,Phishing-Mail,Ulm,0,2025-04-20 16:00:00,0,Tablet,1&1,67250,101.205.30.144,712.62,1,2,20,0.387,0.2,0,0,1,0,niedrig
+BW-2025-01167,Sachbeschädigung,Smartphone,Heidelberg,0,2025-08-10 00:00:00,1,iPhone,Vodafone,97040,221.209.37.102,7608.61,3,0,47,0.884,21.58,1,1,0,1,hoch
+BW-2025-01168,Drogenhandel,Smartphone,Mannheim,1,2025-12-07 22:00:00,1,Tablet,Vodafone,51472,40.21.87.28,1883.68,3,0,13,0.566,14.2,0,1,1,1,mittel
+BW-2025-01169,Sachbeschädigung,Online-Plattform,Stuttgart,1,2025-11-03 17:00:00,0,Tablet,Vodafone,93744,159.16.132.56,6696.03,1,4,37,0.636,2.96,1,0,1,1,mittel
+BW-2025-01170,Diebstahl,Smartphone,Heidelberg,0,2025-04-24 09:00:00,0,Android Smartphone,1&1,88766,107.167.140.32,2766.7,1,0,0,0.281,0.0,1,1,1,1,niedrig
+BW-2025-01171,Raub,Phishing-Mail,Heidelberg,0,2025-09-10 18:00:00,0,Android Smartphone,Telekom,57683,15.37.28.113,14090.1,3,7,58,0.51,36.41,0,0,1,1,hoch
+BW-2025-01172,Cybercrime,Online-Plattform,Karlsruhe,1,2025-10-10 15:00:00,0,Tablet,1&1,63790,101.10.233.23,0.0,2,2,34,0.582,12.08,1,0,0,1,mittel
+BW-2025-01173,Drogenhandel,Messer,Freiburg,1,2025-11-10 05:00:00,1,iPhone,Vodafone,66149,106.132.227.197,2657.43,2,2,31,0.957,14.52,1,1,1,0,mittel
+BW-2025-01174,Einbruchdiebstahl,Brecheisen,Ulm,0,2025-10-26 15:00:00,0,Tablet,O2,93113,83.130.246.235,1357.52,2,1,13,0.039,4.86,0,0,0,1,niedrig
+BW-2025-01175,Diebstahl,Laptop,Karlsruhe,1,2025-10-08 18:00:00,0,iPhone,Telekom,23588,138.20.100.179,670.65,1,1,17,0.75,3.3,1,0,1,0,niedrig
+BW-2025-01176,Diebstahl,keines,Stuttgart,1,2025-05-25 15:00:00,0,Laptop,1&1,39213,209.225.159.215,3082.22,3,2,26,0.772,12.78,0,0,1,1,mittel
+BW-2025-01177,Körperverletzung,Messer,Karlsruhe,1,2025-03-26 22:00:00,1,Android Smartphone,1&1,55955,214.51.71.138,581.25,1,3,35,0.584,12.89,1,0,1,1,mittel
+BW-2025-01178,Körperverletzung,Messer,Ulm,0,2025-06-02 20:00:00,0,iPhone,O2,76527,83.154.76.164,4212.59,1,3,39,0.445,21.76,0,0,0,0,mittel
+BW-2025-01179,Cybercrime,Online-Plattform,Pforzheim,0,2025-01-03 20:00:00,0,Tablet,Vodafone,64336,19.93.93.1,4283.1,1,3,16,0.623,19.62,0,0,0,1,mittel
+BW-2025-01180,Betrug,Smartphone,Mannheim,1,2025-08-17 18:00:00,0,Laptop,O2,32336,157.122.224.78,6599.56,1,3,55,0.541,23.27,1,1,0,1,hoch
+BW-2025-01181,Sachbeschädigung,Fahrzeug,Ulm,0,2025-02-05 05:00:00,1,Android Smartphone,1&1,85740,120.217.168.121,2049.35,1,2,28,0.359,0.0,0,0,0,0,niedrig
+BW-2025-01182,Einbruchdiebstahl,Messer,Mannheim,1,2025-12-20 03:00:00,1,Tablet,O2,30767,122.249.140.247,5302.95,1,4,43,0.443,28.16,1,0,1,1,hoch
+BW-2025-01183,Raub,Laptop,Mannheim,1,2025-09-25 14:00:00,0,Desktop PC,Telekom,92223,77.158.112.224,3506.67,2,3,19,0.231,4.7,0,0,1,0,niedrig
+BW-2025-01184,Einbruchdiebstahl,Phishing-Mail,Heidelberg,0,2025-01-18 12:00:00,0,iPhone,Telekom,67333,13.244.41.143,2106.21,3,5,64,0.511,5.37,1,1,1,0,hoch
+BW-2025-01185,Einbruchdiebstahl,Smartphone,Karlsruhe,1,2025-01-18 06:00:00,0,Desktop PC,1&1,27111,127.38.23.231,3484.16,2,1,29,0.662,8.96,0,1,0,0,mittel
+BW-2025-01186,Drogenhandel,Brecheisen,Heidelberg,0,2025-05-13 07:00:00,0,Android Smartphone,O2,80178,73.200.254.88,104.36,2,3,19,0.536,9.06,1,1,1,1,mittel
+BW-2025-01187,Sachbeschädigung,Online-Plattform,Stuttgart,1,2025-04-09 03:00:00,1,Laptop,Telekom,92239,16.236.142.159,537.91,1,0,24,0.402,2.57,1,0,0,0,niedrig
+BW-2025-01188,Diebstahl,Laptop,Heilbronn,1,2025-03-15 02:00:00,1,Desktop PC,Telekom,28590,83.79.127.124,2003.93,1,0,18,0.302,7.7,0,0,0,0,niedrig
+BW-2025-01189,Cybercrime,Brecheisen,Karlsruhe,1,2025-09-04 17:00:00,0,iPhone,1&1,37259,111.11.123.133,0.0,2,0,21,0.558,9.5,0,0,1,0,niedrig
+BW-2025-01190,Diebstahl,keines,Stuttgart,1,2025-11-29 03:00:00,1,Tablet,Telekom,92009,30.137.58.112,1927.11,1,0,39,0.44,0.96,0,0,1,0,mittel
+BW-2025-01191,Raub,Messer,Ulm,0,2025-04-20 23:00:00,1,Laptop,1&1,33567,87.123.52.226,1375.46,1,1,5,0.385,8.11,1,0,0,0,niedrig
+BW-2025-01192,Betrug,Brecheisen,Stuttgart,1,2025-08-25 17:00:00,0,iPhone,O2,73427,168.47.110.118,17254.64,2,5,40,0.615,16.46,1,1,0,1,hoch
+BW-2025-01193,Betrug,Brecheisen,Pforzheim,0,2025-01-21 04:00:00,1,iPhone,Vodafone,80248,16.229.212.97,0.0,1,2,11,0.436,6.66,0,0,1,0,niedrig
+BW-2025-01194,Einbruchdiebstahl,Fahrzeug,Freiburg,1,2025-01-21 03:00:00,1,iPhone,Vodafone,52931,46.120.255.68,434.05,2,0,20,0.538,6.21,0,1,0,0,niedrig
+BW-2025-01195,Raub,Laptop,Mannheim,1,2025-11-25 18:00:00,0,Laptop,O2,36114,34.139.85.231,8242.22,1,2,10,0.628,12.62,0,0,1,1,mittel
+BW-2025-01196,Drogenhandel,Online-Plattform,Heilbronn,1,2025-12-16 23:00:00,1,Tablet,1&1,62421,60.108.0.188,3070.06,1,3,28,0.467,8.48,1,1,1,0,mittel
+BW-2025-01197,Cybercrime,Brecheisen,Heidelberg,0,2025-03-12 05:00:00,1,Laptop,1&1,86499,214.12.23.9,7546.67,3,3,20,0.71,4.55,1,0,0,0,mittel
+BW-2025-01198,Cybercrime,Brecheisen,Heidelberg,0,2025-11-01 13:00:00,0,Tablet,1&1,65540,163.169.17.135,0.0,1,0,0,0.314,7.7,0,0,1,0,niedrig
+BW-2025-01199,Cybercrime,Phishing-Mail,Karlsruhe,1,2025-10-21 01:00:00,1,Desktop PC,1&1,36177,156.48.56.119,1880.66,2,1,11,0.485,0.0,1,0,1,0,niedrig
