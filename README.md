@@ -6,11 +6,15 @@ The goal of this repository is to provide participants with a **hands-on environ
 
 ---
 
-## Contents
+# Contents
 
-### Datasets
+## Datasets
 
-This repository includes the **NSL-KDD dataset**, a well-known benchmark dataset used in research on **intrusion detection systems (IDS)** and machine learning.
+This repository contains multiple datasets used in the seminar exercises.
+
+### 1. NSL-KDD Dataset
+
+The repository includes the **NSL-KDD dataset**, a well-known benchmark dataset used in research on **intrusion detection systems (IDS)** and machine learning.
 
 The dataset is a refined version of the original **KDD’99 dataset** and aims to address several of its limitations, such as redundant records and biased evaluation results.
 
@@ -18,9 +22,7 @@ Because publicly available datasets for network intrusion detection are limited,
 
 ---
 
-## Available Dataset Files
-
-The repository contains several versions of the dataset for experimentation:
+### Available Dataset Files
 
 | File | Description |
 |-----|-------------|
@@ -48,24 +50,51 @@ These improvements help produce **more reliable and comparable evaluation result
 
 ---
 
-## Original Source
+## Synthetic Police Investigation Dataset
 
-The dataset is originally hosted by the **University of New Brunswick (UNB)**.
+This repository also includes a **synthetic police investigation dataset** designed for educational purposes in AI, data science, and digital investigation analysis.
 
-Since the original hosting location is no longer always available, this repository contains a preserved copy retrieved via the **Internet Archive**.
+The dataset contains **500 synthetic investigation cases** and is intended to simulate simplified structures of investigative data.
 
-Original archived source:
+The data can be used for:
 
-https://web.archive.org/web/20150205070216/http://nsl.cs.unb.ca/NSL-KDD/
+- machine learning classification
+- risk scoring
+- exploratory data analysis
+- data visualization
+- ensemble model experimentation
+
+⚠️ **Important**
+
+The dataset is **fully synthetic** and does **not contain real investigative or personal data**.
 
 ---
 
-## References
+### File
 
-Tavallaee, M., Bagheri, E., Lu, W., & Ghorbani, A. (2009).  
-*A Detailed Analysis of the KDD CUP 99 Data Set.*  
-IEEE Symposium on Computational Intelligence for Security and Defense Applications.
+| File | Description |
+|-----|-------------|
+| `polizei_testdatensatz_500faelle.csv` | Synthetic dataset with 500 investigation cases |
 
-McHugh, J. (2000).  
-*Testing intrusion detection systems: a critique of the 1998 and 1999 DARPA intrusion detection evaluations.*  
-ACM Transactions on Information and System Security.
+---
+
+### Dataset Structure
+
+Each row represents a **synthetic investigation case**.
+
+| Field | Description |
+|------|-------------|
+| `case_id` | unique case identifier |
+| `deliktart` | type of offense |
+| `tatmittel` | instrument or method used |
+| `tatort_stadt` | city where the offense occurred |
+| `tatzeit` | timestamp of the offense |
+| `schadenshoehe_eur` | estimated financial damage |
+| `anzahl_verdaechtige` | number of suspects |
+| `vorstrafen_bekannt` | known previous convictions |
+| `digitale_spuren` | digital traces available (0/1) |
+| `gps_daten_vorhanden` | geolocation data available (0/1) |
+| `video_cctv` | CCTV/video evidence available (0/1) |
+| `risiko_klasse` | synthetic risk class (low / medium / high) |
+
+---
