@@ -56,7 +56,7 @@ These improvements help produce **more reliable and comparable evaluation result
 
 ---
 
-# 2. Synthetic Police Investigation Dataset (Version 2)
+# 2. Synthetic Police Investigation Dataset
 
 This repository also contains a **synthetic investigation dataset** designed for educational purposes in AI, data science, and digital investigation analysis.
 
@@ -79,34 +79,7 @@ The dataset is **fully synthetic** and does **not contain real investigative or 
 
 | File | Description |
 |-----|-------------|
-| `polizei_testdatensatz_v2_1200faelle.csv` | Synthetic dataset containing 1200 investigation cases |
-
----
-
-## Dataset Structure
-
-Each row represents a **synthetic investigation case**.
-
-| Field | Description |
-|------|-------------|
-| `case_id` | unique case identifier |
-| `deliktart` | type of offense |
-| `tatmittel` | instrument or method used |
-| `tatort_stadt` | city where the offense occurred |
-| `tatzeit` | timestamp of the offense |
-| `geraet_typ` | device used by suspect |
-| `mobilfunk_provider` | mobile network provider |
-| `cell_id` | simulated mobile cell identifier |
-| `ip_adresse` | simulated IP address from logs |
-| `schadenshoehe_eur` | estimated financial damage |
-| `anzahl_verdaechtige` | number of suspects |
-| `vorstrafen_bekannt` | known previous convictions |
-| `kommunikation_events` | number of communication events |
-| `digitale_spuren` | digital traces available (0/1) |
-| `gps_daten_vorhanden` | geolocation data available (0/1) |
-| `video_cctv` | CCTV/video evidence available (0/1) |
-| `osint_hinweise` | OSINT hints available (0/1) |
-| `risiko_klasse` | synthetic risk class (low / medium / high) |
+| `polizei_testdatensatz_v3_1200faelle.csv` | Synthetic dataset containing 1200 investigation cases |
 
 ⸻
 
