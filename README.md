@@ -145,7 +145,7 @@ This dataset focuses on mapping a described situation to the correct **criminal 
 
 | File | Description |
 |-----|-------------|
-| `tatbestand_dataset_2000.csv` | 2000 synthetic cases for legal classification |
+| `tatbestand_dataset_reasoning_2000.csv` | 2000 synthetic cases for legal classification |
 
 ### Characteristics
 
