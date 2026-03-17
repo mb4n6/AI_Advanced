@@ -103,6 +103,92 @@ The dataset is **fully synthetic** and does **not contain real investigative or 
 
 ---
 
+# 4. Synthetic Police Report NLP Datasets
+
+This repository includes three **synthetic NLP datasets** specifically designed for training and evaluating language models in **police reporting and investigative contexts**.
+
+These datasets are intended for:
+
+- instruction tuning (LLMs)
+- text generation
+- structured information extraction
+- explainable AI (XAI)
+- forensic and investigative training scenarios
+
+⚠️ **Important**
+
+All datasets are **fully synthetic** and contain **no real personal or case data**.
+
+---
+
+## 4.1 Report Summarization Dataset
+
+This dataset contains synthetic police reports that must be summarized into structured, concise statements.
+
+| File | Description |
+|-----|-------------|
+| `bericht_dataset_2000.csv` | 2000 synthetic police reports for summarization tasks |
+
+### Task
+
+- Extract:
+  - time of offense
+  - location
+  - legal classification
+  - suspect description
+
+---
+
+## 4.2 Criminal Offense Classification Dataset
+
+This dataset focuses on mapping a described situation to the correct **criminal offense (StGB)**.
+
+| File | Description |
+|-----|-------------|
+| `tatbestand_dataset_2000.csv` | 2000 synthetic cases for legal classification |
+
+### Characteristics
+
+- includes cybercrime and traditional offenses  
+- requires legal reasoning and justification  
+- contains ambiguity and competing legal interpretations  
+
+---
+
+## 4.3 Initial Police Report Generation Dataset
+
+This dataset trains models to generate formal police reports from structured input data.
+
+| File | Description |
+|-----|-------------|
+| `erstanzeige_dataset_2000.csv` | 2000 synthetic cases for report generation |
+
+### Task
+
+- transform structured input into:
+  - formal police language (Polizei BW style)
+  - coherent narrative text
+  - legally precise description of events  
+
+---
+
+## Didactic Use
+
+These datasets are specifically designed to demonstrate:
+
+- **LLM fine-tuning workflows**
+- **prompt engineering**
+- **model evaluation**
+- **Explainable AI (SHAP / LIME)**
+
+They are particularly suited for:
+
+- law enforcement training
+- digital forensics education
+- AI-assisted investigation scenarios
+
+---
+
 # Original Source (NSL-KDD)
 
 The dataset is originally hosted by the **University of New Brunswick (UNB)**.
